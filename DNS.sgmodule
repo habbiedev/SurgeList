@@ -1,3 +1,7 @@
+#!name=DNS
+#!homepage=https://github.com/VirgilClyne/GetSomeFries/wiki/🌐-DNS
+#!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Server.png
+
 [Host]
 # > 阿里巴巴
 *.alibaba.cn = server:223.5.5.5 // 阿里巴巴
