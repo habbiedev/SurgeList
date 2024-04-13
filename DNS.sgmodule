@@ -69,28 +69,6 @@
 *.smtcdns.net = server:119.29.29.29 // 腾讯云 智能云解析DNS
 url.cn = server:119.29.29.29 // 腾讯短网址
 
-# > 百度
-# refer: https://dudns.baidu.com/support/localdns/Address/index.html
-*.baidu = server:180.76.76.76 // 百度
-*.baidu.com = server:180.76.76.76 // 百度
-*.bdimg.com = server:180.76.76.76 // 百度 静态资源
-*.bdstatic.com = server:180.76.76.76 // 百度 静态资源
-*.baidupcs.* = server:180.76.76.76 // 百度网盘
-*.baiduyuncdn.* = server:180.76.76.76 // 百度云CDN
-*.baiduyundns.* = server:180.76.76.76 // 百度云DNS
-*.bdydns.* = server:180.76.76.76 // 百度云 DNS
-*.bdycdn.* = server:180.76.76.76 // 百度云 CDN
-*.bdysite.com = server:180.76.76.76 // 百度云 域名
-*.bdysites.com = server:180.76.76.76 // 百度云 域名
-*.baidubce.* = server:180.76.76.76 // 百度智能云
-*.bcedns.* = server:180.76.76.76 // 百度智能云 DNS
-*.bcebos.com = server:180.76.76.76 // 百度智能云 对象存储BOS
-*.bcevod.com = server:180.76.76.76 // 百度智能云 播放器服务
-*.bceimg.com = server:180.76.76.76 // 百度智能云 图片服务
-*.bcehost.com = server:180.76.76.76 // 百度智能云 主机
-*.bcehosts.com = server:180.76.76.76 // 百度智能云 主机
-dwz.cn = server:180.76.76.76 // 百度短网址
-
 # > Bytedance
 # refer: https://www.volcengine.com/docs/6758/179060
 *.amemv.com = server:180.184.1.1 // 艾特迷
