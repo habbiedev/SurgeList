@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import requests
 
 # URL of the file to download
