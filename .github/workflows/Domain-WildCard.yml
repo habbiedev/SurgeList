@@ -1,4 +1,4 @@
-name: domain-wildcard
+name: Domain-WildCard
 
 on:
   workflow_dispatch:
