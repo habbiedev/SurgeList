@@ -15,16 +15,16 @@ jobs:
 
     - name: Download and process file
       run: |
-        curl -s https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules_domainset.txt -o Adrules_domainset.txt
-        sed -i 's/^+//' Adrules_domainset.txt
-        echo ".mcdn.bilivideo.cn" >> Adrules_domainset.txt
-        echo ".szbdyd.com" >> Adrules_domainset.txt
-        echo ".chat.bilibili.com" >> Adrules_domainset.txt
+        curl -s https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules_domainset.txt -o Adrules_Domain.txt
+        sed -i 's/^+//' Adrules_Domain.txt
+        echo ".mcdn.bilivideo.cn" >> Adrules_Domain.txt
+        echo ".szbdyd.com" >> Adrules_Domain.txt
+        echo ".chat.bilibili.com" >> Adrules_Domain.txt
 
     - name: Commit changes
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
-        git add Adrules_domainset.txt
+        git add Adrules_Domain.txt
         git commit -m "domain-set" || echo "No changes to commit"
         git push
