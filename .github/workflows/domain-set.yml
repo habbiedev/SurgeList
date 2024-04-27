@@ -1,4 +1,4 @@
-name: Remove Plus Sign
+name: domain-set
 
 on:
   workflow_dispatch:
@@ -15,8 +15,8 @@ jobs:
 
     - name: Download and process file
       run: |
-        curl -s https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules_domainset.txt -o adrules_domainset.txt
-        sed -i 's/^+//' adrules_domainset.txt
+        curl -s https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules_domainset.txt -o domainset.txt
+        sed -i 's/^+//' domainset.txt
         echo ".mcdn.bilivideo.cn" >> domainset.txt
         echo ".szbdyd.com" >> domainset.txt
         echo ".chat.bilibili.com" >> domainset.txt
