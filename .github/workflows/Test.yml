@@ -26,4 +26,4 @@ jobs:
         git config --global user.name "GitHub Action"
         git add adrules_domainset.txt
         git commit -m "Remove plus signs" || echo "No changes to commit"
-        git push
+        git push origin develop
