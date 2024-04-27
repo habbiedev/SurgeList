@@ -1,0 +1,34 @@
+name: domain-wildcard
+
+on:
+  workflow_dispatch:
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Download and extract DOMAIN-WILDCARD
+        run: |
+          import requests
+          url = "https://adrules.top/adrules-surge.conf"
+          response = requests.get(url)
+          lines = response.text.split('\n')
+          filtered_lines = [line for line in lines if "DOMAIN-WILDCARD" in line]
+          with open('Adrules_WildCard.txt', 'w') as f:
+              f.write('\n'.join(filtered_lines))
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Adrules_WildCard.txt
+          git commit -m "Extracted DOMAIN-WILDCARD entries"
+          git push
