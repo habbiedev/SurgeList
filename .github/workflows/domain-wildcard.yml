@@ -19,13 +19,8 @@ jobs:
 
       - name: Download and extract DOMAIN-WILDCARD
         run: |
-          import requests
-          url = "https://adrules.top/adrules-surge.conf"
-          response = requests.get(url)
-          lines = response.text.split('\n')
-          filtered_lines = [line for line in lines if "DOMAIN-WILDCARD" in line]
-          with open('Adrules_WildCard.txt', 'w') as f:
-              f.write('\n'.join(filtered_lines))
+          curl https://adrules.top/adrules-surge.conf -o adrules-surge.conf
+          grep 'DOMAIN-WILDCARD' adrules-surge.conf > Adrules_WildCard.txt
 
       - name: Commit and push changes
         run: |
