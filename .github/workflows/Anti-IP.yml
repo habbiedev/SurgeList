@@ -1,0 +1,28 @@
+name: Anti-IP
+
+on:
+  push:
+    branches:
+      - main  # Set this to your default branch
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Download and Process File
+        run: |
+          curl -s https://raw.githubusercontent.com/bunizao/TutuBetterRules/tutu/RuleList/DOMAlN/Anti-IPCheck.list -o file.list
+          cat file.list | grep 'DOMAIN,\|DOMAIN-SUFFIX,' | sed 's/DOMAIN,//' | sed 's/DOMAIN-SUFFIX,/./' > Anti-IP.txt
+          cat Anti-IP.txt
+          
+      - name: Commit and push if changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Anti-IP.txt
+          git commit -m "Update processed domains list" || exit 0  # Skip commit if no changes
+          git push
