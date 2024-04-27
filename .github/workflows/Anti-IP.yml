@@ -1,9 +1,9 @@
 name: Anti-IP
 
 on:
-  push:
-    branches:
-      - main  # Set this to your default branch
+  workflow_dispatch:
+  schedule:
+    - cron: '0 21 * * *'  # UTC 时间21点，对应北京时间每天5点
 
 jobs:
   process:
