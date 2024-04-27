@@ -6,29 +6,29 @@ on:
     - cron: '0 21 * * *' 
 
 jobs:
-  merge-deduplicate:
+  process-files:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Setup Git config
-        run: |
-          git config --global user.email "you@example.com"
-          git config --global user.name "Your Name"
+      - name: Setup Environment
+        run: sudo apt-get install -y grep
 
       - name: Download files
         run: |
           curl https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/apple.txt -o apple1.txt
           curl https://raw.githubusercontent.com/yuumimi/rules/release/surge/apple.txt -o apple2.txt
 
-      - name: Merge and Remove Duplicates
+      - name: Remove duplicates from second file
         run: |
-          sort apple2.txt apple1.txt | uniq -u > apple_proxy.txt
+          grep -Fvxf apple1.txt apple2.txt > Apple_Proxy.txt
 
       - name: Commit and push if changes
         run: |
-          git add apple_proxy.txt
-          git commit -m "Update apple_proxy.txt" || exit 0   # Exit gracefully if no changes
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Apple_Proxy.txt
+          git commit -m "Update Apple_Proxy.txt with deduplicated entries" || exit 0
           git push
