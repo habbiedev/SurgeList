@@ -12,8 +12,6 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v3
-      with:
-        ref: develop
 
     - name: Download and process file
       run: |
@@ -26,4 +24,4 @@ jobs:
         git config --global user.name "GitHub Action"
         git add adrules_domainset.txt
         git commit -m "Remove plus signs" || echo "No changes to commit"
-        git push origin develop
+        git push
