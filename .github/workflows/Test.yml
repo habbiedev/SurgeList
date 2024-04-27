@@ -1,0 +1,26 @@
+name: Remove Plus Sign
+
+on:
+  schedule:
+    - cron: '0 21 * * *'  # UTC 时间21点，对应北京时间每天5点
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Download and process file
+      run: |
+        curl -s https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules_domainset.txt -o adrules_domainset.txt
+        sed -i 's/^+//' adrules_domainset.txt
+
+    - name: Commit changes
+      run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
+        git add adrules_domainset.txt
+        git commit -m "Remove plus signs" || echo "No changes to commit"
+        git push
