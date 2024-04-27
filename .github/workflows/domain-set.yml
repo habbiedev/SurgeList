@@ -15,11 +15,11 @@ jobs:
 
     - name: Download and process file
       run: |
-        curl -s https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules_domainset.txt -o domainset.txt
-        sed -i 's/^+//' domainset.txt
-        echo ".mcdn.bilivideo.cn" >> domainset.txt
-        echo ".szbdyd.com" >> domainset.txt
-        echo ".chat.bilibili.com" >> domainset.txt
+        curl -s https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules_domainset.txt -o Adrules_domainset.txt
+        sed -i 's/^+//' Adrules_domainset.txt
+        echo ".mcdn.bilivideo.cn" >> Adrules_domainset.txt
+        echo ".szbdyd.com" >> Adrules_domainset.txt
+        echo ".chat.bilibili.com" >> Adrules_domainset.txt
 
     - name: Commit changes
       run: |
