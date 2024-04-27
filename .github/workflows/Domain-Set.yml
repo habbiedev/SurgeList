@@ -1,4 +1,4 @@
-name: Domain-set
+name: Domain-Set
 
 on:
   workflow_dispatch:
