@@ -1,0 +1,34 @@
+name: Apple
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 21 * * *' 
+
+jobs:
+  merge-deduplicate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Git config
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Name"
+
+      - name: Download files
+        run: |
+          curl https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/apple.txt -o apple1.txt
+          curl https://raw.githubusercontent.com/yuumimi/rules/release/surge/apple.txt -o apple2.txt
+
+      - name: Merge and Remove Duplicates
+        run: |
+          sort apple2.txt apple1.txt | uniq -u > apple_proxy.txt
+
+      - name: Commit and push if changes
+        run: |
+          git add apple_proxy.txt
+          git commit -m "Update apple_proxy.txt" || exit 0   # Exit gracefully if no changes
+          git push
