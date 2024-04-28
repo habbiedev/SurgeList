@@ -3,7 +3,7 @@ name: Domain-WildCard
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 21 * * *' 
+    - cron: '02 21 * * *' 
 
 jobs:
   extract:
