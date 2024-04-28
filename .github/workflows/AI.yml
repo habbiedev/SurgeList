@@ -3,7 +3,7 @@ name: AI
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 21 * * *' 
+    - cron: '08 21 * * *' 
 
 jobs:
   process-domains:
