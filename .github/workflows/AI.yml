@@ -29,5 +29,14 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add AI.txt
-        git commit -m "Update combined domains list"
-        git push
+        # 检查是否有待提交的变更
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+        else
+          git commit -m "Update combined domains list"
+          git push
+        fi
+      env:
+        pythonLocation: /opt/hostedtoolcache/Python/3.12.3/x64
+        LD_LIBRARY_PATH: /opt/hostedtoolcache/Python/3.12.3/x64/lib
+
