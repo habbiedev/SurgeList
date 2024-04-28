@@ -3,7 +3,7 @@ name: Anti-IP
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 21 * * *'  # UTC 时间21点，对应北京时间每天5点
+    - cron: '06 21 * * *'  # UTC 时间21点，对应北京时间每天5点
 
 jobs:
   process:
