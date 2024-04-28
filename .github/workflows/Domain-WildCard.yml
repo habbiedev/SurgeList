@@ -16,7 +16,7 @@ jobs:
         run: |
           curl https://adrules.top/adrules-surge.conf -o adrules-surge.conf
           grep 'DOMAIN-WILDCARD' adrules-surge.conf > Adrules_WildCard.txt
-          echo "DOMAIN-WILDCARD,*pcdn*.biliapi.net" >> Adrules_WildCard.txt
+          #echo "DOMAIN-WILDCARD,*pcdn*.biliapi.net" >> Adrules_WildCard.txt
 
       - name: Commit and push changes
         run: |
