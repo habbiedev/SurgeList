@@ -3,7 +3,7 @@ name: Domain-Set
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 21 * * *'  # UTC 时间21点，对应北京时间每天5点
+    - cron: '04 21 * * *'  # UTC 时间21点，对应北京时间每天5点
 
 jobs:
   update-file:
