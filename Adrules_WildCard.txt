@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 344
+# DOMAIN-WILDCARD: 345
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -119,6 +119,7 @@ DOMAIN-WILDCARD,ap*.pl520.com
 DOMAIN-WILDCARD,api*.amplitude.com
 DOMAIN-WILDCARD,api*.batmobi.net
 DOMAIN-WILDCARD,api*.batmobil.net
+DOMAIN-WILDCARD,api*.bidmachine.io
 DOMAIN-WILDCARD,api-*.bidmachine.io
 DOMAIN-WILDCARD,api-*.hismarttv.com
 DOMAIN-WILDCARD,api.*.hismarttv.com
