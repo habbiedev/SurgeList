@@ -45,7 +45,6 @@ bbs-api.mihoyo.com
 bbs-api.miyoushe.com
 bbs.nga.cn
 c.tieba.baidu.com
-china-img.soulapp.cn,DIRECT
 cm.bilibili.com
 dt.netease.im
 fclog.baidu.com
@@ -54,11 +53,6 @@ god.gameyw.netease.com
 grpc.biliapi.net
 gsp0.baidu.com
 hm.baidu.com
-httpdns.baidu.com
-httpdns.baidubce.com
-httpdns.bilivideo.com,REJECT
-httpsdns.baidu.com
-img.soulapp.cn,DIRECT
 keylol.com
 lbs.netease.im
 live-trace.bilibili.com
@@ -84,7 +78,6 @@ www.douban.com
 www.douyin.com
 www.wenshushu.cn
 www.zhihu.com
-y.qq.com,DIRECT
 yaolu.yuedu.163.com
 zhihu-web-analytics.zhihu.com
 zonai.skland.com
