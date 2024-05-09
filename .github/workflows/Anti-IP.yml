@@ -1,28 +1,33 @@
-name: Anti-IP
+name: AI
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '06 21 * * *'  # UTC 时间21点，对应北京时间每天5点
+    - cron: '06 21 * * *' 
 
 jobs:
-  process:
+  process-domains:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Download and Process File
-        run: |
-          curl -s https://raw.githubusercontent.com/bunizao/TutuBetterRules/tutu/RuleList/DOMAlN/Anti-IPCheck.list -o file.list
-          cat file.list | grep 'DOMAIN,\|DOMAIN-SUFFIX,' | sed 's/DOMAIN,//' | sed 's/DOMAIN-SUFFIX,/./' > Anti_IP.txt
-          cat Anti_IP.txt
-          
-      - name: Commit and push if changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add Anti_IP.txt
-          git commit -m "Update processed domains list" || exit 0  # Skip commit if no changes
-          git push
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install Python dependencies
+      run: pip install requests
+
+    - name: Download and process domain lists
+      run: python Anti_ip.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git Anti_IP.txt
+        git commit -m "Update combined domains list"|| exit 0
+        git push
