@@ -12,7 +12,7 @@ for url in urls:
         response.raise_for_status()
         lines = response.text.splitlines()
         for line in lines:
-            if 'DIRECT' in line or 'REJECT' in line or 'httpdns' in line or 'httpsdns' in line:
+            if 'DIRECT' in line or 'REJECT' in line or 'httpdns' in line or 'httpsdns' in line or '#' in line:
                 continue
             if line.startswith('DOMAIN-SUFFIX,'):
                 domain = line.split(',')[1].strip()
