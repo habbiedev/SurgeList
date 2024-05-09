@@ -22,6 +22,6 @@ for url in urls:
     except requests.RequestException as e:
         print(f"请求 {url} 时发生错误: {e}")
 
-with open('combined_domains.txt', 'w') as f:
+with open('Anti_IP.txt', 'w') as f:
     for domain in sorted(domain_set):
         f.write(domain + '\n')
