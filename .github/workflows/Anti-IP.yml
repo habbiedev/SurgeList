@@ -1,4 +1,4 @@
-name: AI
+name: Anti-IP
 
 on:
   workflow_dispatch:
