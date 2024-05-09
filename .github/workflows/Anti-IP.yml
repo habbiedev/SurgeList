@@ -22,7 +22,7 @@ jobs:
       run: pip install requests
 
     - name: Download and process domain lists
-      run: python Anti_ip.py
+      run: python Anti_IP.py
 
     - name: Commit and push changes
       run: |
