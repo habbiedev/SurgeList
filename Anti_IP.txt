@@ -40,12 +40,14 @@ api.weibo.cn
 api.weibo.com
 api.xiaoheihe.cn
 api.zhihu.com
+api2.coolapk.com
 app.bilibili.com
 bbs-api.mihoyo.com
 bbs-api.miyoushe.com
 bbs.nga.cn
 c.tieba.baidu.com
 cm.bilibili.com
+druidv6.if.qidian.com
 dt.netease.im
 fclog.baidu.com
 frodo.douban.com
@@ -63,6 +65,7 @@ nga.178.com
 ngabbs.com
 nstool.netease.com
 passport.bilibili.com
+ptlogin6.qidian.com
 sso.douyin.com
 szextshort.weixin.qq.com
 szminorshort.weixin.qq.com
