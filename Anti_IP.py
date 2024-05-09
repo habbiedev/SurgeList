@@ -12,13 +12,14 @@ for url in urls:
         response.raise_for_status()
         lines = response.text.splitlines()
         for line in lines:
+            if 'DIRECT' in line or 'REJECT' in line or 'httpdns' in line or 'httpsdns' in line:
+                continue
             if line.startswith('DOMAIN-SUFFIX,'):
-                parts = line.split(',')
-                if len(parts) == 3 and parts[2] == 'DIRECT':
-                    continue
-                domain_set.add('.' + parts[1].strip())
+                domain = line.split(',')[1].strip()
+                domain_set.add('.' + domain)
             elif line.startswith('DOMAIN,'):
-                domain_set.add(line.split('DOMAIN,')[1].strip())
+                domain = line.split(',')[1].strip()
+                domain_set.add(domain)
     except requests.RequestException as e:
         print(f"请求 {url} 时发生错误: {e}")
 
