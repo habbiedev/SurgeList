@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 346
+# DOMAIN-WILDCARD: 345
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -55,8 +55,6 @@ DOMAIN-WILDCARD,*.yunos.com
 DOMAIN-WILDCARD,*.yzh360.com
 DOMAIN-WILDCARD,*.zhiong.net
 DOMAIN-WILDCARD,*.zhudiaosz.com
-DOMAIN-WILDCARD,*bmwmini.tt.omtrdc.net
-DOMAIN-WILDCARD,*bmwofnorthamericallc.tt.omtrdc.net
 DOMAIN-WILDCARD,163487*.qmgmw.com
 DOMAIN-WILDCARD,a*.chajiaotong.com
 DOMAIN-WILDCARD,aan.amazon.*
@@ -217,6 +215,7 @@ DOMAIN-WILDCARD,impservice*.yodao.com
 DOMAIN-WILDCARD,impservice*.youdao.com
 DOMAIN-WILDCARD,iptracker-lb-*.amazonaws.com
 DOMAIN-WILDCARD,ir-new-cdn-eu-west-*-hb.rayjump.com
+DOMAIN-WILDCARD,iwanshang*.asia
 DOMAIN-WILDCARD,ja*.gamersky.com
 DOMAIN-WILDCARD,js*.abolezi.com
 DOMAIN-WILDCARD,js.*2023*.live
