@@ -25,4 +25,4 @@ for url in urls:
 
 with open('Anti_IP.txt', 'w') as f:
     for domain in sorted(domain_set):
-        f.write(domain + '\n')
+        f.write(domain + '.mail.me.com' + '\n')
