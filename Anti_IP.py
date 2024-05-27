@@ -22,7 +22,9 @@ for url in urls:
                 domain_set.add(domain)
     except requests.RequestException as e:
         print(f"请求 {url} 时发生错误: {e}")
+        
+domain_set.add('.mail.me.com')
 
 with open('Anti_IP.txt', 'w') as f:
     for domain in sorted(domain_set):
-        f.write(domain + '.mail.me.com' + '\n')
+        f.write(domain + '\n')
