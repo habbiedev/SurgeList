@@ -21,6 +21,11 @@ jobs:
 
       - name: Combine Files
         run: cat cdn.conf download.conf > CDN.txt
+        
+      - name: Clean Specific Lines
+        run: |
+          sed -i '/################## EOF ##################/d' CDN.txt
+          sed -i '/this_ruleset_is_made_by_sukkaw.ruleset.skk.moe/d' CDN.txt
 
       - name: Append Domains
         run: |
