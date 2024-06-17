@@ -1,0 +1,39 @@
+name: CDN
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '10 21 * * *' 
+
+jobs:
+  merge-domains:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch domainset/cdn.conf
+        run: curl -sL https://ruleset.skk.moe/List/domainset/cdn.conf -o cdn.conf
+
+      - name: Fetch domainset/download.conf
+        run: curl -sL https://ruleset.skk.moe/List/domainset/download.conf -o download.conf
+
+      - name: Combine Files
+        run: cat cdn.conf download.conf > CDN.txt
+
+      - name: Append Domains
+        run: |
+          echo "emby.aca.best" >> CDN.txt
+          echo "stream1.misakaf.org" >> CDN.txt
+          echo "stream2.misakaf.org" >> CDN.txt
+          echo "stream3.misakaf.org" >> CDN.txt
+          echo "stream4.misakaf.org" >> CDN.txt
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add CDN.txt
+          git commit -m "Update combined domain list"
+          git push
+
