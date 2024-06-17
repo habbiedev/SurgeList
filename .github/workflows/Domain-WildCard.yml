@@ -23,5 +23,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add Adrules_WildCard.txt
-          git commit -m "Extracted DOMAIN-WILDCARD entries"|| exit 0
+          git commit -m "Update Adrules_WildCard.txt"|| exit 0
           git push
