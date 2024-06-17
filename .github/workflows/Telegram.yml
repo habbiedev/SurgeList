@@ -26,6 +26,11 @@ jobs:
 
     - name: Merge files
       run: cat telegram.conf telegram.txt > Telegram.txt
+      
+    - name: Clean Specific Lines
+      run: |
+        sed -i '/################## EOF ##################/d' Telegram.txt
+        sed -i 'DOMAIN-SUFFIX, Generated from https://github.com/v2fly/domain-list-community/tree/master/data/telegram/d' Telegram.txt
 
     - name: Commit and push changes
       run: |
