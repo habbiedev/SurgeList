@@ -29,5 +29,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add Anti_IP.txt
-        git commit -m "Update combined domains list"|| exit 0
+        git commit -m "Update Anti_IP.txt"|| exit 0
         git push
