@@ -1,0 +1,36 @@
+name: Telegram
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '12 21 * * *'
+
+jobs:
+  update-and-merge:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install curl and jq
+      run: sudo apt-get install -y curl jq
+
+    - name: Download and modify telegram.txt
+      run: |
+        curl https://raw.githubusercontent.com/yuumimi/rules/release/surge/telegram.txt > telegram.txt
+        sed -i 's/^./DOMAIN-SUFFIX,/' telegram.txt
+
+    - name: Download telegram.conf
+      run: |
+        curl https://ruleset.skk.moe/List/ip/telegram.conf > telegram.conf
+
+    - name: Merge files
+      run: cat telegram.conf telegram.txt > Telegram.txt
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add Telegram.txt
+        git commit -m "Update Telegram.txt"|| exit 0
+        git push
