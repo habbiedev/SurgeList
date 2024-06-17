@@ -34,6 +34,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add CDN.txt
-          git commit -m "Update combined domain list"
+          git commit -m "Update CDN.txt"|| exit 0
           git push
 
