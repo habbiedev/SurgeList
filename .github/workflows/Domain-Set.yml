@@ -26,5 +26,5 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         git add Adrules_Domain.txt
-        git commit -m "domain-set" || echo "No changes to commit"
+        git commit -m "Update Adrules_Domain.txt"|| exit 0
         git push
