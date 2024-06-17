@@ -8,7 +8,6 @@
 #
 # This file contains object storage and static assets CDN domains.
 #########################################
-this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 s3.c.im
 s3.m.0x.mk
 i.mt.lv
@@ -2399,7 +2398,6 @@ useruploads.visualwebsiteoptimizer.com
 cdn-a.sonyentertainmentnetwork.com
 .w-credentialless-staticblitz.com
 runkit-packages-static-executables.com
-################## EOF ##################
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
 # Last Updated: 2024-06-15T06:09:41.855Z
@@ -2410,7 +2408,6 @@ runkit-packages-static-executables.com
 #
 # This file contains domains for software updating & large file hosting.
 #########################################
-this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 .cdn.ea.com
 releases.arc.net
 mirror.cat.net
@@ -2637,7 +2634,6 @@ get.pixelexperience.org
 download.pixelexperience.org
 .copr.fedorainfracloud.org
 .cloudflaremirrors.com
-################## EOF ##################
 emby.aca.best
 stream1.misakaf.org
 stream2.misakaf.org
