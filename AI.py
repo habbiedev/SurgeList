@@ -7,7 +7,7 @@ urls = [
 ]
 
 domain_set = set()
-for url in urls[:-1]:  
+for url in urls[:-1]:
   response = requests.get(url)
   lines = response.text.splitlines()
   for line in lines:
@@ -23,3 +23,6 @@ combined_domains = domain_set.union(existing_domains)
 with open('AI.txt', 'w') as f:
   for domain in sorted(combined_domains):
     f.write(domain + '\n')
+  f.write('.google.com.hk\n')
+  f.write('.google.com.tw\n')
+  f.write('.google.com\n')
