@@ -32,3 +32,6 @@ openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
 production-openaicom-storage.azureedge.net
 this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+.google.com.hk
+.google.com.tw
+.google.com
