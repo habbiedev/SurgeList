@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,a2.mzstatic.com
 DOMAIN-SUFFIX,a3.mzstatic.com
 DOMAIN-SUFFIX,a4.mzstatic.com
 DOMAIN-SUFFIX,a5.mzstatic.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,adcdownload.apple.com.akadns.net
 DOMAIN-SUFFIX,adcdownload.apple.com
 DOMAIN-SUFFIX,amp-api.media.apple.com
