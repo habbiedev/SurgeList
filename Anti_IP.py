@@ -24,6 +24,7 @@ for url in urls:
         print(f"请求 {url} 时发生错误: {e}")
         
 domain_set.add('.mail.me.com')
+domain_set.add('.habbie.top')
 
 with open('Anti_IP.txt', 'w') as f:
     for domain in sorted(domain_set):
