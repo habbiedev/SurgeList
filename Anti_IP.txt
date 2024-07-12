@@ -6,6 +6,7 @@
 .douyu.com
 .douyucdn.cn
 .gifshow.com
+.habbie.top
 .huya.com
 .ixigua.com
 .ksapisrv.com
