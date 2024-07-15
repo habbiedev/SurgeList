@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 346
+# DOMAIN-WILDCARD: 345
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -22,7 +22,6 @@ DOMAIN-WILDCARD,*.hgrqp.com
 DOMAIN-WILDCARD,*.houyi.baofeng.net
 DOMAIN-WILDCARD,*.hzht666.com
 DOMAIN-WILDCARD,*.improvbeams.com
-DOMAIN-WILDCARD,*.jbzj.com
 DOMAIN-WILDCARD,*.jinchaoyu.com
 DOMAIN-WILDCARD,*.kyad88.com
 DOMAIN-WILDCARD,*.mlt01.com
