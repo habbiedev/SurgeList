@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 345
+# DOMAIN-WILDCARD: 344
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -136,7 +136,6 @@ DOMAIN-WILDCARD,bdlm*.hc360.com
 DOMAIN-WILDCARD,beacons*.gvt3.com
 DOMAIN-WILDCARD,bi-eventtracker-*.amazonaws.com
 DOMAIN-WILDCARD,bj*.9669.cn
-DOMAIN-WILDCARD,bj1*.online
 DOMAIN-WILDCARD,bjkedv*.xyz
 DOMAIN-WILDCARD,browser-intake-*-datadoghq.com
 DOMAIN-WILDCARD,c*hit.zerkalo.io
