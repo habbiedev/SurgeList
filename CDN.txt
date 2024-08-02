@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-01T02:52:24.768Z
-# Size: 2099
+# Last Updated: 2024-08-02T10:29:50.150Z
+# Size: 2096
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -113,8 +113,8 @@ cdn3.dan.com
 docs.rs
 media.e4le.me
 .esm.run
-.file.io
 badge.fury.io
+assets.garr.it
 .ghcr.io
 .himg.nl
 objects.hit.moe
@@ -179,7 +179,6 @@ images.spot.im
 static-cdn.spot.im
 embed.tawk.to
 embed.ted.com
-.temp.sh
 s3.toot.io
 cdn.tuk.dev
 .cdn.ubi.com
@@ -225,6 +224,7 @@ assets.canny.io
 assets2.canny.io
 production-cmp.isgprivacy.cbsi.com
 .media.ci-en.jp
+sf-coze-web-cdn.coze.com
 .cthd.icu
 imgur.dcard.tw
 megapx-assets.dcard.tw
@@ -579,7 +579,6 @@ start-page.buffer.com
 cdn.builder.io
 .bundle.run
 pic.cangku.moe
-.catbox.moe
 video.cdnbye.com
 signal.cdnbye.com
 tracker.cdnbye.com
@@ -766,7 +765,6 @@ assets.repair.org
 sp.replit.com
 .cdn.replit.com
 .cms.replit.com
-share.riseup.net
 wimg.rule34.xxx
 embed.runkit.com
 .sc-cdn.com
@@ -913,7 +911,6 @@ cdn2.ettoday.net
 static.ettoday.net
 .exp-tas.com
 .f-droid.org
-.filebin.net
 detectportal.firefox.com
 a.fireside.fm
 assets.fireside.fm
@@ -1294,7 +1291,6 @@ cdn4.sysgears.com
 ci.testling.com
 .tildacdn.com
 cdn.tinypass.com
-.tmpfiles.org
 static.tokenview.io
 cdn.transcend.io
 static.tronscan.org
@@ -2029,6 +2025,7 @@ next-images.opencollective.com
 web-assets.otogi-frontier.com
 .polyfill-fastly.io
 api.pwnedpasswords.com
+.replicate.delivery
 .safebrowsing.apple
 image.theblockbeats.info
 vscode-sync.trafficmanager.net
@@ -2108,8 +2105,8 @@ cdn-a.sonyentertainmentnetwork.com
 runkit-packages-static-executables.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-08-01T02:52:24.780Z
-# Size: 544
+# Last Updated: 2024-08-02T10:29:50.165Z
+# Size: 554
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2121,6 +2118,7 @@ releases.arc.net
 formulae.brew.sh
 mirror.cat.net
 mirrors.cat.net
+.file.io
 ftp.gnu.org
 gog-cdn-fastly.gog.com
 gog-cdn-fastly-cp77.gog.com
@@ -2131,6 +2129,7 @@ binary-factory.kde.org
 file24-d.kuku.lu
 .mega.io
 .mega.nz
+.temp.sh
 .cdn.ubi.com
 mirror.xtom.au
 mirrors.xtom.au
@@ -2182,6 +2181,7 @@ dl2.xmind.net
 dl3.xmind.net
 downloads.xrite.com
 download.beeper.com
+.catbox.moe
 .deb.debian.org
 .ftp.debian.org
 .archive.debian.org
@@ -2192,6 +2192,7 @@ download.dlsite.com
 desktop.docker.com
 download.docker.com
 .mirrors.dotsrc.org
+codeload.github.com
 dl.google.com
 dl.l.google.com
 cache.pack.google.com
@@ -2210,6 +2211,7 @@ steam.ru.qtlglb.com
 steam.eca.qtlglb.com
 steam.apac.qtlglb.com
 steam.naeu.qtlglb.com
+share.riseup.net
 store.setapp.com
 download.sketch.com
 .archive.ubuntu.com
@@ -2217,6 +2219,7 @@ security.ubuntu.com
 download.anydesk.com
 edge.steam-dns.top.comcast.net
 dl.devmate.com
+.filebin.net
 down.filen-1.net
 down.filen-2.net
 down.filen-3.net
@@ -2291,7 +2294,9 @@ api-updates.orbstack.dev
 cdn-updates.orbstack.dev
 repo.powerdns.com
 dl.snipaste.com
+stats.snipaste.com
 download.snipaste.com
+.tmpfiles.org
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com
 packagespc.xboxlive.com
@@ -2658,6 +2663,8 @@ get.pixelexperience.org
 download.pixelexperience.org
 .copr.fedorainfracloud.org
 .cloudflaremirrors.com
+objects.githubusercontent.com
+pkg-containers.githubusercontent.com
 .digitaloceanspaces.com
 emby.aca.best
 stream1.misakaf.org
