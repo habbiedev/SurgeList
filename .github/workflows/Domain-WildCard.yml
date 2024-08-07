@@ -14,18 +14,21 @@ jobs:
 
       - name: Download and extract DOMAIN-WILDCARD
         run: |
+          set -e
           curl https://adrules.top/adrules-surge.conf -o adrules-surge.conf
           grep 'DOMAIN-WILDCARD' adrules-surge.conf > Adrules_WildCard.txt
           echo "DOMAIN-WILDCARD,*pcdn*.biliapi.net" >> Adrules_WildCard.txt
+          echo "Download and extraction completed."
 
       - name: Check for changes
         run: |
+          set -e
           if [[ $(git status --porcelain) ]]; then
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
             git add Adrules_WildCard.txt
             git commit -m "Update Adrules_WildCard.txt"
             git push
+            echo "Changes committed and pushed."
           else
-            echo "No changes to commit"
-          fi
+            echo "No changes to commit."
