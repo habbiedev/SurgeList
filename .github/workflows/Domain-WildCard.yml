@@ -15,15 +15,40 @@ jobs:
       - name: Download and extract DOMAIN-WILDCARD
         run: |
           set -e
-          curl https://adrules.top/adrules-surge.conf -o adrules-surge.conf
+          
+          echo "Running curl to download the config file..."
+          curl -s -o adrules-surge.conf https://adrules.top/adrules-surge.conf
+          echo "curl exit code: $?"
+          
+          if [ -f adrules-surge.conf ]; then
+            echo "File adrules-surge.conf exists."
+          else
+            echo "File adrules-surge.conf does not exist."
+            exit 1
+          fi
+
+          echo "Running grep to extract DOMAIN-WILDCARD..."
           grep 'DOMAIN-WILDCARD' adrules-surge.conf > Adrules_WildCard.txt
+          echo "grep exit code: $?"
+
+          if [ -s Adrules_WildCard.txt ]; then
+            echo "File Adrules_WildCard.txt has content."
+          else
+            echo "File Adrules_WildCard.txt is empty."
+            exit 1
+          fi
+
+          echo "Appending custom DOMAIN-WILDCARD entry..."
           echo "DOMAIN-WILDCARD,*pcdn*.biliapi.net" >> Adrules_WildCard.txt
+          echo "echo exit code: $?"
+          
           echo "Download and extraction completed."
 
       - name: Check for changes
         run: |
           set -e
           if [[ $(git status --porcelain) ]]; then
+            echo "Changes detected. Committing changes..."
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
             git add Adrules_WildCard.txt
