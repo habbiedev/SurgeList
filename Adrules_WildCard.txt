@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 293
+# DOMAIN-WILDCARD: 294
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -72,6 +72,7 @@ DOMAIN-WILDCARD,api-*.hismarttv.com
 DOMAIN-WILDCARD,api.*.hismarttv.com
 DOMAIN-WILDCARD,app-analytics-*.snapchat.com
 DOMAIN-WILDCARD,appanalysis*.banggood.com
+DOMAIN-WILDCARD,apple-*.le.com
 DOMAIN-WILDCARD,apple.com-*.live
 DOMAIN-WILDCARD,asd8900.oss-*.aliyuncs.com
 DOMAIN-WILDCARD,at*.doubanio.com
@@ -218,7 +219,6 @@ DOMAIN-WILDCARD,pixel*.production-public.tubi.io
 DOMAIN-WILDCARD,pixel-*.rubiconproject.com
 DOMAIN-WILDCARD,pixelapi-*.cs.mysamba.tv
 DOMAIN-WILDCARD,player-feedback*.glomex.*
-DOMAIN-WILDCARD,popadex-*.us-east-1.elb.amazonaws.com
 DOMAIN-WILDCARD,prebid-*.rubiconproject.com
 DOMAIN-WILDCARD,production-adserver-*.amazonaws.com
 DOMAIN-WILDCARD,promo-*.vercel.app
@@ -231,6 +231,7 @@ DOMAIN-WILDCARD,report*.appmetrica.webvisor.com
 DOMAIN-WILDCARD,report.*.qq.com
 DOMAIN-WILDCARD,rtbimp-loadbalancer-*.amazonaws.com
 DOMAIN-WILDCARD,rtlog*.tiktokv.com
+DOMAIN-WILDCARD,rtlog*.tiktokv.us
 DOMAIN-WILDCARD,rum*.a.trbcdn.net
 DOMAIN-WILDCARD,rum*.cdnvideo.ru
 DOMAIN-WILDCARD,s*.skencituer.com
