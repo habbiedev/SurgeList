@@ -3,7 +3,7 @@ name: Domain-WildCard
 on:
   workflow_dispatch:
   schedule:
-    - cron: '02 21 * * *'
+    - cron: '02 21 * * *' 
 
 jobs:
   extract:
@@ -14,52 +14,14 @@ jobs:
 
       - name: Download and extract DOMAIN-WILDCARD
         run: |
-          set -e
-          
-          echo "Running curl with browser headers to download the config file..."
-          curl -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3" --retry 5 --retry-delay 10 -s -o adrules-surge.conf https://adrules.top/adrules-surge.conf
-          curl_exit_code=$?
-          echo "curl exit code: $curl_exit_code"
-          
-          if [ -f adrules-surge.conf ]; then
-            echo "File adrules-surge.conf exists."
-          else
-            echo "File adrules-surge.conf does not exist."
-            exit 1
-          fi
-
-          echo "Content of adrules-surge.conf:"
-          cat adrules-surge.conf
-          
-          echo "Running grep to extract DOMAIN-WILDCARD..."
+          curl https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules-surge.conf -o adrules-surge.conf
           grep 'DOMAIN-WILDCARD' adrules-surge.conf > Adrules_WildCard.txt
-          grep_exit_code=$?
-          echo "grep exit code: $grep_exit_code"
-
-          if [ -s Adrules_WildCard.txt ]; then
-            echo "File Adrules_WildCard.txt has content."
-          else
-            echo "File Adrules_WildCard.txt is empty."
-            exit 1
-          fi
-
-          echo "Appending custom DOMAIN-WILDCARD entry..."
           echo "DOMAIN-WILDCARD,*pcdn*.biliapi.net" >> Adrules_WildCard.txt
-          echo_exit_code=$?
-          echo "echo exit code: $echo_exit_code"
-          
-          echo "Download and extraction completed."
 
-      - name: Check for changes
+      - name: Commit and push changes
         run: |
-          set -e
-          if [[ $(git status --porcelain) ]]; then
-            echo "Changes detected. Committing changes..."
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
-            git add Adrules_WildCard.txt
-            git commit -m "Update Adrules_WildCard.txt"
-            git push
-            echo "Changes committed and pushed."
-          else
-            echo "No changes to commit."
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Adrules_WildCard.txt
+          git commit -m "Update Adrules_WildCard.txt"|| exit 0
+          git push
