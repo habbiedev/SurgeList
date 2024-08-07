@@ -17,7 +17,7 @@ jobs:
           set -e
           
           echo "Running curl to download the config file..."
-          curl -s -o adrules-surge.conf https://adrules.top/adrules-surge.conf
+          curl --retry 5 --retry-delay 10 -s -o adrules-surge.conf https://adrules.top/adrules-surge.conf
           curl_exit_code=$?
           echo "curl exit code: $curl_exit_code"
           
