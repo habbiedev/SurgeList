@@ -3,7 +3,7 @@ name: Domain-WildCard
 on:
   workflow_dispatch:
   schedule:
-    - cron: '02 21 * * *' 
+    - cron: '02 21 * * *'
 
 jobs:
   extract:
@@ -18,10 +18,14 @@ jobs:
           grep 'DOMAIN-WILDCARD' adrules-surge.conf > Adrules_WildCard.txt
           echo "DOMAIN-WILDCARD,*pcdn*.biliapi.net" >> Adrules_WildCard.txt
 
-      - name: Commit and push changes
+      - name: Check for changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add Adrules_WildCard.txt
-          git commit -m "Update Adrules_WildCard.txt"|| exit 0
-          git push
+          if [[ $(git status --porcelain) ]]; then
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add Adrules_WildCard.txt
+            git commit -m "Update Adrules_WildCard.txt"
+            git push
+          else
+            echo "No changes to commit"
+          fi
