@@ -16,10 +16,10 @@ jobs:
         run: |
           set -e
           
-          echo "Running curl to download the config file..."
-          curl --retry 5 --retry-delay 10 -s -o adrules-surge.conf https://adrules.top/adrules-surge.conf
-          curl_exit_code=$?
-          echo "curl exit code: $curl_exit_code"
+          echo "Running wget to download the config file..."
+          wget --tries=5 --waitretry=10 -O adrules-surge.conf https://adrules.top/adrules-surge.conf
+          wget_exit_code=$?
+          echo "wget exit code: $wget_exit_code"
           
           if [ -f adrules-surge.conf ]; then
             echo "File adrules-surge.conf exists."
