@@ -18,7 +18,8 @@ jobs:
           
           echo "Running curl to download the config file..."
           curl -s -o adrules-surge.conf https://adrules.top/adrules-surge.conf
-          echo "curl exit code: $?"
+          curl_exit_code=$?
+          echo "curl exit code: $curl_exit_code"
           
           if [ -f adrules-surge.conf ]; then
             echo "File adrules-surge.conf exists."
@@ -27,9 +28,13 @@ jobs:
             exit 1
           fi
 
+          echo "Content of adrules-surge.conf:"
+          cat adrules-surge.conf
+          
           echo "Running grep to extract DOMAIN-WILDCARD..."
           grep 'DOMAIN-WILDCARD' adrules-surge.conf > Adrules_WildCard.txt
-          echo "grep exit code: $?"
+          grep_exit_code=$?
+          echo "grep exit code: $grep_exit_code"
 
           if [ -s Adrules_WildCard.txt ]; then
             echo "File Adrules_WildCard.txt has content."
@@ -40,7 +45,8 @@ jobs:
 
           echo "Appending custom DOMAIN-WILDCARD entry..."
           echo "DOMAIN-WILDCARD,*pcdn*.biliapi.net" >> Adrules_WildCard.txt
-          echo "echo exit code: $?"
+          echo_exit_code=$?
+          echo "echo exit code: $echo_exit_code"
           
           echo "Download and extraction completed."
 
