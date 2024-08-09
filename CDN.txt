@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-06T09:23:36.864Z
-# Size: 2128
+# Last Updated: 2024-08-09T05:54:57.760Z
+# Size: 2126
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -736,7 +736,6 @@ res-geo.cdn.office.net
 static.oklink.com
 static.opensea.io
 static.oracle.com
-secure.download.dm.origin.com
 .ipfs.overpi.com
 media.owcnow.com
 cdn.paddle.com
@@ -1462,7 +1461,6 @@ ajax.microsoft.com
 wcpstatic.microsoft.com
 images.ecomm.microsoft.com
 store-images.microsoft.com
-.software-download.microsoft.com
 public.mocortech.com
 static.mocortech.com
 images.moovitapp.com
@@ -2137,8 +2135,8 @@ cdn-a.sonyentertainmentnetwork.com
 runkit-packages-static-executables.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-08-05T03:33:49.725Z
-# Size: 556
+# Last Updated: 2024-08-09T05:54:57.777Z
+# Size: 558
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2237,7 +2235,7 @@ redstone-launcher.mojang.com
 dl.motrix.app
 az764295.vo.msecnd.net
 .download.nvidia.com
-download.dm.origin.com
+.download.dm.origin.com
 builds.parsec.app
 steam.ru.qtlglb.com
 steam.eca.qtlglb.com
@@ -2334,6 +2332,7 @@ xvcf1.xboxlive.com
 xvcf2.xboxlive.com
 packagespc.xboxlive.com
 .1fichier.info
+c.1password.com
 downloads.1password.com
 cache.agilebits.com
 steampipe.akamaized.net
@@ -2642,6 +2641,7 @@ amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
 .delivery.mp.microsoft.com
 .download.prss.microsoft.com
+.software-download.microsoft.com
 download.visualstudio.microsoft.com
 mirror.navercorp.com
 desktop.parallels.com
