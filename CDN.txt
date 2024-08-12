@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-11T08:27:10.195Z
-# Size: 2132
+# Last Updated: 2024-08-12T17:43:44.202Z
+# Size: 2138
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -142,6 +142,7 @@ oss.moe.cat
 assets.msn.com
 .cfcdn.mux.com
 ca.nfs.pub
+.cdn.nimg.jp
 resource.video.nimg.jp
 media.npr.org
 bundles.npr.org
@@ -317,6 +318,7 @@ assets-v2.super.so
 static.t-ru.org
 assets.time.com
 image.tmdb.org
+app-static.turtl.co
 .unpkg.co
 media.user.com
 widget.user.com
@@ -676,7 +678,6 @@ images.idgesg.net
 .iggcdn.com
 .imgbox.com
 .ipfscdn.io
-iterm2.com
 cf.javfree.me
 .javtxt.com
 .jitpack.io
@@ -727,6 +728,7 @@ telemetry.nextjs.org
 i.niupic.com
 .nodejs.org
 images.now-tv.com
+images.nvidia.com
 mstdn-s3.o3o.studio
 .odycdn.com
 res.cdn.office.net
@@ -839,6 +841,7 @@ cdn.weglot.com
 fast.wistia.com
 embed-ssl.wistia.com
 avts.wmlabs.net
+cdn.xeiaso.net
 img.xhacgn.com
 resize.yandex.net
 favicon.yandex.net
@@ -1245,6 +1248,7 @@ thumbnailer.mixcloud.com
 dynamic-assets.mobilius.top
 cdn.modrinth.com
 cdn-raw.modrinth.com
+momentjs.com
 .muscache.com
 .myavlive.com
 static.namebeta.com
@@ -1280,6 +1284,8 @@ cdn-thumbs.porntube.com
 media.pullopen.xyz
 client.px-cloud.net
 api.qrserver.com
+assets.queue-it.net
+static.queue-it.net
 libs.quillbot.com
 assets.quillbot.com
 .quoracdn.net
@@ -2141,8 +2147,8 @@ cdn-a.sonyentertainmentnetwork.com
 runkit-packages-static-executables.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-08-09T05:54:57.777Z
-# Size: 558
+# Last Updated: 2024-08-12T15:30:59.439Z
+# Size: 559
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2234,6 +2240,7 @@ dl.l.google.com
 cache.pack.google.com
 download.mlcc.google.com
 download.tensorflow.google.com
+iterm2.com
 .repo.jing.rocks
 mirrors.edge.kernel.org
 .mega.co.nz
