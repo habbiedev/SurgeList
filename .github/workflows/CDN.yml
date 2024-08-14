@@ -27,14 +27,6 @@ jobs:
           sed -i '/################## EOF ##################/d' CDN.txt
           sed -i '/this_ruleset_is_made_by_sukkaw.ruleset.skk.moe/d' CDN.txt
 
-      - name: Append Domains
-        run: |
-          echo "emby.aca.best" >> CDN.txt
-          echo "stream1.misakaf.org" >> CDN.txt
-          echo "stream2.misakaf.org" >> CDN.txt
-          echo "stream3.misakaf.org" >> CDN.txt
-          echo "stream4.misakaf.org" >> CDN.txt
-
       - name: Commit and Push
         run: |
           git config --local user.email "action@github.com"
