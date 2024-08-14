@@ -17,8 +17,9 @@ jobs:
           curl https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules-surge.conf -o adrules-surge.conf
           grep 'DOMAIN-WILDCARD' adrules-surge.conf > Adrules_WildCard.txt
           echo "DOMAIN-WILDCARD,*pcdn*.biliapi.net" >> Adrules_WildCard.txt
-          curl https://scripthub.cross.habbie.top/file/_start_/https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list/_end_/qx_RuCu6_MyBlockAds.list?type=rule-set&target=surge-rule-set&x=mall.bilibili.com%2Bpassport.bilibili.com&del=true&nore=true&sni=httpdns%2B163 >> Adrules_WildCard.txt
-
+          curl -f "https://scripthub.cross.habbie.top/file/_start_/https://raw.githubusercontent.com/RuCu6/QuanX/main/Rules/MyBlockAds.list/_end_/qx_RuCu6_MyBlockAds.list?type=rule-set&target=surge-rule-set&x=mall.bilibili.com%2Bpassport.bilibili.com&del=true&nore=true&sni=httpdns%2B163" >> Adrules_WildCard.txt || exit 1
+          cat Adrules_WildCard.txt
+          
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
