@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-13T18:29:29.813Z
-# Size: 2151
+# Last Updated: 2024-08-18T13:07:33.709Z
+# Size: 2156
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -463,6 +463,7 @@ cdn01.jotfor.ms
 cdn02.jotfor.ms
 cdn03.jotfor.ms
 static-cdn.jtvnw.net
+img.kemono.su
 media.ra.kroll.com
 .kwcdn.com
 wandi-6402.kxcdn.com
@@ -599,6 +600,7 @@ signal.cdnbye.com
 tracker.cdnbye.com
 opensignal.cdnbye.com
 signalcloud.cdnbye.com
+static.chaika.moe
 assets.change.org
 static.change.org
 assets-fe.change.org
@@ -1251,6 +1253,7 @@ assets-next.matters.news
 .cdn.medallia.com
 .cdn.survey.medallia.com
 static.mendeley.com
+static.mikuclub.fun
 api.mintlify.com
 thumbnailer.mixcloud.com
 dynamic-assets.mobilius.top
@@ -1392,6 +1395,7 @@ claritystatic.azureedge.net
 xpaywalletcdn.azureedge.net
 .edgestorewebcdn.azureedge.net
 edgeassetservice.azureedge.net
+vscodeexperiments.azureedge.net
 edge-mobile-static.azureedge.net
 edge-consumer-static.azureedge.net
 cdn.babylonjs.com
@@ -1507,6 +1511,7 @@ js.qualified.com
 .siteintercept.qualtrics.com
 error.rakuten.co.jp
 cdn.rex.contents.rakuten.co.jp
+.randomuser.me
 img.represent.com
 img.riskified.com
 .runkitcdn.com
