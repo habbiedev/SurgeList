@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-20T13:50:07.552Z
-# Size: 2157
+# Last Updated: 2024-08-21T05:57:25.785Z
+# Size: 2163
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -313,6 +313,8 @@ js.short.io
 .ipfs.slang.cx
 js.smile.io
 cdn.split.io
+sdk.split.io
+streaming.split.io
 c.start.me
 f.start.me
 static.start.me
@@ -685,6 +687,7 @@ images.idgesg.net
 .cdn.ifixit.com
 .iggcdn.com
 .imgbox.com
+p.inari.site
 .ipfscdn.io
 cf.javfree.me
 .javtxt.com
@@ -882,6 +885,7 @@ cdn-mobile.aptoide.com
 .archive.org
 static.assetlab.io
 consentdeliveryfd.azurefd.net
+static.bangumi.moe
 .bdzybf7.com
 a5.behance.net
 mir-s3-cdn-cf.behance.net
@@ -1003,7 +1007,6 @@ assets.mailgun.com
 img-cos.mandaoo.com
 cdn.mathjax.org
 static.maxmind.com
-download.maxmind.com
 medias.meow.social
 minotar.net
 .mktgcdn.com
@@ -1028,6 +1031,7 @@ static.nhentai.net
 .oktacdn.com
 static.olelive.com
 assets.onestore.ms
+cdn.onetime.dog
 assets.ontrack.com
 p-smith.com
 cdn.parsely.com
@@ -1124,6 +1128,7 @@ web-assets.zendesk.com
 pic.ziyuan.wang
 .zohocdn.com
 .4everland.io
+image.p-c2-x.abema-tv.com
 static.addtoany.com
 cdn.adguard.info
 assets.adobedtm.com
@@ -1367,7 +1372,6 @@ c.1password.com
 i.1password.com
 .ipfs.4everland.xyz
 static.agilebits.com
-app-updates.agilebits.com
 mycommerce.akamaized.net
 viu-static.akamaized.net
 mwf-service.akamaized.net
@@ -1570,7 +1574,6 @@ s3.eu-central-2.wasabisys.com
 upload.wikimedia.org
 .wixstatic.com
 .files.wordpress.com
-downloads.wordpress.org
 .xdaimages.com
 cdn.yinghuazy.xyz
 web-assets.zendesk.co.jp
@@ -1678,7 +1681,6 @@ w2.influxdata.com
 .storage.infomaniak.com
 .infura-ipfs.io
 cdn.ip2location.io
-updates.istatmenus.app
 pkg-cdn.jetbrains.team
 packages.jetbrains.team
 content.jwplatform.com
@@ -1732,6 +1734,7 @@ s3.stackabuse.com
 tiles.stadiamaps.com
 .static.domains
 .teraboxcdn.com
+media.themoviedb.org
 widget.trustpilot.com
 simplicity.trustpilot.com
 user-images.trustpilot.com
@@ -1778,6 +1781,9 @@ ddcdn.comtucdncom.com
 js.createsend1.com
 css.createsend1.com
 images.store.crowdstrike.com
+imgsrv.crunchyroll.com
+static.crunchyroll.com
+img1.ak.crunchyroll.com
 i.dailymail.co.uk
 scripts.dailymail.co.uk
 .divio-media.net
@@ -2166,8 +2172,8 @@ cdn-a.sonyentertainmentnetwork.com
 runkit-packages-static-executables.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-08-13T15:21:33.712Z
-# Size: 559
+# Last Updated: 2024-08-21T05:57:25.805Z
+# Size: 563
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2292,6 +2298,7 @@ mirror.ghproxy.com
 .ks3-rus.ksyuncs.com
 .ks3-sgp.ksyuncs.com
 .ks3-cn-hk-1.ksyuncs.com
+download.maxmind.com
 download.mozilla.org
 download.nektony.com
 boot.netboot.xyz
@@ -2367,6 +2374,7 @@ packagespc.xboxlive.com
 c.1password.com
 downloads.1password.com
 cache.agilebits.com
+app-updates.agilebits.com
 steampipe.akamaized.net
 steampipe-kr.akamaized.net
 steampipe-partner.akamaized.net
@@ -2683,10 +2691,12 @@ mirrors.rpmfusion.org
 download.todesktop.com
 releases.whatpulse.org
 .dl.wireshark.org
+downloads.wordpress.org
 dl.discordapp.net
 artifacts.electronjs.org
 update.googleapis.com
 releases.grapheneos.org
+updates.istatmenus.app
 .nitro.download
 pixeldrain.com
 update.sleazyfork.org
