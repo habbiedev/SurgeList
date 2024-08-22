@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 295
+# DOMAIN-WILDCARD: 296
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -21,6 +21,7 @@ DOMAIN-WILDCARD,adcounter*.uptolike.ru
 DOMAIN-WILDCARD,adcs-*.myappsget.com
 DOMAIN-WILDCARD,adi*.cnool.net
 DOMAIN-WILDCARD,admicro*.vcmedia.vn
+DOMAIN-WILDCARD,admob-app-id-*.firebaseio.com
 DOMAIN-WILDCARD,ads*-adnow.com
 DOMAIN-WILDCARD,ads*-normal*.zijieapi.com
 DOMAIN-WILDCARD,ads*-normal-hl.zijieapi.com
