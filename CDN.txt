@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-27T00:02:56.266Z
-# Size: 2184
+# Last Updated: 2024-08-28T15:50:04.759Z
+# Size: 2190
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -362,7 +362,7 @@ static-cdn.123rf.com
 e3.365dm.com
 pacdn.500px.org
 drscdn.500px.org
-imgcdn.91pic.org
+.91pic.org
 .img1.acsta.net
 .img2.acsta.net
 .img3.acsta.net
@@ -585,6 +585,8 @@ cdn-yotpo-images-production.yotpo.com
 .ytimg.com
 .9cache.com
 res.abc.net.au
+.glass.adidas.com
+.assets.adidas.com
 .adtidy.org
 akidoo.top
 .alexdav.id
@@ -624,6 +626,7 @@ assets.codepen.io
 static.codepen.io
 cpwebassets.codepen.io
 cdn.concert.io
+assets.context.ly
 static.cracked.io
 static.cracked.to
 image.crisp.chat
@@ -1588,6 +1591,7 @@ assets.videowise.com
 waitlisted.co
 .s3.wasabisys.com
 s3.eu-central-2.wasabisys.com
+image.westinyou.com
 upload.wikimedia.org
 .wixstatic.com
 .files.wordpress.com
@@ -1770,6 +1774,7 @@ versionbadg.es
 .ziffstatic.com
 .zippyshare.com
 .zohostatic.com
+assets.aboutamazon.com
 showcase.abovemarket.com
 easylist-downloads.adblockplus.org
 .addons.business
@@ -1977,6 +1982,7 @@ cdn-media-2.freecodecamp.org
 cdn.hongkongcard.com
 cdn1.identitymind.com
 .images-iherb.com
+.img-dpreview.com
 spcdn.incartupsell.com
 media.infosec.exchange
 .jinyingimage.com
