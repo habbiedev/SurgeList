@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-28T15:50:04.759Z
-# Size: 2190
+# Last Updated: 2024-08-31T18:21:04.492Z
+# Size: 2188
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -761,6 +761,7 @@ res-1.cdn.office.net
 shell.cdn.office.net
 .public.cdn.office.net
 res-geo.cdn.office.net
+statics.teams.cdn.office.net
 static.oklink.com
 static.opensea.io
 static.oracle.com
@@ -854,6 +855,7 @@ img.utdstc.com
 .vercel.app
 go.vercel.com
 assets.vercel.com
+telemetry.vercel.com
 image.ship.vercel.com
 .vercel.dev
 cdn.vidible.tv
@@ -1258,6 +1260,7 @@ data.jsdelivr.com
 .jsdelivr.net
 cdn.jwplayer.com
 img.kbhgames.com
+.kirafile.com
 cdn.langshop.app
 assets.leetcode.com
 static-lccn.leetcode.com
@@ -1555,6 +1558,7 @@ static.spankbang.com
 .stackblitz.io
 content-prod-live.cert.starbucks.com
 .proxy.startpage.com
+.proxy1.startpage.com
 .proxy2.startpage.com
 .eu-proxy.startpage.com
 .eu-browse.startpage.com
@@ -1902,15 +1906,7 @@ static1.squarespace.com
 static3.squarespace.com
 cdn.starapps.studio
 bcdn.starapps.studio
-.c.staticblitz.com
-.t.staticblitz.com
-.w.staticblitz.com
-nr.staticblitz.com
-.npm.staticblitz.com
-.v-corp.staticblitz.com
-.w-corp.staticblitz.com
-ghavatars.staticblitz.com
-.w-credentialless.staticblitz.com
+.staticblitz.com
 .staticimgly.com
 .staticworld.net
 .steamstatic.com
@@ -2158,6 +2154,7 @@ assets4.mist-train-girls.com
 oss-binaries.phusionpassenger.com
 static2.sharepointonline.com
 .steamusercontent.com
+typescript-eslint.io
 .cloudflarestorage.com
 .envatousercontent.com
 .framerusercontent.com
@@ -2173,6 +2170,7 @@ vanilla-extract.style
 .yammerusercontent.com
 .firefoxusercontent.com
 .misskeyusercontent.com
+.w-corp-staticblitz.com
 .1passwordusercontent.ca
 .1passwordusercontent.eu
 cdn.cms-twdigitalassets.com
