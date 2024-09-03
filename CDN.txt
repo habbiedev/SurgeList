@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-01T20:07:00.319Z
-# Size: 2193
+# Last Updated: 2024-09-03T18:39:37.018Z
+# Size: 2196
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1260,6 +1260,7 @@ data.jsdelivr.com
 .jsdelivr.net
 cdn.jwplayer.com
 img.kbhgames.com
+cdn.kinopio.club
 .kirafile.com
 cdn.langshop.app
 assets.leetcode.com
@@ -1685,6 +1686,7 @@ fonts.googleapis.com
 .firestore.googleapis.com
 safebrowsing.googleapis.com
 .firebasestorage.googleapis.com
+optimizationguide-pa.googleapis.com
 .content-storage-upload.googleapis.com
 badges.greenkeeper.io
 cdn.hackernoon.com
@@ -2160,6 +2162,7 @@ oss-binaries.phusionpassenger.com
 static2.sharepointonline.com
 .steamusercontent.com
 typescript-eslint.io
+telemetry.1passwordservices.com
 .cloudflarestorage.com
 .envatousercontent.com
 .framerusercontent.com
@@ -2202,7 +2205,7 @@ cdn-a.sonyentertainmentnetwork.com
 runkit-packages-static-executables.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-08-21T05:57:25.805Z
+# Last Updated: 2024-09-03T18:39:37.035Z
 # Size: 563
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
