@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-03T18:39:37.018Z
-# Size: 2196
+# Last Updated: 2024-09-04T19:06:03.396Z
+# Size: 2200
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -550,6 +550,7 @@ media1.tenor.com
 assets.toot.cafe
 .ipfs.trusti.id
 .twimg.com
+assets.twitch.tv
 clips-media-assets2.twitch.tv
 .unpkg.com
 cdn.unwire.hk
@@ -1032,6 +1033,7 @@ images.moegoat.com
 static.moegoat.com
 opt.moovweb.net
 stubdownloader.services.mozilla.com
+firefox.settings.services.mozilla.com
 .cdn.mozilla.net
 .itsre-sumo.mozilla.net
 archive.mozilla.org
@@ -1483,6 +1485,7 @@ static-web.grammarly.com
 denali-static.grammarly.com
 assets.extension.grammarly.com
 config.extension.grammarly.com
+static.institution.grammarly.com
 .cdn.greenhouse.io
 boards.greenhouse.io
 gtranslate.io
@@ -1499,6 +1502,7 @@ v.hillwaver.com
 .imgmrplay.xyz
 static.incapsula.com
 static.infomaniak.ch
+.intuitcdn.net
 cdn.ipregistry.co
 .jdbstatic.com
 cdn.jetphotos.com
@@ -2205,7 +2209,7 @@ cdn-a.sonyentertainmentnetwork.com
 runkit-packages-static-executables.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-09-03T18:39:37.035Z
+# Last Updated: 2024-09-04T14:22:17.085Z
 # Size: 563
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
