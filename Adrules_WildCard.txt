@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 294
+# DOMAIN-WILDCARD: 295
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -227,6 +227,7 @@ DOMAIN-WILDCARD,px*.mediahills.ru
 DOMAIN-WILDCARD,pxl-*.ozone.ru
 DOMAIN-WILDCARD,qpb*.sohu.com
 DOMAIN-WILDCARD,quangcao-*.epicdn.me
+DOMAIN-WILDCARD,query*.petametrics.com
 DOMAIN-WILDCARD,reachableads-av.*.amazonaws.com
 DOMAIN-WILDCARD,report*.appmetrica.webvisor.com
 DOMAIN-WILDCARD,report.*.qq.com
