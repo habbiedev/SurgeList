@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-07T15:26:16.432Z
-# Size: 2213
+# Last Updated: 2024-09-08T20:00:43.597Z
+# Size: 2214
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -661,6 +661,7 @@ s1.feedly.com
 fontbit.io
 .ipfs.fooock.com
 imageio.forbes.com
+thumbor.forbes.com
 objects.g0v.social
 assets.genius.com
 thumbs.gfycat.com
@@ -1044,7 +1045,6 @@ firefox.settings.services.mozilla.com
 .cdn.mozilla.net
 .itsre-sumo.mozilla.net
 archive.mozilla.org
-versioncheck-bg.addons.mozilla.org
 cdn.myfonts.net
 .ipfs.namebase.io
 iframe.nbcnews.com
@@ -1682,6 +1682,7 @@ external-content.duckduckgo.com
 .ebaystatic.com
 cdn2.editmysite.com
 images.emojiterra.com
+web-assets.esetstatic.com
 images.everyplate.com
 .filecunhua.top
 cdn.fourthwall.com
@@ -2222,8 +2223,8 @@ cdn-a.sonyentertainmentnetwork.com
 runkit-packages-static-executables.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-08-21T05:57:25.805Z
-# Size: 563
+# Last Updated: 2024-09-08T20:00:43.613Z
+# Size: 566
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2349,7 +2350,10 @@ mirror.ghproxy.com
 .ks3-sgp.ksyuncs.com
 .ks3-cn-hk-1.ksyuncs.com
 download.maxmind.com
+aus5.mozilla.org
 download.mozilla.org
+aus2-community.mozilla.org
+versioncheck-bg.addons.mozilla.org
 download.nektony.com
 boot.netboot.xyz
 dl.nssurge.com
