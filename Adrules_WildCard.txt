@@ -294,4 +294,3 @@ DOMAIN-WILDCARD,zbc6hye*.xyz
 DOMAIN-WILDCARD,zcchyr*.xyz
 DOMAIN-WILDCARD,zcchyw*.xyz
 DOMAIN-WILDCARD,zhizhizhizhi.oss-*.aliyuncs.com
-DOMAIN-WILDCARD,*pcdn*.biliapi.net
