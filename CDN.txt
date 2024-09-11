@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-09T17:10:23.787Z
-# Size: 2261
+# Last Updated: 2024-09-11T14:31:32.961Z
+# Size: 2259
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -42,10 +42,7 @@ i.ibb.co
 image.ibb.co
 cdn.img.ly
 bot.ivy.ai
-webpack.js.org
-npmgraph.js.org
-storybook.js.org
-ipe-plugins.js.org
+.js.org
 npm.jsr.io
 .gravity.jup.io
 static-cache.k2s.cc
@@ -381,6 +378,7 @@ npm.antfu.dev
 pba.apple.com
 ocsp2.apple.com
 events-live.apple.com
+lcdn-locator.apple.com
 events-delivery.apple.com
 s3.arkjp.net
 static.arxiv.org
@@ -2270,8 +2268,8 @@ cdn-a.sonyentertainmentnetwork.com
 runkit-packages-static-executables.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-09-08T20:00:43.613Z
-# Size: 566
+# Last Updated: 2024-09-11T14:31:32.976Z
+# Size: 568
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2759,6 +2757,7 @@ downloadr2.apkmirror.com
 product-downloads.atlassian.com
 playwright.azureedge.net
 pf-cdn-content-prod.azureedge.net
+dl.cloudsmith.io
 .dl.elementary.io
 .download.epicgames.com
 download2.epicgames.com
@@ -2799,6 +2798,7 @@ update.googleapis.com
 releases.grapheneos.org
 updates.istatmenus.app
 .nitro.download
+deb.nodesource.com
 pixeldrain.com
 update.sleazyfork.org
 os-cdn.virtfusion.net
