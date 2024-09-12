@@ -39,6 +39,7 @@ api.vc.bilibili.com
 api.vip.miui.com
 api.weibo.cn
 api.weibo.com
+api.wmpvp.com
 api.xiaoheihe.cn
 api.zhihu.com
 api2.coolapk.com
