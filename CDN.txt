@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-12T14:47:34.320Z
-# Size: 2266
+# Last Updated: 2024-09-13T14:34:10.518Z
+# Size: 2270
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -146,6 +146,7 @@ pomf2.lain.la
 snippet.maze.co
 oss.moe.cat
 assets.msn.com
+mui.com
 .cfcdn.mux.com
 ca.nfs.pub
 .cdn.nimg.jp
@@ -1565,6 +1566,7 @@ ajax.microsoft.com
 wcpstatic.microsoft.com
 images.ecomm.microsoft.com
 store-images.microsoft.com
+cdn.miohentai.com
 public.mocortech.com
 static.mocortech.com
 images.moovitapp.com
@@ -1623,6 +1625,7 @@ link.storjshare.io
 .a.storyblok.com
 .stripecdn.com
 cdn-service.jp.sumologic.com
+events.tableplus.com
 .thisiscdn.com
 thumbsnap.com
 .tiktokcdn.com
@@ -2082,6 +2085,7 @@ image.shutterstock.com
 .static.microsoft
 .staticflickr.com
 .streamhentai.org
+.stripeassets.com
 cdn.sunofbeaches.com
 .susercontent.com
 blacklist.tampermonkey.net
