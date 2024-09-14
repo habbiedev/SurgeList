@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-13T14:34:10.518Z
-# Size: 2270
+# Last Updated: 2024-09-14T14:43:06.199Z
+# Size: 2281
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -109,6 +109,7 @@ cdnjs.cat.net
 fonts.cat.net
 gravatar.cat.net
 media.cnn.com
+proxy.cors.sh
 .csb.app
 pkg.csb.dev
 cdn.css.net
@@ -120,6 +121,7 @@ cdn3.dan.com
 docs.rs
 image.dooo.ng
 media.e4le.me
+.public.ecr.aws
 .esm.run
 aimg.fc2.com
 media.fc2.com
@@ -176,6 +178,7 @@ cdn.plot.ly
 cdn.plyr.io
 .pnpm.io
 .pztv.ca
+.quay.io
 r.r10s.jp
 ias.r10s.jp
 .redd.it
@@ -663,7 +666,6 @@ screenshots.debian.net
 .dilcdn.com
 media.dlsite.com
 .fastly.docker.com
-.desktop.docker.com
 .cloudflare.docker.com
 plugins.dprint.dev
 .ipfs.drink.cafe
@@ -692,6 +694,7 @@ thumbs.gfycat.com
 .gitcdn.xyz
 raw.github.com
 .pkg.github.com
+tuf-repo.github.com
 .gitpage.si
 .registry.gitplac.si
 .glbimg.com
@@ -841,6 +844,7 @@ static.scroll.com
 vice-prod.sdiapi.com
 cdn.setapp.com
 imgix.setapp.com
+stats.setapp.com
 .sftcdn.net
 .shgcdn.com
 .shields.io
@@ -1233,11 +1237,13 @@ logo.clearbit.com
 fonts.codeberg.org
 assets.coinbase.com
 static-assets.coinbase.com
+s1.coincarp.com
 downloads.coindesk.com
 media-cdn.comfy.social
 crt.comodoca.com
 cds.connatix.com
 img.connatix.com
+.corsproxy.io
 .crossbell.io
 cdn.datacamp.com
 david-dm.org
@@ -1271,6 +1277,7 @@ static-assets-web.flixcart.com
 resizing.flixster.com
 filestore.fortinet.com
 badges.frapsoft.com
+thingproxy.freeboard.io
 maps.geoapify.com
 geoip-js.com
 static.getbutton.io
@@ -1381,6 +1388,7 @@ public.saasexch.com
 embed.savvycal.com
 cdn.mcauto-images-production.sendgrid.net
 cdn.signalfx.com
+tuf-repo-cdn.sigstore.dev
 .sitescdn.net
 resources-live.sketch.cloud
 static1.smartbear.co
@@ -1486,6 +1494,7 @@ cdn.ceres9350.com
 js.chargebee.com
 cdn.cloudcraft.co
 cloudflare.tv
+docker.cloudsmith.io
 static.cnbeta.com.tw
 .cnbetacdn.com
 cdn.cocoapods.org
@@ -1664,6 +1673,7 @@ assets.zerohedge.com
 .zohostatic.eu
 .abc-cdn.net.au
 static.adguardvpn.com
+api.allorigins.win
 creativajs.altervista.org
 .ampproject.org
 .anpoimages.com
@@ -1760,6 +1770,7 @@ cdn.hentaibomb.com
 code.highcharts.com
 .hs-scripts.com
 .hs-scripts.net
+cors-proxy.htmldriven.com
 .cdn-lfs.huggingface.co
 .cdn-uploads.huggingface.co
 .cdn-lfs-us-1.huggingface.co
@@ -2279,8 +2290,8 @@ cdn-a.sonyentertainmentnetwork.com
 runkit-packages-static-executables.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-09-11T14:31:32.976Z
-# Size: 568
+# Last Updated: 2024-09-14T04:51:34.195Z
+# Size: 569
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2363,7 +2374,7 @@ security.debian.org
 .ftp-master.debian.org
 .dl.dlsite.com
 download.dlsite.com
-desktop.docker.com
+.desktop.docker.com
 download.docker.com
 .mirrors.dotsrc.org
 codeload.github.com
@@ -2450,6 +2461,7 @@ level3.blizzard.com
 .mirror.clarkson.edu
 blizzard.gcdn.cloudn.co.kr
 .mirror.constant.com
+repo.debiancn.org
 .fuwamofu.com
 download.gigabyte.com
 download.iboysoft.com
