@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-14T14:43:06.199Z
-# Size: 2281
+# Last Updated: 2024-09-15T16:35:51.778Z
+# Size: 2296
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -57,7 +57,6 @@ static.nrk.no
 cdn.plu.mx
 images.ptt.cc
 .qy0.ru
-.r2.dev
 img.reg.ru
 files.reg.ru
 static-effect.reg.ru
@@ -329,6 +328,7 @@ js.smile.io
 cdn.split.io
 sdk.split.io
 streaming.split.io
+telemetry.split.io
 c.start.me
 f.start.me
 static.start.me
@@ -1024,6 +1024,7 @@ cf.hamreus.com
 eu.hamreus.com
 us.hamreus.com
 .hardbin.com
+public.hare200.com
 static.heavy-r.com
 pics.hentai.name
 js.hsforms.net
@@ -1041,12 +1042,14 @@ i.imgflip.com
 .imglink.win
 .imgsmail.ru
 .imgyzzy.com
+static.iris.informa.com
 i.insider.com
 widget.intercom.io
 assets.ipstack.com
 static.javcdn.info
 pcz.javidol.org
 cdn.jetboost.io
+pg2dhpc3p5ec22g3.jkforum.net
 cdn.jolipage.co
 assets.jolipage.co
 pool.jortage.com
@@ -1237,6 +1240,7 @@ logo.clearbit.com
 fonts.codeberg.org
 assets.coinbase.com
 static-assets.coinbase.com
+dynamic-assets.coinbase.com
 s1.coincarp.com
 downloads.coindesk.com
 media-cdn.comfy.social
@@ -1787,6 +1791,9 @@ w2.influxdata.com
 cdn.ip2location.io
 pkg-cdn.jetbrains.team
 packages.jetbrains.team
+ww2.justanswer.com
+components.justanswer.com
+ww2-secure.justanswer.com
 content.jwplatform.com
 .ipfs.kinematiks.com
 .liangzipic.com
@@ -1798,6 +1805,7 @@ assets.mayoclinic.org
 design.mayoclinic.org
 .media-imdb.com
 assets.mozilla.social
+.myfilebase.com
 .mypinata.cloud
 .myshopapps.com
 static.mytonwallet.io
@@ -1880,11 +1888,13 @@ s3.eu-central-003.backblazeb2.com
 app.backinstock.org
 t.betterstack.com
 cdnjs.betterstack.com
+blade-public-static.blade-group.com
 .bleepstatic.com
 cdn.calibermind.com
 .cdn-website.com
 media.cleanshot.cloud
 ddcdn.comtucdncom.com
+images.contentstack.io
 js.createsend1.com
 css.createsend1.com
 images.store.crowdstrike.com
@@ -1920,6 +1930,7 @@ img.hentaihaven.xxx
 media.istockphoto.com
 cdn.linearicons.com
 cdn.livechatinc.com
+.localizecdn.com
 assets0.lottiefiles.com
 assets1.lottiefiles.com
 assets2.lottiefiles.com
@@ -2042,6 +2053,8 @@ assets.clever-cloud.com
 components.clever-cloud.com
 static-assets.clubhouseapi.com
 cdn.cnx-software.com
+ui.contentstack.com
+eu-images.contentstack.com
 .coral.coralproject.net
 repos.danosproject.org
 anchor.digitalocean.com
@@ -2090,6 +2103,7 @@ publicsuffix.org
 .pythonhosted.org
 .redditstatic.com
 cdn.robinpro.gallery
+ak.sail-horizon.com
 .scribdassets.com
 image.shutterstock.com
 .ipfs.soul-network.com
@@ -2202,6 +2216,7 @@ web-assets.otogi-frontier.com
 api.pwnedpasswords.com
 .quip-marketing.com
 .replicate.delivery
+micro.rubiconproject.com
 .safebrowsing.apple
 image.theblockbeats.info
 vscode-sync.trafficmanager.net
@@ -2247,7 +2262,6 @@ static2.sharepointonline.com
 .steamusercontent.com
 typescript-eslint.io
 telemetry.1passwordservices.com
-.cloudflarestorage.com
 .envatousercontent.com
 .framerusercontent.com
 .githubusercontent.com
@@ -2277,6 +2291,7 @@ cdn.european-alternatives.eu
 cdn.minecraft-server-list.com
 .ravencoinipfs-gateway.com
 .akamai-content-network.com
+.app-analytics-services.com
 .hackerone-user-content.com
 .hubspotusercontent-eu1.net
 .hubspotusercontent-na1.net
@@ -2288,10 +2303,11 @@ useruploads.visualwebsiteoptimizer.com
 cdn-a.sonyentertainmentnetwork.com
 .w-credentialless-staticblitz.com
 runkit-packages-static-executables.com
+
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-09-14T04:51:34.195Z
-# Size: 569
+# Last Updated: 2024-09-15T16:35:51.795Z
+# Size: 572
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2299,6 +2315,7 @@ runkit-packages-static-executables.com
 # This file contains domains for software updating & large file hosting.
 #########################################
 .cdn.ea.com
+.r2.dev
 dl.ui.com
 releases.arc.net
 formulae.brew.sh
@@ -2353,6 +2370,7 @@ mirror-cdn.xtom.com
 repo.carbon.sh
 file.chobit.cc
 download.cpuid.com
+downloader.cursor.sh
 down.filen.net
 store1.gofile.io
 .s3.fr-par.scw.cloud
@@ -2863,6 +2881,8 @@ get.pixelexperience.org
 download.pixelexperience.org
 .copr.fedorainfracloud.org
 .cloudflaremirrors.com
+.cloudflarestorage.com
 objects.githubusercontent.com
 pkg-containers.githubusercontent.com
 .digitaloceanspaces.com
+
