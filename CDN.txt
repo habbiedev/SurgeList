@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-15T16:35:51.778Z
-# Size: 2296
+# Last Updated: 2024-09-16T12:38:58.604Z
+# Size: 2298
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -107,6 +107,7 @@ ajax.cat.net
 cdnjs.cat.net
 fonts.cat.net
 gravatar.cat.net
+cdn.cnn.com
 media.cnn.com
 proxy.cors.sh
 .csb.app
@@ -470,7 +471,7 @@ static.gnome.org
 godoc.org
 static.gopro.com
 image.gyutto.jp
-player.h-cdn.com
+.h-cdn.com
 packages.httpie.io
 assets.humix.com
 video-meta.humix.com
@@ -619,6 +620,7 @@ assets.apnews.com
 emp.bbci.co.uk
 ichef.bbci.co.uk
 static.bbci.co.uk
+nav.files.bbci.co.uk
 static.files.bbci.co.uk
 www.bbthat.com
 .media.beeper.com
@@ -926,7 +928,6 @@ keyframe-cdn.abcnews.com
 assets-cdn.abcotvs.net
 static.ada.support
 cdn.adguard.com
-static.adguard.com
 .amaicdn.com
 .images.androeed.ru
 connectivitycheck.android.com
@@ -1526,6 +1527,7 @@ static.eroterest.net
 cache-05.filehippo.net
 .fiverrcdn.com
 .flagpedia.net
+.fncstatic.com
 .forbesimg.com
 cdn.fosstodon.org
 snippets.freshchat.com
@@ -2306,8 +2308,8 @@ runkit-packages-static-executables.com
 
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-09-15T16:35:51.795Z
-# Size: 572
+# Last Updated: 2024-09-16T12:38:58.618Z
+# Size: 573
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2420,6 +2422,7 @@ store.setapp.com
 download.sketch.com
 .archive.ubuntu.com
 security.ubuntu.com
+static.adguard.com
 download.anydesk.com
 edge.steam-dns.top.comcast.net
 dl.devmate.com
