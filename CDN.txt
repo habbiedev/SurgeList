@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-17T15:35:31.328Z
-# Size: 2301
+# Last Updated: 2024-09-18T15:18:34.210Z
+# Size: 2308
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -258,6 +258,7 @@ imgur.dcard.tw
 megapx-assets.dcard.tw
 .ipfs.decoo.io
 images.dmca.com
+.ehgt.org
 cdn.embed.ly
 media.evolv.ai
 participants.evolv.ai
@@ -1020,6 +1021,10 @@ images.g2crowd.com
 ocsp.godaddy.com
 rsi.grafana.com
 fonts.gstatic.com
+encrypted-tbn0.gstatic.com
+encrypted-tbn1.gstatic.com
+encrypted-tbn2.gstatic.com
+encrypted-tbn3.gstatic.com
 connectivitycheck.gstatic.com
 assets.gumroad.com
 public-files.gumroad.com
@@ -1700,6 +1705,7 @@ public-pages.cbinsights.com
 cdn-sellix.com
 .cdn-spurit.com
 pic.cdnclouder.com
+.static.chaosgroup.com
 .characterai.io
 js.chilipiper.com
 cp2.cloudflare.com
@@ -1867,6 +1873,7 @@ cdn.userreport.com
 cdn.verifypass.com
 versionbadg.es
 .vscode-cdn.net
+.csp.withgoogle.com
 .zi-scripts.com
 .ziffstatic.com
 .zippyshare.com
@@ -2311,8 +2318,8 @@ runkit-packages-static-executables.com
 
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-09-17T15:35:31.343Z
-# Size: 573
+# Last Updated: 2024-09-18T15:18:34.226Z
+# Size: 583
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2368,11 +2375,13 @@ cdn.kagi.com
 cdimage.kali.org
 dl.pstmn.io
 mac-release-static.stash.ws
+.swupdate.vray.com
 download.xbox.com
 mirror.xtom.com
 mirrors.xtom.com
 mirror-cdn.xtom.com
 repo.carbon.sh
+.swupdate.chaos.com
 file.chobit.cc
 download.cpuid.com
 downloader.cursor.sh
@@ -2388,11 +2397,13 @@ download.typora.io
 dl2.xmind.net
 dl3.xmind.net
 downloads.xrite.com
+download.bazzite.gg
 download.beeper.com
 .catbox.moe
 .deb.debian.org
 .ftp.debian.org
 .archive.debian.org
+.ftp2.de.debian.org
 security.debian.org
 .ftp-master.debian.org
 .dl.dlsite.com
@@ -2478,6 +2489,8 @@ dlgarenanow-a.akamaihd.net
 .oss-ap-southeast-6.aliyuncs.com
 .oss-ap-southeast-7.aliyuncs.com
 .oss-accelerate-overseas.aliyuncs.com
+.download.autodesk.com
+.autoupdatesvc.delivery.autodesk.com
 .content.cdp.bethesda.net
 .download.cdp.bethesda.net
 .cdn.blizzard.com
@@ -2813,6 +2826,7 @@ download4.epicgames.com
 fastly-download.epicgames.com
 .debian.map.fastlydns.net
 gog-cdn-lumen.secure2.footprint.net
+dl.getaurora.dev
 .releases.hashicorp.com
 cdn.hyperbeam.com
 download.jetbrains.com
@@ -2839,6 +2853,7 @@ download.todesktop.com
 releases.whatpulse.org
 .dl.wireshark.org
 downloads.wordpress.org
+.swupdate.chaosgroup.com
 dl.discordapp.net
 artifacts.electronjs.org
 update.googleapis.com
@@ -2879,6 +2894,8 @@ registry.fedoraproject.org
 client.hikarifield.co.jp
 download.hikarifield.co.jp
 .linodeobjects.com
+nobara-images.nobaraproject.org
+download.projectbluefin.io
 ctldl.windowsupdate.com
 builds.paranoidandroid.co
 ftp.androidfilehost.com
