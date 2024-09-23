@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-22T17:40:44.666Z
+# Last Updated: 2024-09-23T09:14:38.550Z
 # Size: 2341
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -636,9 +636,8 @@ assets.apnews.com
 .badgen.net
 emp.bbci.co.uk
 ichef.bbci.co.uk
+.files.bbci.co.uk
 static.bbci.co.uk
-nav.files.bbci.co.uk
-static.files.bbci.co.uk
 www.bbthat.com
 .media.beeper.com
 .content001.bet365.com
@@ -862,6 +861,7 @@ cdn.setapp.com
 imgix.setapp.com
 stats.setapp.com
 .sftcdn.net
+assets.shazam.com
 .shgcdn.com
 .shields.io
 updates.signal.org
