@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-27T18:48:44.695Z
-# Size: 2386
+# Last Updated: 2024-09-29T20:17:38.202Z
+# Size: 2391
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -694,6 +694,7 @@ cdn.cxense.com
 screenshots.debian.net
 cdn.decrypt.co
 img.decrypt.co
+cdn.deta.space
 .dilcdn.com
 media.dlsite.com
 .fastly.docker.com
@@ -1058,6 +1059,7 @@ t0.gstatic.com
 t1.gstatic.com
 t2.gstatic.com
 t3.gstatic.com
+maps.gstatic.com
 fonts.gstatic.com
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
@@ -1162,6 +1164,7 @@ www.pngmart.com
 .pornimg.xyz
 .postimg.org
 .pravatar.cc
+prettier.io
 .pstatic.net
 cdn.quadpay.com
 static.rakuten.com
@@ -1934,6 +1937,7 @@ cdn.userreport.com
 cdn.verifypass.com
 versionbadg.es
 .vscode-cdn.net
+storage.withfabric.xyz
 .csp.withgoogle.com
 .zi-scripts.com
 .ziffstatic.com
@@ -2345,6 +2349,7 @@ assets.braintreegateway.com
 rawmarkdown.cloudflareaccess.org
 pkg.cloudflareclient.com
 .cloudflarestream.com
+.googleadservices.com
 .hscollectedforms.net
 assets4.mist-train-girls.com
 oss-binaries.phusionpassenger.com
