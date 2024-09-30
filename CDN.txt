@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-29T20:17:38.202Z
-# Size: 2391
+# Last Updated: 2024-09-30T17:41:22.691Z
+# Size: 2400
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -306,6 +306,7 @@ cdn.loom.com
 img.lvv2.com
 s3.masto.ai
 media.masto.nu
+cdn-longterm.mee6.xyz
 mastodon-static.miao.dev
 media.mstdn.io
 .ipfs.mttk.net
@@ -784,6 +785,7 @@ static.linear.app
 .cms-cdn.linear.app
 cdn2.macpaw.com
 cdn2-imgix.macpaw.com
+stats.setapp.macpaw.dev
 assets.auth.magic.link
 static-assets.mapbox.com
 cdn.masto.host
@@ -891,6 +893,8 @@ resources-cache.prod.sketch.com
 .sndcdn.com
 cdn.solvvy.com
 static.mysph.sph.com.sg
+cdn.prod.www.spiegel.de
+sp-spiegel-de.spiegel.de
 .ss-cdn.com
 cdn1.stamped.io
 cdn2.stamped.io
@@ -1327,6 +1331,7 @@ eightcha.com
 aff.equalweb.com
 cdn.equalweb.com
 static.esimplus.net
+assets.euractiv.com
 static.euronews.com
 assets.exercism.org
 graph.facebook.com
@@ -1775,6 +1780,7 @@ cdnjs.cloudflare.com
 apple-relay.cloudflare.com
 static.dash.cloudflare.com
 cf-assets.www.cloudflare.com
+.csp-reporting.cloudflare.com
 favicons.teams.cloudflare.com
 .privacy-gateway.cloudflare.com
 .cloudfront.net
@@ -2041,6 +2047,8 @@ i.mydramalist.com
 cdn.myportfolio.com
 pro2-ui-assets-s3-fy.myportfolio.com
 cdn.neverbounce.com
+assets.newrepublic.com
+images.newrepublic.com
 .nftstorage.link
 ocecdn.oraclecloud.com
 assets-production.packagecloud.io
@@ -2272,6 +2280,7 @@ cdn.windowsreport.com
 .zohowebstatic.com
 prod.addictinggames.com
 .alonestreaming.com
+cdn.consentmanager.net
 userimg.customeriomail.com
 userimg-bee.customeriomail.com
 userimg-assets.customeriomail.com
