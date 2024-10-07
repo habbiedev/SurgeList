@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-06T00:40:50.483Z
-# Size: 2444
+# Last Updated: 2024-10-07T19:20:33.378Z
+# Size: 2459
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -103,6 +103,7 @@ ooo.0o0.ooo
 adkit.9pub.io
 content.any.run
 static2.avg.com
+.marketing.aws.dev
 seal-newyork.bbb.org
 gn-web-assets.api.bbc.com
 cdn.bfe.dev
@@ -138,6 +139,7 @@ static-sv.fc2.com
 live-storage.fc2.com
 static-e.live.fc2.com
 contents-thumbnail2.fc2.com
+static-media.fox.com
 badge.fury.io
 assets.garr.it
 .ghcr.io
@@ -150,6 +152,8 @@ pic.imge.cc
 .ipfs.yt
 .ipns.co
 static.itch.io
+ovp.itv.com
+assets.fe.itv.com
 .ipfs.jbb.one
 cdn.jifi.co
 gfonts.jifi.co
@@ -422,6 +426,7 @@ linuxiac.b-cdn.net
 divhunt-site.b-cdn.net
 panel-production-libs.b-cdn.net
 .hits.b3log.org
+static.bbc.co.uk
 public-cdn.bblmw.com
 images.bfmtv.com
 img.biguz.net
@@ -724,6 +729,7 @@ fontbit.io
 .ipfs.fooock.com
 imageio.forbes.com
 thumbor.forbes.com
+assets.foxdcg.com
 objects.g0v.social
 assets.genius.com
 thumbs.gfycat.com
@@ -926,6 +932,7 @@ cdn.thisav.com
 img.timero.xyz
 .tiqcdn.com
 file.tktube.com
+.tmsimg.com
 cdn.ttloli.com
 cdn2.ttloli.com
 .media.tumblr.com
@@ -1383,6 +1390,7 @@ media.hachyderm.io
 cdn.hashnode.com
 newassets.hcaptcha.com
 cdn.heysavvy.com
+.hgagecdn.com
 cdn10.hiftporn.fun
 fastporndelivery.hqporner.com
 .ibyteimg.com
@@ -1661,6 +1669,7 @@ static.incapsula.com
 static.infomaniak.ch
 .intuitcdn.net
 cdn.ipregistry.co
+.itvstatic.com
 .jdbstatic.com
 cdn.jetphotos.com
 .jisuimage.com
@@ -1789,6 +1798,10 @@ cache.armorgames.com
 files.armorgames.com
 lib.arvancloud.com
 cdn.autoketing.org
+i2.bahamut.com.tw
+p2.bahamut.com.tw
+truth.bahamut.com.tw
+avatar2.bahamut.com.tw
 .bestjavcdn.com
 proxy.beyondwords.io
 cdn-www.bluestacks.com
@@ -1901,6 +1914,7 @@ w2.influxdata.com
 .storage.infomaniak.com
 .infura-ipfs.io
 cdn.ip2location.io
+weather.istatmenus.app
 pkg-cdn.jetbrains.team
 packages.jetbrains.team
 ww2.justanswer.com
@@ -2120,6 +2134,7 @@ img.shoplineapp.com
 simpleicons.org
 cdn.simpleicons.org
 .skypeassets.com
+.splunkcloud.com
 assets.squarespace.com
 s3media.squarespace.com
 static1.squarespace.com
