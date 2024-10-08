@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-07T19:20:33.378Z
-# Size: 2459
+# Last Updated: 2024-10-08T11:28:13.469Z
+# Size: 2466
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -942,6 +942,7 @@ static.tumblr.com
 .assets.ubuntu.com
 j.udn.com.tw
 s.udn.com.tw
+craftassets.unraid.net
 .ipfs.uploads.nu
 .devrum.uptime.com
 img.utdstc.com
@@ -1653,6 +1654,7 @@ config.extension.grammarly.com
 static.institution.grammarly.com
 .cdn.greenhouse.io
 boards.greenhouse.io
+cdn.growthbook.io
 gtranslate.io
 cdn.headwayapp.co
 assets0.headwayapp.co
@@ -1884,7 +1886,10 @@ fonts.googleapis.com
 .storage.googleapis.com
 .firestore.googleapis.com
 safebrowsing.googleapis.com
+firebaselogging.googleapis.com
 .firebasestorage.googleapis.com
+clientmetrics-pa.googleapis.com
+firebaselogging-pa.googleapis.com
 optimizationguide-pa.googleapis.com
 .crashlyticsreports-pa.googleapis.com
 .content-storage-upload.googleapis.com
@@ -1923,6 +1928,7 @@ ww2-secure.justanswer.com
 content.jwplatform.com
 .ipfs.kinematiks.com
 .liangzipic.com
+cdn.libravatar.org
 seccdn.libravatar.org
 mantisloader.mantis-awx.com
 assets.mastercard.com
@@ -2031,6 +2037,7 @@ ddcdn.comtucdncom.com
 images.contentstack.io
 .e.crashlytics.com
 .settings.crashlytics.com
+firebase-settings.crashlytics.com
 js.createsend1.com
 css.createsend1.com
 images.store.crowdstrike.com
