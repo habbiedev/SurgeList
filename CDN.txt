@@ -2475,8 +2475,8 @@ cdn-a.sonyentertainmentnetwork.com
 runkit-packages-static-executables.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-10-05T15:54:17.825Z
-# Size: 585
+# Last Updated: 2024-10-09T12:38:40.220Z
+# Size: 602
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2757,6 +2757,7 @@ gamedownloads-rockstargames-com.akamaized.net
 .s3.ap-southeast-2.amazonaws.com
 .s3.ap-southeast-3.amazonaws.com
 .s3.ap-southeast-4.amazonaws.com
+.s3.ap-southeast-5.amazonaws.com
 .s3-fips.ca-central-1.amazonaws.com
 .s3-website-eu-west-1.amazonaws.com
 .s3-website-sa-east-1.amazonaws.com
@@ -2840,12 +2841,14 @@ gamedownloads-rockstargames-com.akamaized.net
 .s3-website.ap-southeast-2.amazonaws.com
 .s3-website.ap-southeast-3.amazonaws.com
 .s3-website.ap-southeast-4.amazonaws.com
+.s3-website.ap-southeast-5.amazonaws.com
 .s3.dualstack.ca-central-1.amazonaws.com
 .s3.dualstack.eu-central-1.amazonaws.com
 .s3.dualstack.eu-central-2.amazonaws.com
 .s3.dualstack.il-central-1.amazonaws.com
 .s3.dualstack.me-central-1.amazonaws.com
 .s3-object-lambda.ap-east-1.amazonaws.com
+.s3-object-lambda.ca-west-1.amazonaws.com
 .s3-object-lambda.eu-west-1.amazonaws.com
 .s3-object-lambda.eu-west-2.amazonaws.com
 .s3-object-lambda.eu-west-3.amazonaws.com
@@ -2880,8 +2883,10 @@ gamedownloads-rockstargames-com.akamaized.net
 .s3.dualstack.ap-southeast-2.amazonaws.com
 .s3.dualstack.ap-southeast-3.amazonaws.com
 .s3.dualstack.ap-southeast-4.amazonaws.com
+.s3.dualstack.ap-southeast-5.amazonaws.com
 .s3-accesspoint.us-gov-east-1.amazonaws.com
 .s3-accesspoint.us-gov-west-1.amazonaws.com
+.s3-deprecated.ap-southeast-5.amazonaws.com
 .s3-accesspoint-fips.ca-west-1.amazonaws.com
 .s3-accesspoint-fips.us-east-1.amazonaws.com
 .s3-accesspoint-fips.us-east-2.amazonaws.com
@@ -2894,6 +2899,7 @@ gamedownloads-rockstargames-com.akamaized.net
 .s3-accesspoint.ap-southeast-2.amazonaws.com
 .s3-accesspoint.ap-southeast-3.amazonaws.com
 .s3-accesspoint.ap-southeast-4.amazonaws.com
+.s3-accesspoint.ap-southeast-5.amazonaws.com
 .s3-object-lambda.ca-central-1.amazonaws.com
 .s3-object-lambda.eu-central-1.amazonaws.com
 .s3-object-lambda.eu-central-2.amazonaws.com
@@ -2907,6 +2913,7 @@ gamedownloads-rockstargames-com.akamaized.net
 .s3-website.dualstack.eu-west-3.amazonaws.com
 .s3-website.dualstack.sa-east-1.amazonaws.com
 .s3-website.dualstack.us-east-1.amazonaws.com
+.s3-website.dualstack.us-east-2.amazonaws.com
 .s3-website.dualstack.us-west-1.amazonaws.com
 .s3-website.dualstack.us-west-2.amazonaws.com
 .s3-fips.dualstack.us-gov-east-1.amazonaws.com
@@ -2918,14 +2925,20 @@ gamedownloads-rockstargames-com.akamaized.net
 .s3-object-lambda.ap-southeast-2.amazonaws.com
 .s3-object-lambda.ap-southeast-3.amazonaws.com
 .s3-object-lambda.ap-southeast-4.amazonaws.com
+.s3-object-lambda.ap-southeast-5.amazonaws.com
 .s3-website.dualstack.af-south-1.amazonaws.com
 .s3-website.dualstack.ap-south-1.amazonaws.com
+.s3-website.dualstack.ap-south-2.amazonaws.com
 .s3-website.dualstack.eu-south-1.amazonaws.com
+.s3-website.dualstack.eu-south-2.amazonaws.com
 .s3-accesspoint-fips.ca-central-1.amazonaws.com
 .s3-accesspoint-fips.us-gov-east-1.amazonaws.com
 .s3-accesspoint-fips.us-gov-west-1.amazonaws.com
 .s3-website.dualstack.ca-central-1.amazonaws.com
 .s3-website.dualstack.eu-central-1.amazonaws.com
+.s3-website.dualstack.eu-central-2.amazonaws.com
+.s3-website.dualstack.il-central-1.amazonaws.com
+.s3-website.dualstack.me-central-1.amazonaws.com
 .s3-accesspoint.dualstack.ap-east-1.amazonaws.com
 .s3-accesspoint.dualstack.ca-west-1.amazonaws.com
 .s3-accesspoint.dualstack.eu-west-1.amazonaws.com
@@ -2948,6 +2961,9 @@ gamedownloads-rockstargames-com.akamaized.net
 .s3-website.dualstack.ap-northeast-3.amazonaws.com
 .s3-website.dualstack.ap-southeast-1.amazonaws.com
 .s3-website.dualstack.ap-southeast-2.amazonaws.com
+.s3-website.dualstack.ap-southeast-3.amazonaws.com
+.s3-website.dualstack.ap-southeast-4.amazonaws.com
+.s3-website.dualstack.ap-southeast-5.amazonaws.com
 .s3-accesspoint.dualstack.ca-central-1.amazonaws.com
 .s3-accesspoint.dualstack.eu-central-1.amazonaws.com
 .s3-accesspoint.dualstack.eu-central-2.amazonaws.com
@@ -2967,6 +2983,7 @@ gamedownloads-rockstargames-com.akamaized.net
 .s3-accesspoint.dualstack.ap-southeast-2.amazonaws.com
 .s3-accesspoint.dualstack.ap-southeast-3.amazonaws.com
 .s3-accesspoint.dualstack.ap-southeast-4.amazonaws.com
+.s3-accesspoint.dualstack.ap-southeast-5.amazonaws.com
 .s3-accesspoint-fips.dualstack.ca-central-1.amazonaws.com
 .s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 .s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
