@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-08T11:28:13.469Z
-# Size: 2466
+# Last Updated: 2024-10-10T10:52:01.185Z
+# Size: 2468
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -323,6 +323,7 @@ images-assets.nasa.gov
 image.nmb.best
 nodei.co
 registry.npmjs.cf
+.nxcli.io
 static.osdn.net
 static-cdn.osdn.net
 cdn.piano.io
@@ -558,6 +559,7 @@ registry.npmjs.com
 replicate.npmjs.com
 static-production.npmjs.com
 registry.npmjs.org
+.nxedge.io
 static.oomol.com
 .pages.dev
 cdn.pagic.org
