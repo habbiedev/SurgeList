@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-10T10:52:01.185Z
-# Size: 2468
+# Last Updated: 2024-10-11T13:21:12.643Z
+# Size: 2474
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -101,6 +101,7 @@ ooo.0o0.ooo
 9191.ga
 .99av.tv
 adkit.9pub.io
+st.agrd.eu
 content.any.run
 static2.avg.com
 .marketing.aws.dev
@@ -269,6 +270,8 @@ production-cmp.isgprivacy.cbsi.com
 .media.ci-en.jp
 zephr-templates.cnbc.com
 sf-coze-web-cdn.coze.com
+res.craft.do
+secure-res.craft.do
 load.csell.co
 .cthd.icu
 imgur.dcard.tw
@@ -1591,6 +1594,7 @@ edge-consumer-static.azureedge.net
 cdn.babylonjs.com
 secure.beer7live.com
 img.bigcloud.cyou
+upos-sz-mirroralibstar1.bilivideo.com
 js-cdn.blockchair.io
 loutre.blockchair.io
 .bnbstatic.com
@@ -1999,6 +2003,7 @@ cdn.userreport.com
 .vanillicon.com
 cdn.verifypass.com
 versionbadg.es
+assets.vodafone.co.uk
 .vscode-cdn.net
 storage.withfabric.xyz
 .csp.withgoogle.com
@@ -2407,6 +2412,7 @@ cdn.onlyhentaistuff.com
 fs2.onlyhentaistuff.com
 gt1.onlyhentaistuff.com
 openseauserdata.com
+cdn.ready-market.com.tw
 .reasoningtheory.net
 searchserverapi.com
 .someonewhocares.org
