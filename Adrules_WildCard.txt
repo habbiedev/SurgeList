@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 295
+# DOMAIN-WILDCARD: 298
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -181,6 +181,7 @@ DOMAIN-WILDCARD,log*-normal-lq.toutiaoapi.com
 DOMAIN-WILDCARD,log*.aliyuncs.com
 DOMAIN-WILDCARD,log*.byteoversea.com
 DOMAIN-WILDCARD,log*.vietnamplus.vn
+DOMAIN-WILDCARD,log*.zijieapi.com
 DOMAIN-WILDCARD,log-*.epicdn.me
 DOMAIN-WILDCARD,log-*.previewnetworks.com
 DOMAIN-WILDCARD,log-*.zadn.vn
@@ -221,6 +222,7 @@ DOMAIN-WILDCARD,pixel-*.convertagain.net
 DOMAIN-WILDCARD,pixel-*.rubiconproject.com
 DOMAIN-WILDCARD,pixelapi-*.cs.mysamba.tv
 DOMAIN-WILDCARD,player-feedback*.glomex.*
+DOMAIN-WILDCARD,polaris*-normal-*.zijieapi.com
 DOMAIN-WILDCARD,prebid-*.rubiconproject.com
 DOMAIN-WILDCARD,production-adserver-*.amazonaws.com
 DOMAIN-WILDCARD,promo-*.vercel.app
@@ -258,6 +260,7 @@ DOMAIN-WILDCARD,t*.zcvh.net
 DOMAIN-WILDCARD,tblog-*.kgslb.com
 DOMAIN-WILDCARD,telemetry*.transcend.io
 DOMAIN-WILDCARD,thezbpe5*.xyz
+DOMAIN-WILDCARD,tnc*.zijieapi.com
 DOMAIN-WILDCARD,tnc16-*.byteoversea.com
 DOMAIN-WILDCARD,toujing*.top
 DOMAIN-WILDCARD,track.*.roku.com
