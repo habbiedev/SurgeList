@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-11T13:21:12.643Z
-# Size: 2474
+# Last Updated: 2024-10-12T05:31:37.568Z
+# Size: 2480
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -343,6 +343,7 @@ skills-assets.pstmn.io
 cdn.rauno.me
 cdn.redoc.ly
 www-static.ripe.net
+cdn.rive.app
 .rss3.dev
 rules.ac
 .www.s81c.com
@@ -367,6 +368,7 @@ sites.super.so
 assets-v2.super.so
 .surge.sh
 static.t-ru.org
+static.tenki.jp
 assets.time.com
 image.tmdb.org
 app-static.turtl.co
@@ -757,6 +759,7 @@ static.corp.google.com
 .usercontent.google.com
 safebrowsing.google.com
 .crashlytics2.l.google.com
+.ogads-pa.clients6.google.com
 android-safebrowsing.google.com
 repo.gradle.org
 plugins-artifacts.gradle.org
@@ -1890,11 +1893,12 @@ ajax.googleapis.com
 chart.googleapis.com
 fonts.googleapis.com
 .storage.googleapis.com
+.ogads-pa.googleapis.com
 .firestore.googleapis.com
 safebrowsing.googleapis.com
 firebaselogging.googleapis.com
 .firebasestorage.googleapis.com
-clientmetrics-pa.googleapis.com
+.clientmetrics-pa.googleapis.com
 firebaselogging-pa.googleapis.com
 optimizationguide-pa.googleapis.com
 .crashlyticsreports-pa.googleapis.com
@@ -2248,6 +2252,7 @@ cdn.manageengine.com
 .mangadex.network
 .media-amazon.com
 .meetupstatic.com
+.mirror-media.xyz
 .olemovienews.com
 .omnisnippet1.com
 web.onekey-asset.com
@@ -2366,6 +2371,7 @@ static.killedbygoogle.com
 na-library.klarnaservices.com
 .licensebuttons.net
 assets-next.mattersprotocol.io
+images.microcms-assets.io
 image.email.microsoftemail.com
 cdn.networklessons.com
 cdn-forum.networklessons.com
