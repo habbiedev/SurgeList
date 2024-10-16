@@ -2494,8 +2494,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-10-15T10:37:06.402Z
-# Size: 603
+# Last Updated: 2024-10-16T11:34:56.947Z
+# Size: 604
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2699,6 +2699,7 @@ mirror.navercorp.com
 desktop.parallels.com
 download.parallels.com
 softwareupdate.pilotmoon.com
+pkgs.tailscale.com
 download.todesktop.com
 .swupdate.chaosgroup.com
 update.googleapis.com
