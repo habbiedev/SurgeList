@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-15T14:58:01.400Z
-# Size: 2485
+# Last Updated: 2024-10-17T08:37:48.130Z
+# Size: 2487
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1486,6 +1486,8 @@ c.marsflag.com
 static.mendeley.com
 api.mintlify.com
 thumbnailer.mixcloud.com
+api.mixpanel.com
+api-eu.mixpanel.com
 cdn.modrinth.com
 cdn-raw.modrinth.com
 .sny.monosnap.com
@@ -2494,8 +2496,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-10-16T11:34:56.947Z
-# Size: 604
+# Last Updated: 2024-10-17T08:23:33.048Z
+# Size: 605
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2567,6 +2569,7 @@ builds.parsec.app
 updates.istatmenus.app
 .cdn.ea.com
 dl.ui.com
+.artifacts.ui.com
 gog-cdn-fastly.gog.com
 gog-cdn-fastly-cp77.gog.com
 .cdn.ubi.com
