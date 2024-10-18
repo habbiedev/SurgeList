@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-17T08:37:48.130Z
-# Size: 2487
+# Last Updated: 2024-10-18T14:51:33.806Z
+# Size: 2495
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -635,12 +635,15 @@ t2.picb.cc
 t3.picb.cc
 t4.picb.cc
 pics.vpdmm.cc
+s.gishan.cc
+fonts.gishan.cc
 cdn.arduino.cc
 content.arduino.cc
 .aayinltcs.arduino.cc
 registry.npmjs.cf
 .ipfs.xoqq.ch
 static.infomaniak.ch
+.applicationinsights.azure.cn
 i.ibb.co
 image.ibb.co
 s.w-x.co
@@ -1044,6 +1047,7 @@ public-cdn.bblmw.com
 images.bfmtv.com
 tags.bkrtx.com
 assets.bnidx.com
+safebrowsing.brave.com
 designsystem.brevo.com
 cdn.cameo.com
 ajax.cdnjs.com
@@ -1174,6 +1178,7 @@ static.hotjar.com
 bst.icons8.com
 img.icons8.com
 .cdn.ifixit.com
+i.iheart.com
 code.jquery.com
 cdn.kinsta.com
 assets.kraken.com
@@ -1586,6 +1591,7 @@ snyk-widget.herokuapp.com
 freeshippingbar.herokuapp.com
 v.hillwaver.com
 static.incapsula.com
+platform.instagram.com
 cdn.jetphotos.com
 images.macrumors.com
 polyfill.mailchimp.com
@@ -2412,6 +2418,8 @@ content.product.glitch.com
 .crashlytics2.l.google.com
 static.corp.google.com
 .ogads-pa.clients6.google.com
+web-static.pages.iheart.com
+static.inferno.iheart.com
 prego-cache.prod.sketch.com
 resources-cache.prod.sketch.com
 image.ship.vercel.com
@@ -2496,8 +2504,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-10-17T08:23:33.048Z
-# Size: 605
+# Last Updated: 2024-10-18T12:10:56.937Z
+# Size: 606
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2718,6 +2726,7 @@ content6.steampowered.com
 content7.steampowered.com
 content8.steampowered.com
 content-origin.steampowered.com
+updates-cdn.bravesoftware.com
 ctldl.windowsupdate.com
 ftp.androidfilehost.com
 ava6.androidfilehost.com
