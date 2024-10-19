@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-18T14:51:33.806Z
-# Size: 2495
+# Last Updated: 2024-10-19T07:59:37.000Z
+# Size: 2500
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -488,6 +488,7 @@ pkg-size.dev
 .eroimg.net
 .ezocdn.net
 .hbfile.net
+.imgair.net
 .mercdn.net
 .piximg.net
 .poecdn.net
@@ -680,6 +681,7 @@ staticmap.openstreetmap.de
 res.craft.do
 secure-res.craft.do
 st.agrd.eu
+img.agrd.eu
 cdn.european-alternatives.eu
 icons.llamao.fi
 cdn.player.fm
@@ -735,7 +737,8 @@ js.short.io
 js.smile.io
 cdn.split.io
 sdk.split.io
-.events.split.io
+auth.split.io
+events.split.io
 streaming.split.io
 telemetry.split.io
 cdn.branch.io
@@ -929,8 +932,6 @@ st1.zoom.us
 st2.zoom.us
 st3.zoom.us
 cdn.donmai.us
-sponsor.ajay.app
-dearrow-thumb.ajay.app
 cdn.rive.app
 static.linear.app
 .cms-cdn.linear.app
@@ -1048,6 +1049,8 @@ images.bfmtv.com
 tags.bkrtx.com
 assets.bnidx.com
 safebrowsing.brave.com
+assets.brevo.com
+corp-backend.brevo.com
 designsystem.brevo.com
 cdn.cameo.com
 ajax.cdnjs.com
@@ -1838,6 +1841,7 @@ rebound.postmarkapp.com
 newsletter.postmarkapp.com
 cdn.pricespider.com
 api.producthunt.com
+assets.raspberrypi.com
 c.s-microsoft.com
 store-images.s-microsoft.com
 img.shoplineapp.com
@@ -2470,6 +2474,7 @@ az700632.vo.msecnd.net
 shell.cdn.office.net
 .public.cdn.office.net
 res-geo.cdn.office.net
+.myanalytics.cdn.office.net
 cdn.forms.office.net
 cdn.graph.office.net
 avatars.mds.yandex.net
