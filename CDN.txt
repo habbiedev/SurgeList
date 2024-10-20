@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-19T07:59:37.000Z
-# Size: 2500
+# Last Updated: 2024-10-20T17:02:39.120Z
+# Size: 2501
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,6 +29,7 @@ nodei.co
 waitlisted.co
 utteranc.es
 versionbadg.es
+cravatar.eu
 .zohostatic.eu
 .1passwordusercontent.eu
 .i-dont-care-about-cookies.eu
@@ -2509,8 +2510,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-10-18T12:10:56.937Z
-# Size: 606
+# Last Updated: 2024-10-20T17:02:39.120Z
+# Size: 609
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2652,6 +2653,8 @@ stats.snipaste.com
 download.snipaste.com
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com
+assets1.xboxlive.com
+assets2.xboxlive.com
 packagespc.xboxlive.com
 c.1password.com
 downloads.1password.com
@@ -2720,6 +2723,7 @@ download.todesktop.com
 .swupdate.chaosgroup.com
 update.googleapis.com
 deb.nodesource.com
+.egdownload.fastly-edge.com
 downloads.raspberrypi.com
 .content.steampowered.com
 content1.steampowered.com
