@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-20T17:02:39.120Z
+# Last Updated: 2024-10-21T14:26:17.798Z
 # Size: 2501
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -2437,7 +2437,7 @@ ton.local.twitter.com
 widgets.media.weather.com
 widgets-red.media.weather.com
 image.p-c2-x.abema-tv.com
-widget.cluster.groovehq.com
+.widget.cluster.groovehq.com
 .cdn.survey.medallia.com
 cdn.accounts.nintendo.com
 epic-social-social-modules-prod.ol.epicgames.com
