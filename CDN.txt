@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-21T14:26:17.798Z
-# Size: 2501
+# Last Updated: 2024-10-22T17:08:18.432Z
+# Size: 2510
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -70,6 +70,7 @@ prettier.io
 .bitbucket.io
 .corsproxy.io
 .crossbell.io
+.wixstudio.io
 .emotivecdn.io
 gtranslate.io
 .stackblitz.io
@@ -329,6 +330,7 @@ cdn-sellix.com
 .nincontent.com
 .nowestatic.com
 optimizely.com
+.patientpop.com
 .placewaifu.com
 .sbcdnvideo.com
 .sentry-cdn.com
@@ -432,6 +434,7 @@ searchserverapi.com
 .cloudflarestream.com
 .googleadservices.com
 .steamusercontent.com
+conversiongorilla.com
 .envatousercontent.com
 .framerusercontent.com
 .githubusercontent.com
@@ -645,6 +648,7 @@ content.arduino.cc
 registry.npmjs.cf
 .ipfs.xoqq.ch
 static.infomaniak.ch
+app.groove.cm
 .applicationinsights.azure.cn
 i.ibb.co
 image.ibb.co
@@ -1720,6 +1724,7 @@ firebaselogging-pa.googleapis.com
 optimizationguide-pa.googleapis.com
 .crashlyticsreports-pa.googleapis.com
 .content-storage-upload.googleapis.com
+assets.grooveapps.com
 cdn.hackernoon.com
 assets.hearstapps.com
 cdn.hellofresh.com
@@ -1874,6 +1879,7 @@ cdnjs.buymeacoffee.com
 cdn.clever-cloud.com
 assets.clever-cloud.com
 components.clever-cloud.com
+assets.clickfunnels.com
 static-assets.clubhouseapi.com
 cdn.cnx-software.com
 ui.contentstack.com
@@ -1923,6 +1929,7 @@ cdn.faveohelpdesk.com
 images.flightradar24.com
 cdn.freebiesupply.com
 rts-static-prod.freshworksapi.com
+app.groovefunnels.com
 sig.grumpybumpers.com
 img3.lltaohuaxiang.com
 asset.mansionglobal.com
@@ -2290,6 +2297,8 @@ img.timero.xyz
 img.catwvod.xyz
 media.pullopen.xyz
 .ipfs.4everland.xyz
+rules1.clearurls.xyz
+rules2.clearurls.xyz
 cdn.yinghuazy.xyz
 int.qiniuyun15.xyz
 storage.withfabric.xyz
@@ -2510,8 +2519,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-10-20T17:02:39.120Z
-# Size: 609
+# Last Updated: 2024-10-22T10:06:34.256Z
+# Size: 612
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2559,6 +2568,8 @@ down.filen.io
 dl.pstmn.io
 store1.gofile.io
 download.typora.io
+cdn.cypress.io
+download.cypress.io
 dl.cloudsmith.io
 .dl.elementary.io
 download.projectbluefin.io
@@ -2650,6 +2661,7 @@ download.mikrotik.com
 repo.powerdns.com
 dl.snipaste.com
 stats.snipaste.com
+updater.snipaste.com
 download.snipaste.com
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com
