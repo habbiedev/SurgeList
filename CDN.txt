@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-22T17:08:18.432Z
-# Size: 2510
+# Last Updated: 2024-10-23T17:55:56.319Z
+# Size: 2517
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -767,6 +767,7 @@ js.upload.io
 assets.upload.io
 app-api.vidjet.io
 badge.waffle.io
+web-cdn.bitrise.io
 cdn.builder.io
 cf.channel.io
 cdn.channel.io
@@ -1246,6 +1247,7 @@ ec-prod.scene7.com
 assets.scroll.com
 static.scroll.com
 vice-prod.sdiapi.com
+cdn.seondf.com
 cdn.setapp.com
 imgix.setapp.com
 stats.setapp.com
@@ -1481,6 +1483,7 @@ cdn.heysavvy.com
 fastporndelivery.hqporner.com
 static-00.iconduck.com
 .cdn.imghaste.com
+img.informer.com
 .api.instabug.com
 .search.ipfsgate.com
 img.jsdelivr.com
@@ -1492,6 +1495,7 @@ static-lccn.leetcode.com
 services.linkfire.com
 linkstorage.linkfire.com
 cdn.linkmink.com
+img-api.mac4ever.com
 imag.malavida.com
 cdn.maptiler.com
 c.marsflag.com
@@ -1530,6 +1534,7 @@ public.saasexch.com
 embed.savvycal.com
 .cdn.signalfx.com
 static.snapchat.com
+rv-assets.softonic.com
 assets.stickpng.com
 cdn.substack.com
 cdn1.sysgears.com
@@ -1665,6 +1670,7 @@ cache.armorgames.com
 files.armorgames.com
 lib.arvancloud.com
 cdn-www.bluestacks.com
+app.brightback.com
 cdn.britannica.com
 public-pages.cbinsights.com
 pic.cdnclouder.com
@@ -2056,6 +2062,7 @@ static.osdn.net
 static-cdn.osdn.net
 static.plus.net
 www-static.ripe.net
+fonts.sony.net
 cdn.ywxi.net
 .img1.acsta.net
 .img2.acsta.net
@@ -2519,8 +2526,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-10-22T10:06:34.256Z
-# Size: 612
+# Last Updated: 2024-10-23T17:55:56.319Z
+# Size: 613
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2825,6 +2832,7 @@ nobara-images.nobaraproject.org
 get.pixelexperience.org
 download.pixelexperience.org
 .copr.fedorainfracloud.org
+mirror.apad.pro
 boot.netboot.xyz
 .repo.jing.rocks
 mirror.xtom.com.hk
