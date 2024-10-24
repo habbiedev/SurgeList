@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 301
+# DOMAIN-WILDCARD: 302
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -249,6 +249,7 @@ DOMAIN-WILDCARD,sd.yhzzzs*.com
 DOMAIN-WILDCARD,sell*.etlong.com
 DOMAIN-WILDCARD,sense-*.tapdb.net
 DOMAIN-WILDCARD,sensorsdata*.read.duokan.com
+DOMAIN-WILDCARD,servo-report.keepstreams.*
 DOMAIN-WILDCARD,sock*-goguardian.pusher.com
 DOMAIN-WILDCARD,ssp*.rtb.beeline.ru
 DOMAIN-WILDCARD,st-*.dynamicyield.com
