@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-24T18:09:01.422Z
-# Size: 2518
+# Last Updated: 2024-10-25T12:21:24.591Z
+# Size: 2530
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -289,6 +289,7 @@ redircdn.com
 .cnbetacdn.com
 .disquscdn.com
 .doppiocdn.com
+.dummyjson.com
 .embedgram.com
 .ensighten.com
 .fiverrcdn.com
@@ -376,6 +377,7 @@ optimizely.com
 .bootstrapcdn.com
 bundlephobia.com
 .cdninstagram.com
+.fakestoreapi.com
 .framerstatic.com
 .githubassets.com
 .images-iherb.com
@@ -664,6 +666,9 @@ storageapi.fleek.co
 storageapi2.fleek.co
 app-static.turtl.co
 .widget.clutch.co
+img.ifunny.co
+static.ifunny.co
+imageproxy.ifunny.co
 cdn.decrypt.co
 img.decrypt.co
 cdn.jolipage.co
@@ -724,6 +729,7 @@ static.snyk.io
 cdn.tolt.io
 s3.toot.io
 registry-cdn.wapm.io
+s3.aaaaa.io
 assets.bbhub.io
 polyfill.bbhub.io
 code.benco.io
@@ -852,6 +858,9 @@ resize.blogsys.jp
 media.yukimochi.jp
 .ipfs.lain.la
 pomf2.lain.la
+atn.hitomi.la
+btn.hitomi.la
+ltn.hitomi.la
 media.webtoo.ls
 i.mt.lv
 cdn.img.ly
@@ -1548,6 +1557,8 @@ bundle.trysavvy.com
 embed.typeform.com
 public-assets.typeform.com
 renderer-assets.typeform.com
+my-json-server.typicode.com
+jsonplaceholder.typicode.com
 assets.unifi-ai.com
 plus.unsplash.com
 images.unsplash.com
@@ -1812,6 +1823,7 @@ media.gettyimages.com
 static.gettyimages.com
 media.graphassets.com
 media.istockphoto.com
+logos.kiwibrowser.com
 settings.kiwibrowser.com
 cdn.linearicons.com
 cdn.livechatinc.com
