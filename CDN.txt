@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-25T12:21:24.591Z
-# Size: 2530
+# Last Updated: 2024-10-26T14:37:42.685Z
+# Size: 2534
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -488,6 +488,7 @@ pkg-size.dev
 .ftcdn.net
 .imgix.net
 .pixfs.net
+.pximg.net
 .v-cdn.net
 .badgen.net
 .boxcdn.net
@@ -496,7 +497,6 @@ pkg-size.dev
 .hbfile.net
 .imgair.net
 .mercdn.net
-.piximg.net
 .poecdn.net
 .rspcdn.net
 .sftcdn.net
@@ -950,6 +950,7 @@ cdn.donmai.us
 cdn.rive.app
 static.linear.app
 .cms-cdn.linear.app
+pic.macked.app
 videos.elephas.app
 cdn.langshop.app
 weather.istatmenus.app
@@ -1801,6 +1802,7 @@ t.betterstack.com
 cdnjs.betterstack.com
 blade-public-static.blade-group.com
 cdn.calibermind.com
+cdn.comparitech.com
 ddcdn.comtucdncom.com
 .e.crashlytics.com
 .settings.crashlytics.com
@@ -1936,6 +1938,7 @@ typescript.visualstudio.com
 assets.xboxservices.com
 .images.arcpublishing.com
 images.arigatotravel.com
+static.cloudcachetci.com
 cdn.codeblackbelt.com
 s2.coinmarketcap.com
 s3.coinmarketcap.com
@@ -2034,6 +2037,7 @@ npm.antfu.dev
 fonts.upset.dev
 plugins.dprint.dev
 fiddle.fastly.dev
+assets.github.dev
 packages.termux.dev
 packages-cf.termux.dev
 .mirrors.utermux.dev
