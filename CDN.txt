@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-26T14:37:42.685Z
-# Size: 2534
+# Last Updated: 2024-10-27T11:39:16.846Z
+# Size: 2535
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -880,6 +880,7 @@ c.start.me
 f.start.me
 static.start.me
 cdn.glitch.me
+cdn.picrew.me
 cf.javfree.me
 .ipfs.tayfundogdas.me
 s3.acg.mn
