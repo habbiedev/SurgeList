@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-27T11:39:16.846Z
-# Size: 2535
+# Last Updated: 2024-10-28T09:35:10.272Z
+# Size: 2540
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -127,6 +127,7 @@ cloudflare.tv
 .csb.app
 .web.app
 .xlog.app
+.udify.app
 .giscus.app
 .vercel.app
 .netlify.app
@@ -295,6 +296,7 @@ redircdn.com
 .fiverrcdn.com
 .fncstatic.com
 .forbesimg.com
+.framercdn.com
 .ibytedtos.com
 .itvstatic.com
 .jdbstatic.com
@@ -627,6 +629,7 @@ vanilla-extract.style
 .static.microsoft
 bot.ivy.ai
 .cdn.s7s.ai
+assets.dify.ai
 media.evolv.ai
 participants.evolv.ai
 s3.masto.ai
@@ -913,6 +916,7 @@ binaries.prisma.sh
 openapi.vercel.sh
 gitpkg-fork.vercel.sh
 api-frameworks.vercel.sh
+assets.vantage.sh
 .registry.gitplac.si
 images.spr.so
 sites.super.so
@@ -2277,6 +2281,7 @@ cdn.travis-ci.org
 upload.wikimedia.org
 creativajs.altervista.org
 cdn.autoketing.org
+update.greasyfork.org
 cdn.libravatar.org
 seccdn.libravatar.org
 assets.mayoclinic.org
