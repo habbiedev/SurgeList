@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-28T09:35:10.272Z
-# Size: 2540
+# Last Updated: 2024-10-29T19:31:24.997Z
+# Size: 2546
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -220,6 +220,7 @@ app-spm.com
 .githack.com
 .hardbin.com
 .ignimgs.com
+.imgikzy.com
 .imgyzzy.com
 .kym-cdn.com
 .lzzyimg.com
@@ -325,6 +326,7 @@ cdn-sellix.com
 .dummyimage.com
 .ebaystatic.com
 .hs-scripts.com
+.imgikuncdn.com
 .liangzipic.com
 .media-imdb.com
 .myfilebase.com
@@ -852,6 +854,7 @@ r.r10s.jp
 ias.r10s.jp
 .media.ci-en.jp
 static.tenki.jp
+img.atwiki.jp
 img.dlsite.jp
 image.gyutto.jp
 mangaz-books.j-comi.jp
@@ -910,6 +913,7 @@ s3.dzeninfra.ru
 static.dzeninfra.ru
 avatars.dzeninfra.ru
 .ipfs.best-practice.se
+flo.uri.sh
 proxy.cors.sh
 static.scarf.sh
 binaries.prisma.sh
@@ -953,6 +957,7 @@ st2.zoom.us
 st3.zoom.us
 cdn.donmai.us
 cdn.rive.app
+public.linear.app
 static.linear.app
 .cms-cdn.linear.app
 pic.macked.app
@@ -1495,6 +1500,7 @@ snippet.growsumo.com
 cdn.hashnode.com
 newassets.hcaptcha.com
 cdn.heysavvy.com
+cdn.hinative.com
 fastporndelivery.hqporner.com
 static-00.iconduck.com
 .cdn.imghaste.com
