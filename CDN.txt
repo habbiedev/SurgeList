@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-29T19:31:24.997Z
-# Size: 2546
+# Last Updated: 2024-10-30T13:24:00.898Z
+# Size: 2552
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -413,6 +413,7 @@ yummlystatic.com
 .dropboxstatic.com
 .envato-static.com
 .highwinds-cdn.com
+.mcusercontent.com
 .mvnrepository.com
 .notion-static.com
 .oreillystatic.com
@@ -616,6 +617,7 @@ nightly.link
 .instant.page
 .codeberg.page
 .safebrowsing.apple
+turbo.build
 .dsc.cloud
 .mypinata.cloud
 .ipfs-gateway.cloud
@@ -1554,6 +1556,8 @@ cdn.roboflow.com
 public.saasexch.com
 embed.savvycal.com
 .cdn.signalfx.com
+cdn.skymavis.com
+.static.skymavis.com
 static.snapchat.com
 rv-assets.softonic.com
 assets.stickpng.com
@@ -1906,6 +1910,7 @@ widgets.zohosalesiq.com
 cdn.9to5terminal.com
 photos5.appleinsider.com
 .ipfs.arching-kaos.com
+cdn.axieinfinity.com
 axiecdn.axieinfinity.com
 cdnjs.buymeacoffee.com
 cdn.clever-cloud.com
@@ -2275,6 +2280,7 @@ archive.mozilla.org
 fonts.codeberg.org
 assets.exercism.org
 image.lichess1.org
+demotiles.maplibre.org
 static.socratic.org
 useruploads.socratic.org
 static.tronscan.org
