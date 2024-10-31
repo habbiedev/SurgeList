@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-30T13:24:00.898Z
+# Last Updated: 2024-10-31T13:25:07.794Z
 # Size: 2552
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -41,7 +41,6 @@ eep.io
 .gcr.io
 .gw3.io
 .k8s.io
-.ghcr.io
 .iili.io
 .jspm.io
 .logz.io
@@ -890,6 +889,7 @@ static.start.me
 cdn.glitch.me
 cdn.picrew.me
 cf.javfree.me
+api.crashguard.me
 .ipfs.tayfundogdas.me
 s3.acg.mn
 cdn01.jotfor.ms
@@ -2561,8 +2561,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-10-23T17:55:56.319Z
-# Size: 613
+# Last Updated: 2024-10-31T13:25:07.794Z
+# Size: 615
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2570,6 +2570,7 @@ jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 # This file contains domains for software updating & large file hosting.
 #########################################
 .file.io
+.ghcr.io
 .mega.io
 .mega.nz
 .temp.sh
@@ -2799,6 +2800,7 @@ cdn-images.orbstack.dev
 api-updates.orbstack.dev
 cdn-updates.orbstack.dev
 dl.getaurora.dev
+drive.massgrave.dev
 .mirror.clarkson.edu
 releases.arc.net
 mirror.cat.net
