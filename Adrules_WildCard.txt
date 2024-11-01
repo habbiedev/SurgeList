@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 301
+# DOMAIN-WILDCARD: 302
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -234,6 +234,7 @@ DOMAIN-WILDCARD,qpb*.sohu.com
 DOMAIN-WILDCARD,quangcao-*.epicdn.me
 DOMAIN-WILDCARD,reachableads-av.*.amazonaws.com
 DOMAIN-WILDCARD,report*.appmetrica.webvisor.com
+DOMAIN-WILDCARD,report.*.gbqofs.io
 DOMAIN-WILDCARD,report.*.qq.com
 DOMAIN-WILDCARD,rtbimp-loadbalancer-*.amazonaws.com
 DOMAIN-WILDCARD,rtlog*.tiktokv.com
