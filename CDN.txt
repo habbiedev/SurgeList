@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-02T18:52:30.751Z
-# Size: 2629
+# Last Updated: 2024-11-04T10:49:56.461Z
+# Size: 2635
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -641,6 +641,7 @@ turbo.build
 .ipfs-gateway.cloud
 .icon.horse
 .pstorage.space
+eslint.style
 vanilla-extract.style
 .picsum.photos
 .static.domains
@@ -979,6 +980,9 @@ cdn.vidible.tv
 imgur.dcard.tw
 megapx-assets.dcard.tw
 cf.shopee.tw
+app.moegirl.tw
+img.moegirl.tw
+storage.moegirl.tw
 regmedia.co.uk
 st1.zoom.us
 st2.zoom.us
@@ -2010,6 +2014,7 @@ cdn.privacy-mgmt.com
 ak.sail-horizon.com
 image.shutterstock.com
 .ipfs.soul-network.com
+media.steampowered.com
 cdn.sunofbeaches.com
 cdn1.unrealengine.com
 cdn2.unrealengine.com
@@ -2451,6 +2456,7 @@ static.bit.cloud
 .ipfs.tubby.cloud
 .gateway.pinata.cloud
 resources-live.sketch.cloud
+.cloud-object-storage.appdomain.cloud
 media.cleanshot.cloud
 assets.buttondown.email
 .ipfs.telos.miami
