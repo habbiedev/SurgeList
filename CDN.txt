@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-06T08:09:09.709Z
-# Size: 2614
+# Last Updated: 2024-11-07T16:20:18.413Z
+# Size: 2615
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -41,6 +41,7 @@ eep.io
 .gcr.io
 .gw3.io
 .k8s.io
+.npm.io
 .iili.io
 .jspm.io
 .logz.io
@@ -729,6 +730,7 @@ cdn.unwire.hk
 .ipfs.trusti.id
 s3.c.im
 images.spot.im
+launcher.spot.im
 static-cdn.spot.im
 sn-s3-cdn.angry.im
 badges.gitter.im
@@ -1726,7 +1728,6 @@ static.test-beta.com
 hawk.tomsguide.com
 ui.trailhead.com
 cdn.transifex.com
-cdn-txweb.transifex.com
 cdn.travis-ci.com
 cdn.ttgtmedia.com
 cdn.up-timely.com
@@ -2006,6 +2007,7 @@ cdn3.unrealengine.com
 typescript.visualstudio.com
 assets.xboxservices.com
 cms-assets.xboxservices.com
+jac.yahoosandbox.com
 .images.arcpublishing.com
 images.arigatotravel.com
 static.cloudcachetci.com
@@ -2024,6 +2026,7 @@ app.groovefunnels.com
 sig.grumpybumpers.com
 img3.lltaohuaxiang.com
 asset.mansionglobal.com
+3dna.nationbuilder.com
 assets.nationbuilder.com
 .agechecker.northern-apps.com
 .cdn.printfriendly.com
@@ -2140,7 +2143,6 @@ s.wsj.net
 vir.wsj.net
 sts3.wsj.net
 images.wsj.net
-optimizely.wsj.net
 .mm.bing.net
 .ipfs.mttk.net
 static.osdn.net
@@ -2429,7 +2431,6 @@ res2.weblium.site
 pkg-cdn.jetbrains.team
 packages.jetbrains.team
 ipfs.d.tube
-pic.ziyuan.wang
 .ipfs.litnet.work
 img.itch.zone
 static.bit.cloud
@@ -2486,6 +2487,7 @@ static.zaobao.com.sg
 j.udn.com.tw
 s.udn.com.tw
 static.cnbeta.com.tw
+event.ithome.com.tw
 i2.bahamut.com.tw
 p2.bahamut.com.tw
 truth.bahamut.com.tw
@@ -2526,7 +2528,6 @@ assets.fonts.adobe.com
 pkgs.dev.azure.com
 cdn.search.brave.com
 imgs.search.brave.com
-img.merch.cameo.com
 static.cloud.coveo.com
 media.ra.kroll.com
 yep.video.yahoo.com
