@@ -4,6 +4,7 @@
 .aistudio.google.com
 .anthropic.com
 .bard.google.com
+.chat.com
 .chatgpt.com
 .claude.ai
 .clipdrop.co
