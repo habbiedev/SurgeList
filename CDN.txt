@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-07T16:20:18.413Z
-# Size: 2615
+# Last Updated: 2024-11-08T19:58:42.327Z
+# Size: 2624
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -43,6 +43,7 @@ eep.io
 .k8s.io
 .npm.io
 .iili.io
+.ipfs.io
 .jspm.io
 .logz.io
 .pnpm.io
@@ -120,6 +121,7 @@ curl.se
 .ninjastream.to
 .99av.tv
 .7mmtv.tv
+.storry.tv
 cloudflare.tv
 .pimg.tw
 .imageshack.us
@@ -489,6 +491,7 @@ runkit-packages-static-executables.com
 .workers.dev
 pkg-size.dev
 .usercontent.dev
+.delegated-ipfs.dev
 .vsmarketplacebadges.dev
 .cthd.icu
 .ipfs.ink
@@ -614,11 +617,13 @@ akidoo.top
 .dogehls.xyz
 .pornimg.xyz
 .zorocdn.xyz
+.flk-ipfs.xyz
 .imgmrplay.xyz
 .mirror-media.xyz
 phishing.army
 .porn5.asia
 .ymq.cool
+.ipfs.cyou
 .nel.goog
 .usercontent.goog
 .assets-servd.host
@@ -629,6 +634,7 @@ phishing.army
 .gitcdn.link
 nightly.link
 .nftstorage.link
+.trustless-gateway.link
 .doppiocdn.live
 .kinsta.page
 .instant.page
@@ -661,6 +667,7 @@ i.snap.as
 .ipfs.greyh.at
 .newscdn.com.au
 .abc-cdn.net.au
+static.k2s.cc
 static-cache.k2s.cc
 images.ptt.cc
 pic.imge.cc
@@ -745,7 +752,6 @@ npm.jsr.io
 adkit.9pub.io
 assets.bwbx.io
 badge.fury.io
-.gateway.ipfs.io
 static.itch.io
 dl.nwjs.io
 dl2.nwjs.io
@@ -902,6 +908,7 @@ img.xjh.me
 media.e4le.me
 pic.7mmtv.me
 emoji-css.afeld.me
+static.fboom.me
 static-cache.fboom.me
 cdn.judge.me
 cdn.rauno.me
@@ -949,13 +956,13 @@ assets.vantage.sh
 images.spr.so
 sites.super.so
 assets-v2.super.so
+cdn.birdie.so
 cdn.circle.so
 image-forwarder.notaku.so
 img.kemono.su
 piccdn.7mmtv.sx
 video1.7mmtv.sx
 video2.7mmtv.sx
-.ipfs.alloyxuast.tk
 media.dev.to
 media.mas.to
 embed.tawk.to
@@ -982,10 +989,12 @@ st1.zoom.us
 st2.zoom.us
 st3.zoom.us
 cdn.donmai.us
+cdn.bsky.app
 cdn.rive.app
 public.linear.app
 static.linear.app
 .cms-cdn.linear.app
+webassets.linear.app
 pic.macked.app
 videos.elephas.app
 cdn.langshop.app
@@ -1474,6 +1483,7 @@ assets.vidyard.com
 cdn.viglink.com
 api.weather.com
 mparticle.weather.com
+screenshots.webflow.com
 .uploads-ssl.webflow.com
 static.workday.com
 cdne-pics.youjizz.com
@@ -1952,6 +1962,7 @@ static.tradingview.com
 s3-symbol-logo.tradingview.com
 widgets.tree-nation.com
 cdn.trustedsite.com
+psp-logos.uptimerobot.com
 userfiles.uptimerobot.com
 asset-cdn.uscardforum.com
 .js.usemessages.com
@@ -2117,7 +2128,6 @@ tuf-repo-cdn.sigstore.dev
 i.jpg.dog
 cdn.onetime.dog
 cdn.usd.fan
-static.mikuclub.fun
 cdn7.pornmaster.fun
 images-assets.nasa.gov
 cdn.cbd.int
@@ -2509,7 +2519,6 @@ scripts.dailymail.co.uk
 static.fasthosts.co.uk
 secure.telegraph.co.uk
 static.telegraph.co.uk
-.ipfs.chisdealhd.co.uk
 static.independent.co.uk
 cdn.mcr.ea.com
 media.contentapi.ea.com
