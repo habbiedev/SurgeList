@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-08T19:58:42.327Z
-# Size: 2624
+# Last Updated: 2024-11-09T17:31:05.623Z
+# Size: 2628
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -25,6 +25,7 @@ pengtu.cc
 nodei.co
 .prcdn.co
 .unpkg.co
+.doodcdn.co
 .smilecdn.co
 .placehold.co
 waitlisted.co
@@ -305,6 +306,7 @@ redircdn.com
 .dummyjson.com
 .embedgram.com
 .ensighten.com
+.fastlycdn.com
 .fiverrcdn.com
 .fncstatic.com
 .forbesimg.com
@@ -367,6 +369,7 @@ optimizely.com
 .bleepstatic.com
 .bstarstatic.com
 .cdn-website.com
+.cloudatacdn.com
 .firebaseapp.com
 .fontawesome.com
 .intercomcdn.com
@@ -2315,6 +2318,7 @@ media.npr.org
 bundles.npr.org
 static-assets.npr.org
 .tile.osm.org
+image.4fuk.org
 .ipfs.busy.org
 static.ietf.org
 o.n1mp.org
@@ -2633,8 +2637,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-11-06T08:09:09.709Z
-# Size: 610
+# Last Updated: 2024-11-09T17:31:05.623Z
+# Size: 611
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2849,6 +2853,7 @@ mirror.navercorp.com
 desktop.parallels.com
 download.parallels.com
 softwareupdate.pilotmoon.com
+dl.tailscale.com
 pkgs.tailscale.com
 download.todesktop.com
 .swupdate.chaosgroup.com
