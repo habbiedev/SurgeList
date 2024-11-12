@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-11T08:29:45.207Z
-# Size: 2634
+# Last Updated: 2024-11-12T14:49:14.453Z
+# Size: 2648
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -288,7 +288,6 @@ redircdn.com
 .stripcdn.com
 .tildacdn.com
 .tpdfiles.com
-.tth-ipfs.com
 .ucarecdn.com
 .vimeocdn.com
 .xnxx-cdn.com
@@ -408,6 +407,7 @@ bundlephobia.com
 .meetupstatic.com
 .olemovienews.com
 .omnisnippet1.com
+.onekey-asset.com
 .pressablecdn.com
 .redditstatic.com
 .scribdassets.com
@@ -822,6 +822,7 @@ static.cracked.io
 .ipfs.eternum.io
 .files.gitbook.io
 assets.holopin.io
+cdn.icomoon.io
 repo.nextdns.io
 favicons.nextdns.io
 static.opensea.io
@@ -882,12 +883,14 @@ cdn.download.it
 osint.digitalside.it
 i.gzn.jp
 .cdn.nimg.jp
+common-header.nimg.jp
 r.r10s.jp
 ias.r10s.jp
 .media.ci-en.jp
 static.tenki.jp
 img.atwiki.jp
 img.dlsite.jp
+c.fantia.jp
 image.gyutto.jp
 mangaz-books.j-comi.jp
 mangaz-static.j-comi.jp
@@ -967,6 +970,8 @@ piccdn.7mmtv.sx
 video1.7mmtv.sx
 video2.7mmtv.sx
 media.dev.to
+assets.dev.to
+media2.dev.to
 media.mas.to
 embed.tawk.to
 img.sflix.to
@@ -994,9 +999,11 @@ st3.zoom.us
 cdn.donmai.us
 cdn.bsky.app
 cdn.rive.app
+e.linear.app
 public.linear.app
 static.linear.app
 .cms-cdn.linear.app
+uploads.linear.app
 webassets.linear.app
 pic.macked.app
 videos.elephas.app
@@ -1664,6 +1671,7 @@ wac-cdn-2.atlassian.com
 cdn.babylonjs.com
 secure.beer7live.com
 upos-sz-mirroralibstar1.bilivideo.com
+upos-sz-mirrorcosbstar1.bilivideo.com
 media.breitbart.com
 badge.buildkite.com
 doppler-config.cbsivideo.com
@@ -1671,6 +1679,7 @@ cdn.ceres9350.com
 js.chargebee.com
 assets.coingecko.com
 static.coingecko.com
+cdn.configcat.com
 cookie-cdn.cookiepro.com
 app.cookieyes.com
 .data.debugbear.com
@@ -1995,6 +2004,7 @@ eu-images.contentstack.com
 anchor.digitalocean.com
 .assets.digitalocean.com
 ui-cdn.digitalocean.com
+segment.digitalocean.com
 cdn2.downdetector.com
 st.dynamicyield.com
 cdn.dynamicyield.com
@@ -2010,7 +2020,6 @@ icons.leavemealone.com
 assets.lemonsqueezy.com
 player.louisvuitton.com
 cdn.manageengine.com
-web.onekey-asset.com
 sbl.onfastspring.com
 js.partnerstack.com
 cdn.privacy-mgmt.com
@@ -2138,6 +2147,7 @@ i.jpg.dog
 cdn.onetime.dog
 cdn.usd.fan
 cdn7.pornmaster.fun
+smd-cms.nasa.gov
 images-assets.nasa.gov
 cdn.cbd.int
 img.hcloud.lat
@@ -2500,6 +2510,7 @@ error.rakuten.co.jp
 web-assets.zendesk.co.jp
 resource.video.nimg.jp
 parts.blog.livedoor.jp
+listing-thumbnail.live.nicovideo.jp
 media.cmx.edu.kg
 s3.m.0x.mk
 secure.fanboy.co.nz
@@ -2564,6 +2575,7 @@ static.news.bitcoin.com
 static.iris.informa.com
 .push.services.mozilla.com
 stubdownloader.services.mozilla.com
+app-static.eu.posthog.com
 widgets.media.weather.com
 widgets-red.media.weather.com
 static.community.workday.com
@@ -2600,6 +2612,7 @@ image.email.microsoftemail.com
 static.na1.visioncritical.com
 static.global.visioncritical.com
 stats.setapp.macpaw.dev
+assets.science.nasa.gov
 assets.video.yahoo.net
 brick.freetls.fastly.net
 practicaldev-herokuapp-com.freetls.fastly.net
@@ -2626,6 +2639,7 @@ files.mastodon.ktachibana.party
 .ipfs.eth.aragon.network
 cdn.prod.www.spiegel.de
 cdn.dap.dmm.co.jp
+resource.akashic.coe.nicovideo.jp
 static.mysph.sph.com.sg
 cf.eip.telegraph.co.uk
 cdn.pkg.svc.ui.com
