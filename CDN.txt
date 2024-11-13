@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-12T14:49:14.453Z
-# Size: 2648
+# Last Updated: 2024-11-13T02:51:15.304Z
+# Size: 2651
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1336,6 +1336,7 @@ assets.swoogo.com
 cdn-static.talent.com
 image.thefly.com
 cdn.thisav.com
+cdn.tracxn.com
 cdn.ttloli.com
 cdn2.ttloli.com
 .media.tumblr.com
@@ -1479,6 +1480,7 @@ artworks.thetvdb.com
 cdnl.tnaflix.com
 img2.tnaflix.com
 cdn-fck.tnaflix.com
+static.tp-link.com
 static-community.tp-link.com
 fonts.twitter.com
 platform.twitter.com
@@ -1588,7 +1590,6 @@ assets.leetcode.com
 static-lccn.leetcode.com
 services.linkfire.com
 linkstorage.linkfire.com
-cdn.linkmink.com
 media.loom-app.com
 img-api.mac4ever.com
 imag.malavida.com
@@ -1921,6 +1922,7 @@ stories.freepiklabs.com
 media.gettyimages.com
 static.gettyimages.com
 media.graphassets.com
+content.invisioncic.com
 media.istockphoto.com
 logos.kiwibrowser.com
 settings.kiwibrowser.com
@@ -2064,6 +2066,7 @@ images.purevpn-tools.com
 cdn.recovermycart.com
 cdn.shoppinggives.com
 assets.static-upwork.com
+cdn.stellarhosted.com
 .bundle.thimatic-apps.com
 js.verygoodvault.com
 explorer-api.walletconnect.com
