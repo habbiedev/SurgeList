@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 302
+# DOMAIN-WILDCARD: 304
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -203,6 +203,7 @@ DOMAIN-WILDCARD,mob*.novanewsapp.com
 DOMAIN-WILDCARD,mobileanalytics.*.amazonaws.com
 DOMAIN-WILDCARD,mobileoffers-*-download.com
 DOMAIN-WILDCARD,mon*-*.tiktokv.us
+DOMAIN-WILDCARD,mon*-misc-lf.fqnovel.com
 DOMAIN-WILDCARD,mon*-platform-*.tiktokv.com
 DOMAIN-WILDCARD,mon-*.tiktokv.com
 DOMAIN-WILDCARD,ms*.applvn.com
@@ -262,6 +263,7 @@ DOMAIN-WILDCARD,stats-*.p2pnow.ru
 DOMAIN-WILDCARD,stats2.*.fdnames.com
 DOMAIN-WILDCARD,t*.zcvh.net
 DOMAIN-WILDCARD,tblog-*.kgslb.com
+DOMAIN-WILDCARD,telemetry*.api.playstation.com
 DOMAIN-WILDCARD,telemetry*.transcend.io
 DOMAIN-WILDCARD,thezbpe5*.xyz
 DOMAIN-WILDCARD,tnc*.zijieapi.com
