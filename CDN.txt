@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-14T14:52:29.989Z
-# Size: 2668
+# Last Updated: 2024-11-17T14:14:15.416Z
+# Size: 2680
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -455,6 +455,7 @@ yummlystatic.com
 .invisionapp-cdn.com
 .makeuseofimages.com
 .motherlessmedia.com
+.msftconnecttest.com
 openseauserdata.com
 searchserverapi.com
 .squarespace-cdn.com
@@ -592,6 +593,7 @@ vuejs.org
 .nodejs.org
 .rawgit.org
 .f-droid.org
+.lsposed.org
 .reactjs.org
 .typedoc.org
 .ziglang.org
@@ -761,6 +763,7 @@ adkit.9pub.io
 assets.bwbx.io
 badge.fury.io
 static.itch.io
+cdn.nolt.io
 dl.nwjs.io
 dl2.nwjs.io
 cdn.plyr.io
@@ -1083,6 +1086,7 @@ drop.ndtv.com
 edata.ndtv.com
 sdata.ndtv.com
 .www.s81c.com
+cdn.sedo.com
 assets.time.com
 media.user.com
 widget.user.com
@@ -1336,6 +1340,7 @@ assets.shazam.com
 cdn.sketch.com
 cdn.solvvy.com
 web-assets.strava.com
+js.stripe.com
 checkout.stripe.com
 img.supjav.com
 assets.swoogo.com
@@ -1346,7 +1351,7 @@ cdn.tracxn.com
 cdn.ttloli.com
 cdn2.ttloli.com
 .media.tumblr.com
-assets.tumblr.com
+.assets.tumblr.com
 static.tumblr.com
 .cdn.turner.com
 .assets.ubuntu.com
@@ -1643,6 +1648,7 @@ cdn.skymavis.com
 .static.skymavis.com
 static.snapchat.com
 rv-assets.softonic.com
+img.sparemin.com
 assets.stickpng.com
 cdn.substack.com
 cdn1.sysgears.com
@@ -1725,6 +1731,7 @@ static.mediafire.com
 js.memberful.com
 ajax.microsoft.com
 wcpstatic.microsoft.com
+.smartscreen.microsoft.com
 store-images.microsoft.com
 cdn.miohentai.com
 public.mocortech.com
@@ -1807,6 +1814,7 @@ apple-relay.cloudflare.com
 res.cloudinary.com
 fiverr-res.cloudinary.com
 cloudinary-res.cloudinary.com
+cdn.commandbar.com
 frames-commandbar-prod.commandbar.com
 cdn.contentful.com
 images.contentful.com
@@ -2006,6 +2014,8 @@ widgets.zohosalesiq.com
 cdn.9to5terminal.com
 photos5.appleinsider.com
 .ipfs.arching-kaos.com
+img.atlasobscura.com
+assets.atlasobscura.com
 cdn.axieinfinity.com
 axiecdn.axieinfinity.com
 cdnjs.buymeacoffee.com
@@ -2481,6 +2491,7 @@ ipfs.d.tube
 .ipfs.litnet.work
 img.itch.zone
 static.bit.cloud
+fscdn.eppo.cloud
 patterns.hiive.cloud
 .ipfs.tubby.cloud
 .gateway.pinata.cloud
@@ -2652,6 +2663,7 @@ confluence-v1.prod.atl-paas.net
 cdn.mcauto-images-production.sendgrid.net
 cdn.c1.amplience.net
 cdn.media.amplience.net
+static.edge.microsoftapp.net
 .cdn.prod.atlassian-dev.net
 repo.maven.apache.org
 assets.auth.magic.link
@@ -2677,8 +2689,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-11-14T14:52:29.989Z
-# Size: 613
+# Last Updated: 2024-11-17T07:08:12.428Z
+# Size: 615
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2688,6 +2700,7 @@ jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 .file.io
 .ghcr.io
 .mega.io
+packagecloud.io
 .mega.nz
 .temp.sh
 iterm2.com
@@ -2786,6 +2799,7 @@ store.setapp.com
 download.sketch.com
 .archive.ubuntu.com
 security.ubuntu.com
+softwareupdate.vmware.com
 static.adguard.com
 download.anydesk.com
 dl.devmate.com
