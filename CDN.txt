@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-17T14:14:15.416Z
-# Size: 2680
+# Last Updated: 2024-11-18T08:18:08.350Z
+# Size: 2682
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -658,6 +658,7 @@ turbo.build
 .pstorage.space
 eslint.style
 vanilla-extract.style
+.ant.design
 .picsum.photos
 .static.domains
 .cdnjs.network
@@ -1559,6 +1560,7 @@ cds.connatix.com
 img.connatix.com
 cdn.credible.com
 cdn.datacamp.com
+api.dicebear.com
 avatars.dicebear.com
 ocsp.digicert.com
 cacerts.digicert.com
