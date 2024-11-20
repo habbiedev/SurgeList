@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-19T11:35:23.829Z
-# Size: 2683
+# Last Updated: 2024-11-20T14:37:40.322Z
+# Size: 2687
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -260,6 +260,7 @@ p-smith.com
 .badoocdn.com
 .blogblog.com
 .bytedapm.com
+.cdnfonts.com
 .chasecdn.com
 eightcha.com
 .favicone.com
@@ -674,6 +675,7 @@ metrics.kapa.ai
 media.evolv.ai
 participants.evolv.ai
 s3.masto.ai
+r2.leadsy.ai
 prod-cdn.webtune.ai
 pplx-next-static-public.perplexity.ai
 i.snap.as
@@ -1373,6 +1375,7 @@ img.xhacgn.com
 static.zaobao.com
 cdn.zapier.com
 fonts.zapier.com
+assets.zilliz.com
 static.4shared.com
 s.abcnews.com
 assets-cdn.abcnews.com
@@ -1547,7 +1550,6 @@ assets.bravenet.com
 assets.byteplus.com
 assets.calendly.com
 assets.capterra.com
-fonts.cdnfonts.com
 app.chatwoot.com
 cdn-assets.circleci.com
 logo.clearbit.com
@@ -1603,6 +1605,7 @@ img.jsdelivr.com
 data.jsdelivr.com
 cdn.jwplayer.com
 img.kbhgames.com
+cdn.leandata.com
 assets.leetcode.com
 static-lccn.leetcode.com
 services.linkfire.com
@@ -1779,6 +1782,7 @@ hawk.tomsguide.com
 ui.trailhead.com
 cdn.transifex.com
 cdn.travis-ci.com
+tag.trovo-tag.com
 cdn.ttgtmedia.com
 cdn.up-timely.com
 crl.usertrust.com
@@ -2692,8 +2696,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-11-17T07:08:12.428Z
-# Size: 615
+# Last Updated: 2024-11-20T11:52:22.170Z
+# Size: 616
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2918,6 +2922,7 @@ download.todesktop.com
 .swupdate.chaosgroup.com
 update.googleapis.com
 deb.nodesource.com
+dl.cleverfiles.com
 .egdownload.fastly-edge.com
 downloads.raspberrypi.com
 .content.steampowered.com
