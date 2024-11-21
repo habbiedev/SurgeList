@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 306
+# DOMAIN-WILDCARD: 307
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -210,6 +210,7 @@ DOMAIN-WILDCARD,mon*-platform-*.tiktokv.com
 DOMAIN-WILDCARD,mon-*.tiktokv.com
 DOMAIN-WILDCARD,ms*.applvn.com
 DOMAIN-WILDCARD,mssdk*.zijieapi.com
+DOMAIN-WILDCARD,mssdk-*.tiktokw.us
 DOMAIN-WILDCARD,n*adserv.com
 DOMAIN-WILDCARD,n*adserv.xyz
 DOMAIN-WILDCARD,opnked*.xyz
