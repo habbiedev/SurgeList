@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-20T14:37:40.322Z
-# Size: 2687
+# Last Updated: 2024-11-21T15:01:25.745Z
+# Size: 2701
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -445,11 +445,13 @@ yummlystatic.com
 .zdusercontent.com
 .zohowebstatic.com
 .alonestreaming.com
+.b2c-contenthub.com
 .datocms-assets.com
 .intercomassets.com
 .kc-usercontent.com
 .oaiusercontent.com
 .quip-marketing.com
+.teamtailor-cdn.com
 .yourimageshare.com
 .cloudflare-ipfs.com
 .howtogeekimages.com
@@ -1010,6 +1012,9 @@ regmedia.co.uk
 st1.zoom.us
 st2.zoom.us
 st3.zoom.us
+media.zoom.us
+eu01ccistatic.zoom.us
+us01ccistatic.zoom.us
 cdn.donmai.us
 cdn.bsky.app
 cdn.rive.app
@@ -1194,7 +1199,7 @@ static-production.npmjs.com
 static.oomol.com
 i.pcmag.com
 cdn.plaid.com
-scdn1.plesk.com
+cdn1.plesk.com
 s.plurk.com
 emos.plurk.com
 imgs.plurk.com
@@ -1275,6 +1280,7 @@ bst.icons8.com
 img.icons8.com
 .cdn.ifixit.com
 i.iheart.com
+cdn.jitbit.com
 code.jquery.com
 .app.khoros.com
 cdn.kinsta.com
@@ -1324,6 +1330,7 @@ static-landing.probit.com
 js.pusher.com
 .bugly.qcloud.com
 sdk.qikify.com
+embed.reddit.com
 cloud.redhat.com
 static.redhat.com
 .app.render.com
@@ -1342,7 +1349,6 @@ imgix.setapp.com
 stats.setapp.com
 assets.shazam.com
 cdn.sketch.com
-cdn.solvvy.com
 web-assets.strava.com
 js.stripe.com
 checkout.stripe.com
@@ -1586,6 +1592,7 @@ static-assets-web.flixcart.com
 resizing.flixster.com
 filestore.fortinet.com
 badges.frapsoft.com
+assets.frontegg.com
 maps.geoapify.com
 assets.getkirby.com
 cdn.getkoala.com
@@ -2137,6 +2144,10 @@ gt1.onlyhentaistuff.com
 c.speedtestcustom.com
 logos.speedtestcustom.com
 assets.the-independent.com
+images1.welcomesoftware.com
+images2.welcomesoftware.com
+images3.welcomesoftware.com
+images4.welcomesoftware.com
 analytics.welcomesoftware.com
 cdn.worldvectorlogo.com
 css.blackmagicdesign.com
@@ -2318,7 +2329,6 @@ claritystatic.azureedge.net
 xpaywalletcdn.azureedge.net
 .edgestorewebcdn.azureedge.net
 edgeassetservice.azureedge.net
-vscodeexperiments.azureedge.net
 edge-mobile-static.azureedge.net
 edge-consumer-static.azureedge.net
 static.eroterest.net
@@ -2636,6 +2646,10 @@ static.dash.cloudflare.com
 favicons.teams.cloudflare.com
 .ipfs0.sjc.cloudsigma.com
 cdn.eu.contentful.com
+images1.cmp.optimizely.com
+images2.cmp.optimizely.com
+images3.cmp.optimizely.com
+images4.cmp.optimizely.com
 resources.help.salesforce.com
 s3.us-west-000.backblazeb2.com
 s3.us-west-001.backblazeb2.com
