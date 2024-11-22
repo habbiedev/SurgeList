@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-21T15:01:25.745Z
-# Size: 2701
+# Last Updated: 2024-11-22T16:43:58.059Z
+# Size: 2706
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -117,6 +117,7 @@ curl.se
 .gcr.si
 .gitapp.si
 .gitpage.si
+.cdn-zlib.sk
 0x0.st
 .pixhost.to
 .easylist.to
@@ -465,6 +466,7 @@ searchserverapi.com
 .cloudflarestream.com
 .googleadservices.com
 .steamusercontent.com
+.chargebeestaticv2.com
 conversiongorilla.com
 .envatousercontent.com
 .framerusercontent.com
@@ -1123,6 +1125,7 @@ events-live.apple.com
 lcdn-locator.apple.com
 events-delivery.apple.com
 cdn.auth0.com
+cdn2.auth0.com
 static-clst.avgle.com
 images.axios.com
 static.axios.com
@@ -1706,6 +1709,7 @@ badge.buildkite.com
 doppler-config.cbsivideo.com
 cdn.ceres9350.com
 js.chargebee.com
+js1.chargebee.com
 assets.coingecko.com
 static.coingecko.com
 cdn.configcat.com
@@ -1802,6 +1806,7 @@ image.westinyou.com
 s0.wordpress.com
 .files.wordpress.com
 assets.zerohedge.com
+cdn.zhujiwiki.com
 static.adguardvpn.com
 packages.argotunnel.com
 agi.armorgames.com
@@ -2324,6 +2329,7 @@ spoppe-b.azureedge.net
 ni-assets.azureedge.net
 edgestatic.azureedge.net
 typescript.azureedge.net
+decart-oasis.azureedge.net
 mobilecenter.azureedge.net
 claritystatic.azureedge.net
 xpaywalletcdn.azureedge.net
@@ -2424,7 +2430,6 @@ cdn.travis-ci.org
 upload.wikimedia.org
 creativajs.altervista.org
 cdn.autoketing.org
-update.greasyfork.org
 cdn.libravatar.org
 seccdn.libravatar.org
 assets.mayoclinic.org
@@ -2710,8 +2715,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-11-20T11:52:22.170Z
-# Size: 616
+# Last Updated: 2024-11-22T05:06:22.422Z
+# Size: 617
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3013,6 +3018,7 @@ releases.whatpulse.org
 downloads.wordpress.org
 artifacts.electronjs.org
 releases.grapheneos.org
+update.greasyfork.org
 update.sleazyfork.org
 dl-cdn.alpinelinux.org
 mirrors.fedoraproject.org
