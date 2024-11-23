@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-22T16:43:58.059Z
-# Size: 2706
+# Last Updated: 2024-11-23T09:45:37.529Z
+# Size: 2715
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -994,6 +994,7 @@ media.mas.to
 embed.tawk.to
 img.sflix.to
 static.cracked.to
+embed-v2.testimonial.to
 lain.bgm.tv
 4gtvimg2.4gtv.tv
 cdn.18jav.tv
@@ -2166,6 +2167,7 @@ oss-binaries.phusionpassenger.com
 static2.sharepointonline.com
 telemetry.1passwordservices.com
 assets.positional-bucket.com
+media.theresanaiforthat.com
 demo.unified-streaming.com
 media.datacenterdynamics.com
 cdn.cms-twdigitalassets.com
@@ -2217,6 +2219,7 @@ cdnjs.cat.net
 fonts.cat.net
 gravatar.cat.net
 cdn.css.net
+static.j51.net
 m.wsj.net
 s.wsj.net
 vir.wsj.net
@@ -2276,6 +2279,9 @@ js.hsforms.net
 js-eu1.hsforms.net
 .cdn2.hubspot.net
 avatars.hubspot.net
+file.izanmei.net
+play.izanmei.net
+static.izanmei.net
 pg2dhpc3p5ec22g3.jkforum.net
 opt.moovweb.net
 .cdn.mozilla.net
@@ -2414,6 +2420,7 @@ pcz.javidol.org
 cdn.mathjax.org
 archive.mozilla.org
 .proxy.ustclug.org
+static.aizanmei.org
 fonts.codeberg.org
 assets.exercism.org
 image.lichess1.org
@@ -2567,6 +2574,7 @@ media.cmx.edu.kg
 s3.m.0x.mk
 secure.fanboy.co.nz
 static.zaobao.com.sg
+imgcdn.cna.com.tw
 j.udn.com.tw
 s.udn.com.tw
 static.cnbeta.com.tw
@@ -2628,6 +2636,7 @@ static.iris.informa.com
 .push.services.mozilla.com
 stubdownloader.services.mozilla.com
 app-static.eu.posthog.com
+ton.local.twitter.com
 widgets.media.weather.com
 widgets-red.media.weather.com
 static.community.workday.com
@@ -2715,8 +2724,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-11-22T05:06:22.422Z
-# Size: 617
+# Last Updated: 2024-11-23T09:42:48.135Z
+# Size: 618
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2755,6 +2764,7 @@ fedorapeople.org
 .fnbuilds.services
 mirror.xtom.au
 mirrors.xtom.au
+download.mersenne.ca
 file.chobit.cc
 builds.paranoidandroid.co
 mirror.xtom.de
