@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-23T09:45:37.529Z
-# Size: 2715
+# Last Updated: 2024-11-24T07:11:28.355Z
+# Size: 2716
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1836,6 +1836,7 @@ apple-relay.cloudflare.com
 res.cloudinary.com
 fiverr-res.cloudinary.com
 cloudinary-res.cloudinary.com
+static-assets.codecademy.com
 cdn.commandbar.com
 frames-commandbar-prod.commandbar.com
 cdn.contentful.com
