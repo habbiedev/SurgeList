@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-24T07:11:28.355Z
-# Size: 2716
+# Last Updated: 2024-11-25T13:34:08.019Z
+# Size: 2720
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1181,6 +1181,7 @@ web-assets.ifttt.com
 i.imgur.com
 s.imgur.com
 .stack.imgur.com
+i.ioiox.com
 static.javhd.com
 creator-image.javhd.com
 wandi-6402.kxcdn.com
@@ -1501,6 +1502,7 @@ cdn.shopify.com
 sdk.snapkit.com
 static.srcspot.com
 assets.st-note.com
+cdn.svgator.com
 wpmedia.tealium.com
 cdn.termius.com
 autoupdate.termius.com
@@ -1571,6 +1573,7 @@ downloads.coindesk.com
 crt.comodoca.com
 cds.connatix.com
 img.connatix.com
+assets.controld.com
 cdn.credible.com
 cdn.datacamp.com
 api.dicebear.com
@@ -2248,6 +2251,7 @@ img.biguz.net
 fonts.bunny.net
 thumbnails.cbsig.net
 static-act.imoim.net
+jsdelivr.ioiox.net
 static-cdn.jtvnw.net
 static.monei.net
 img.pawoo.net
@@ -2725,8 +2729,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-11-23T09:42:48.135Z
-# Size: 618
+# Last Updated: 2024-11-25T13:34:08.019Z
+# Size: 620
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3227,6 +3231,7 @@ download.visualstudio.microsoft.com
 .s3.us-west-002.backblazeb2.com
 update.code.visualstudio.com
 az764295.vo.msecnd.net
+download-installer.cdn.mozilla.net
 download-core.sys.truenas.net
 .content.cdp.bethesda.net
 .download.cdp.bethesda.net
@@ -3235,6 +3240,7 @@ download-core.sys.truenas.net
 .debian.map.fastlydns.net
 .ftp2.de.debian.org
 mirrors.edge.kernel.org
+versioncheck.addons.mozilla.org
 versioncheck-bg.addons.mozilla.org
 .s3.fr-par.scw.cloud
 .s3-website.fr-par.scw.cloud
