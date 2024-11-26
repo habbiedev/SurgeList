@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-25T13:34:08.019Z
-# Size: 2720
+# Last Updated: 2024-11-26T12:49:36.696Z
+# Size: 2722
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -453,6 +453,7 @@ yummlystatic.com
 .oaiusercontent.com
 .quip-marketing.com
 .teamtailor-cdn.com
+.warnermediacdn.com
 .yourimageshare.com
 .cloudflare-ipfs.com
 .howtogeekimages.com
@@ -616,6 +617,7 @@ simpleicons.org
 publicsuffix.org
 .pythonhosted.org
 .streamhentai.org
+.featureassets.org
 .someonewhocares.org
 .bmp.ovh
 .esm.run
