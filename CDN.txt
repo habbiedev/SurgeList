@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-26T12:49:36.696Z
-# Size: 2722
+# Last Updated: 2024-11-27T10:12:38.309Z
+# Size: 2724
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -813,6 +813,7 @@ packages.httpie.io
 .ipfs.infura.io
 .cdn.ipinfo.io
 website-cdn.ipinfo.io
+edge.marker.io
 .ipfs1.pixura.io
 cdn.readme.io
 files.readme.io
@@ -2125,6 +2126,7 @@ prod.addictinggames.com
 userimg.customeriomail.com
 userimg-bee.customeriomail.com
 userimg-assets.customeriomail.com
+resources.esportsinsider.com
 cdn-live.foreignaffairs.com
 static-gcp.freepikcompany.com
 code.ionicframework.com
