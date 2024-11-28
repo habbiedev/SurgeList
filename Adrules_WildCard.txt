@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 308
+# DOMAIN-WILDCARD: 309
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -181,6 +181,7 @@ DOMAIN-WILDCARD,log*-misc-lf.amemv.com
 DOMAIN-WILDCARD,log*-misc-lq.amemv.com
 DOMAIN-WILDCARD,log*-normal-*.tiktokv.us
 DOMAIN-WILDCARD,log*-normal-lq.toutiaoapi.com
+DOMAIN-WILDCARD,log*-normal-useast1a.lemon8-app.com
 DOMAIN-WILDCARD,log*.aliyuncs.com
 DOMAIN-WILDCARD,log*.byteoversea.com
 DOMAIN-WILDCARD,log*.vietnamplus.vn
