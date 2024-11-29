@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-28T06:19:10.798Z
-# Size: 2730
+# Last Updated: 2024-11-29T13:25:13.411Z
+# Size: 2736
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -683,6 +683,7 @@ participants.evolv.ai
 s3.masto.ai
 r2.leadsy.ai
 prod-cdn.webtune.ai
+assets.cloudpilot.ai
 pplx-next-static-public.perplexity.ai
 i.snap.as
 .ipfs.greyh.at
@@ -1051,6 +1052,7 @@ front-resource.fs.com
 consent-notice.ft.com
 consent-manager.ft.com
 static.ui.com
+status.ui.com
 secure-uploads.ui.com
 static2.avg.com
 cdn.cnn.com
@@ -1161,6 +1163,7 @@ cdn.db-ip.com
 static.deepl.com
 cdn.faire.com
 static.fc2cn.com
+sprig.figma.com
 static.figma.com
 s3-alpha.figma.com
 s3-alpha-sig.figma.com
@@ -1485,6 +1488,7 @@ img.ltyears.com
 assets.mailgun.com
 img-cos.mandaoo.com
 static.maxmind.com
+image.mgstage.com
 images.moegoat.com
 static.moegoat.com
 static.moonpay.com
@@ -1656,6 +1660,7 @@ cdn2.onlyfans.com
 cdn3.onlyfans.com
 static.onlyfans.com
 thumbs.onlyfans.com
+static2.onlyfans.com
 .i.optimole.com
 cdn.osxdaily.com
 widgets.outbrain.com
@@ -2035,6 +2040,7 @@ cdn.trustedsite.com
 cms.typenetwork.com
 cloud.typenetwork.com
 fastly-cloud.typenetwork.com
+tag.unifyintent.com
 psp-logos.uptimerobot.com
 userfiles.uptimerobot.com
 asset-cdn.uscardforum.com
@@ -2739,14 +2745,15 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-11-25T13:34:08.019Z
-# Size: 620
+# Last Updated: 2024-11-29T09:26:52.849Z
+# Size: 621
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains for software updating & large file hosting.
 #########################################
+ghp.ci
 .file.io
 .ghcr.io
 .mega.io
