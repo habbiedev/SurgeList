@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-11-30T14:41:18.874Z
-# Size: 2738
+# Last Updated: 2024-12-01T09:49:23.319Z
+# Size: 2740
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -734,6 +734,8 @@ cdn.cloudcraft.co
 cdn.headwayapp.co
 assets0.headwayapp.co
 cdn.ipregistry.co
+sdk.listenlive.co
+widgets.listenlive.co
 .cdn-lfs.huggingface.co
 .cdn-uploads.huggingface.co
 .cdn-lfs-us-1.huggingface.co
