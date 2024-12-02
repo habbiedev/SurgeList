@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-01T09:49:23.319Z
-# Size: 2740
+# Last Updated: 2024-12-02T06:54:35.516Z
+# Size: 2742
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1363,6 +1363,7 @@ cdn.seondf.com
 cdn.setapp.com
 imgix.setapp.com
 stats.setapp.com
+b.sf-syn.com
 assets.shazam.com
 cdn.sketch.com
 web-assets.strava.com
@@ -2085,6 +2086,7 @@ spcdn.incartupsell.com
 static.launchdarkly.com
 cdn-c.leavemealone.com
 icons.leavemealone.com
+unsubscribe-imgs.leavemealone.com
 assets.lemonsqueezy.com
 player.louisvuitton.com
 cdn.manageengine.com
