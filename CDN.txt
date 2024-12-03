@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-02T06:54:35.516Z
-# Size: 2742
+# Last Updated: 2024-12-03T07:02:40.698Z
+# Size: 2744
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -722,6 +722,7 @@ app-static.turtl.co
 img.ifunny.co
 static.ifunny.co
 imageproxy.ifunny.co
+cdn.vector.co
 cdn.decrypt.co
 img.decrypt.co
 cdn.jolipage.co
@@ -1706,6 +1707,7 @@ assets.unifi-ai.com
 plus.unsplash.com
 images.unsplash.com
 widget.usepylon.com
+apichatwidget.usepylon.com
 js.userflow.com
 widget.usersnap.com
 crl.verisign.com
@@ -2751,8 +2753,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-11-29T09:26:52.849Z
-# Size: 621
+# Last Updated: 2024-12-03T06:08:56.973Z
+# Size: 626
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2795,6 +2797,7 @@ mirrors.xtom.au
 download.mersenne.ca
 file.chobit.cc
 builds.paranoidandroid.co
+ftp.gwdg.de
 mirror.xtom.de
 mirrors.xtom.de
 mirror.xtom.ee
@@ -2846,6 +2849,9 @@ download.xbox.com
 mirror.xtom.com
 mirrors.xtom.com
 mirror-cdn.xtom.com
+.s3.brave.com
+go-updater.brave.com
+componentupdater.brave.com
 .swupdate.chaos.com
 download.cpuid.com
 cdn-patch.swtor.com
@@ -2981,6 +2987,7 @@ update.googleapis.com
 deb.nodesource.com
 dl.cleverfiles.com
 .egdownload.fastly-edge.com
+update.kiwibrowser.com
 downloads.raspberrypi.com
 .content.steampowered.com
 content-origin.steampowered.com
