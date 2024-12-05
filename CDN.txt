@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-04T06:38:16.436Z
-# Size: 2752
+# Last Updated: 2024-12-05T14:09:31.508Z
+# Size: 2755
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2059,6 +2059,7 @@ psp-logos.uptimerobot.com
 userfiles.uptimerobot.com
 asset-cdn.uscardforum.com
 .js.usemessages.com
+static-cdn.usertesting.com
 app.viral-loops.com
 img2.xiangbinjun.com
 images.youracclaim.com
@@ -2149,6 +2150,7 @@ js.verygoodvault.com
 explorer-api.walletconnect.com
 cdn.windowsreport.com
 prod.addictinggames.com
+cdn.answeroverflow.com
 userimg.customeriomail.com
 userimg-bee.customeriomail.com
 userimg-assets.customeriomail.com
@@ -2564,6 +2566,7 @@ patterns.hiive.cloud
 resources-live.sketch.cloud
 media.cleanshot.cloud
 assets.buttondown.email
+files.smashing.media
 .ipfs.telos.miami
 .ipfs.kavin.rocks
 cdn.deta.space
