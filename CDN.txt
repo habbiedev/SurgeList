@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-07T09:35:24.759Z
-# Size: 2758
+# Last Updated: 2024-12-08T13:54:23.215Z
+# Size: 2763
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -550,6 +550,7 @@ minotar.net
 .quoracdn.net
 .sitescdn.net
 .smassets.net
+.tildacdn.net
 .turboimg.net
 .yastatic.net
 .ctfassets.net
@@ -654,6 +655,7 @@ phishing.army
 nightly.link
 .nftstorage.link
 .trustless-gateway.link
+.airio3.live
 .doppiocdn.live
 .kinsta.page
 .instant.page
@@ -1163,6 +1165,7 @@ media-s3-us-west-1.ceros.com
 assets-s3-us-east-1.ceros.com
 asset.chase.com
 sites.chase.com
+assets-themes.chess.com
 img.clerk.com
 scdn.clerk.com
 cdn.cliqz.com
@@ -2333,6 +2336,8 @@ t.nhentai.net
 static.nhentai.net
 cdn.perfops.net
 img.perfops.net
+devnull.perfops.net
+rum-cdn.perfops.net
 siloh-ns1.plutotv.net
 p.typekit.net
 use.typekit.net
