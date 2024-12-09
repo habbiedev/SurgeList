@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-08T13:54:23.215Z
-# Size: 2763
+# Last Updated: 2024-12-09T09:00:34.607Z
+# Size: 2767
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -407,6 +407,7 @@ bundlephobia.com
 .img-dpreview.com
 .jinyingimage.com
 .kinja-static.com
+.larksuitecdn.com
 .media-amazon.com
 .meetupstatic.com
 .olemovienews.com
@@ -686,6 +687,7 @@ media.evolv.ai
 participants.evolv.ai
 s3.masto.ai
 r2.leadsy.ai
+static.netify.ai
 prod-cdn.webtune.ai
 assets.cloudpilot.ai
 pplx-next-static-public.perplexity.ai
@@ -1510,6 +1512,7 @@ static.moegoat.com
 static.moonpay.com
 iframe.nbcnews.com
 nodeassets.nbcnews.com
+assets.nflxext.com
 static.olelive.com
 assets.ontrack.com
 cdn.parsely.com
@@ -2467,6 +2470,7 @@ pcz.javidol.org
 cdn.mathjax.org
 archive.mozilla.org
 .proxy.ustclug.org
+tools-static.wmflabs.org
 static.aizanmei.org
 fonts.codeberg.org
 assets.exercism.org
@@ -2772,8 +2776,8 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-12-03T06:08:56.973Z
-# Size: 626
+# Last Updated: 2024-12-09T10:19:27.947Z
+# Size: 628
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2889,6 +2893,7 @@ download.sketch.com
 .archive.ubuntu.com
 security.ubuntu.com
 softwareupdate.vmware.com
+dl.wechat.com
 static.adguard.com
 download.anydesk.com
 dl.devmate.com
@@ -3061,6 +3066,7 @@ cdn.kde.org
 invent.kde.org
 download.gimp.org
 cdimage.kali.org
+downloads.xiph.org
 .deb.debian.org
 .ftp.debian.org
 .archive.debian.org
