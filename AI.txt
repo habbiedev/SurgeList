@@ -225,6 +225,7 @@
 .perplexity.ai
 .poe.com
 .proactivebackend-pa.googleapis.com
+.sora.com
 .x.ai
 ai.google.dev
 alkalicore-pa.clients6.google.com
