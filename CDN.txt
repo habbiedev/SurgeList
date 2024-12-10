@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-09T09:00:34.607Z
-# Size: 2767
+# Last Updated: 2024-12-10T11:03:12.028Z
+# Size: 2775
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -273,6 +273,7 @@ geoip-js.com
 .kirafile.com
 .lowescdn.com
 momentjs.com
+.msftncsi.com
 .muscache.com
 .myavlive.com
 .nitrocdn.com
@@ -397,6 +398,7 @@ optimizely.com
 .uploadhouse.com
 .webpkgcache.com
 .xvideos-cdn.com
+.appsflyersdk.com
 .bootstrapcdn.com
 bundlephobia.com
 .cdninstagram.com
@@ -618,6 +620,7 @@ open-vsx.org
 .getcomposer.org
 .schemastore.org
 simpleicons.org
+.cdn-telegram.org
 publicsuffix.org
 .pythonhosted.org
 .streamhentai.org
@@ -1138,6 +1141,7 @@ static-cdn.123rf.com
 e3.365dm.com
 wwwimages2.adobe.com
 pba.apple.com
+apple-relay.apple.com
 events-live.apple.com
 lcdn-locator.apple.com
 events-delivery.apple.com
@@ -1532,6 +1536,7 @@ cdn.sheetjs.com
 cdn.shopify.com
 sdk.snapkit.com
 static.srcspot.com
+cdn.st-note.com
 assets.st-note.com
 cdn.svgator.com
 wpmedia.tealium.com
@@ -2254,6 +2259,7 @@ objects.hit.moe
 img.skk.moe
 pic.skk.moe
 .ruleset.skk.moe
+latency-test.skk.moe
 hv-monsterdb-data.skk.moe
 ovo.wxw.moe
 pic.cangku.moe
@@ -2613,6 +2619,7 @@ tags.news.com.au
 res.abc.net.au
 registry.api.cnn.io
 static-mh.content.disney.io
+.ingest.us.sentry.io
 .cdn.manage.runcloud.io
 at.adtech.redventures.io
 pics.dmm.co.jp
@@ -2730,6 +2737,7 @@ static.na1.visioncritical.com
 static.global.visioncritical.com
 stats.setapp.macpaw.dev
 assets.science.nasa.gov
+latency-test.lab.skk.moe
 assets.video.yahoo.net
 brick.freetls.fastly.net
 practicaldev-herokuapp-com.freetls.fastly.net
