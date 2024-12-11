@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-10T11:03:12.028Z
-# Size: 2775
+# Last Updated: 2024-12-11T11:11:24.493Z
+# Size: 2778
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -303,6 +303,7 @@ redircdn.com
 .assettype.com
 .avdocker3.com
 .awsstatic.com
+.bitgetimg.com
 .bnbstatic.com
 .cnbetacdn.com
 .disquscdn.com
@@ -896,6 +897,7 @@ proxy.beyondwords.io
 stats.codesandbox.io
 uploads.codesandbox.io
 screenshots.codesandbox.io
+sandpack-cdn-v2.codesandbox.io
 prod-packager-packages.codesandbox.io
 badges.greenkeeper.io
 cdn.imageengine.io
@@ -2576,6 +2578,7 @@ packages.jetbrains.team
 ipfs.d.tube
 .ipfs.litnet.work
 img.itch.zone
+cdn.bigcloud.click
 static.bit.cloud
 fscdn.eppo.cloud
 patterns.hiive.cloud
