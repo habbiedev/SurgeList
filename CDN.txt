@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-11T11:11:24.493Z
-# Size: 2778
+# Last Updated: 2024-12-12T15:54:50.441Z
+# Size: 2781
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -182,6 +182,7 @@ kdata1.com
 .mfcimg.com
 .mmtcdn.com
 .mngbcn.com
+.nc-img.com
 .odycdn.com
 .phncdn.com
 .pinimg.com
@@ -547,6 +548,7 @@ pkg-size.dev
 minotar.net
 .pstatic.net
 .sstatic.net
+.forgecdn.net
 .jsdelivr.net
 .line-cdn.net
 .pixelcdn.net
@@ -694,6 +696,7 @@ r2.leadsy.ai
 static.netify.ai
 prod-cdn.webtune.ai
 assets.cloudpilot.ai
+cdn.engagement.ai
 pplx-next-static-public.perplexity.ai
 i.snap.as
 .ipfs.greyh.at
@@ -1034,7 +1037,6 @@ regmedia.co.uk
 st1.zoom.us
 st2.zoom.us
 st3.zoom.us
-media.zoom.us
 eu01ccistatic.zoom.us
 us01ccistatic.zoom.us
 cdn.donmai.us
@@ -1103,6 +1105,8 @@ embed.ted.com
 pbc.wsj.com
 accounts-cdn.9gag.com
 g-static.ap4r.com
+img.atom.com
+i.bang.com
 th.bing.com
 at.cbsi.com
 zephr-templates.cnbc.com
@@ -1442,6 +1446,7 @@ organizer.bizzabo.com
 .notify.bugsnag.com
 .sessions.bugsnag.com
 static.bytepan.com
+.vodvideo.cbsnews.com
 w.chatlio.com
 cdn.chess24.com
 assets.chess24.com
@@ -1691,9 +1696,9 @@ static2.onlyfans.com
 .i.optimole.com
 cdn.osxdaily.com
 widgets.outbrain.com
+content.overwolf.com
 cdn.playwire.com
 static.politico.com
-cdn-assets.porntube.com
 cdn-thumbs.porntube.com
 api.qrserver.com
 libs.quillbot.com
@@ -1889,6 +1894,7 @@ f.convertkit.com
 media.convertkit.com
 assets.convertkit.com
 images.crunchbase.com
+static-beta.curseforge.com
 .cdn.discordapp.com
 icons.duckduckgo.com
 external-content.duckduckgo.com
@@ -2148,7 +2154,6 @@ cdn.freebiesupply.com
 rts-static-prod.freshworksapi.com
 app.groovefunnels.com
 sig.grumpybumpers.com
-img3.lltaohuaxiang.com
 asset.mansionglobal.com
 3dna.nationbuilder.com
 assets.nationbuilder.com
@@ -2250,7 +2255,6 @@ tuf-repo-cdn.sigstore.dev
 i.jpg.dog
 cdn.onetime.dog
 cdn.usd.fan
-cdn7.pornmaster.fun
 smd-cms.nasa.gov
 images-assets.nasa.gov
 cdn.cbd.int
@@ -2336,7 +2340,6 @@ js-eu1.hsforms.net
 avatars.hubspot.net
 file.izanmei.net
 play.izanmei.net
-static.izanmei.net
 pg2dhpc3p5ec22g3.jkforum.net
 opt.moovweb.net
 .cdn.mozilla.net
@@ -2593,6 +2596,7 @@ files.smashing.media
 cdn.deta.space
 cdn.hiive.space
 pics.javhd.today
+namedotcom-cdn.name.tools
 img.api.video
 fonts1.unidays.world
 api.iconify.design
@@ -2756,7 +2760,6 @@ avatars.mds.yandex.net
 interactive-examples.mdn.mozilla.net
 .blob.core.windows.net
 .file.core.windows.net
-confluence-v1.prod.atl-paas.net
 .prod.public.atl-paas.net
 cdn.mcauto-images-production.sendgrid.net
 cdn.c1.amplience.net
