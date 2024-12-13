@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-12T15:54:50.441Z
-# Size: 2781
+# Last Updated: 2024-12-13T16:59:12.097Z
+# Size: 2778
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1277,9 +1277,9 @@ img.bttimg.com
 icons.buffer.com
 static.buffer.com
 start-page.buffer.com
+eu.cdnbye.com
 video.cdnbye.com
 signal.cdnbye.com
-tracker.cdnbye.com
 opensignal.cdnbye.com
 signalcloud.cdnbye.com
 sf-flow-web-cdn.ciciai.com
@@ -1396,7 +1396,6 @@ img.supjav.com
 assets.swoogo.com
 cdn-static.talent.com
 image.thefly.com
-cdn.thisav.com
 cdn.tracxn.com
 cdn.ttloli.com
 cdn2.ttloli.com
@@ -1699,7 +1698,6 @@ widgets.outbrain.com
 content.overwolf.com
 cdn.playwire.com
 static.politico.com
-cdn-thumbs.porntube.com
 api.qrserver.com
 libs.quillbot.com
 assets.quillbot.com
@@ -1757,7 +1755,6 @@ upos-sz-mirrorcosbstar1.bilivideo.com
 media.breitbart.com
 badge.buildkite.com
 doppler-config.cbsivideo.com
-cdn.ceres9350.com
 js.chargebee.com
 js1.chargebee.com
 assets.coingecko.com
