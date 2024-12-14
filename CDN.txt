@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-13T16:59:12.097Z
-# Size: 2778
+# Last Updated: 2024-12-14T14:43:28.629Z
+# Size: 2780
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2109,6 +2109,7 @@ cdn.dynamicyield.com
 st-eu.dynamicyield.com
 cdn-eu.dynamicyield.com
 static.filestackapi.com
+m3u8.girigirilove.com
 cdn.hongkongcard.com
 cdn1.identitymind.com
 spcdn.incartupsell.com
@@ -2522,6 +2523,7 @@ playgroundcdn.typescriptlang.org
 i.creativecommons.org
 rawmarkdown.cloudflareaccess.org
 assets.gcore.pro
+play.xfvod.pro
 pics.x-n-x-x.pro
 img.foresightnews.pro
 cms-assets.webediamovies.pro
@@ -2787,7 +2789,7 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-12-09T10:19:27.947Z
+# Last Updated: 2024-12-14T13:26:49.194Z
 # Size: 628
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
