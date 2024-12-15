@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-14T14:43:28.629Z
-# Size: 2780
+# Last Updated: 2024-12-15T16:58:17.643Z
+# Size: 2815
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -14,6 +14,7 @@ vetted.ai
 .pztv.ca
 .1passwordusercontent.ca
 .ungh.cc
+.bigcdn.cc
 .imgimg.cc
 pengtu.cc
 .postimg.cc
@@ -243,6 +244,7 @@ app-spm.com
 .oktacdn.com
 p-smith.com
 .phprcdn.com
+.pxlecdn.com
 .ravenjs.com
 .snzypic.com
 .sqspcdn.com
@@ -609,6 +611,7 @@ vuejs.org
 .rawgit.org
 .f-droid.org
 .lsposed.org
+pytorch.org
 .reactjs.org
 .typedoc.org
 .ziglang.org
@@ -620,6 +623,7 @@ open-vsx.org
 .packagist.org
 .ampproject.org
 .bytebucket.org
+.torproject.org
 .getcomposer.org
 .schemastore.org
 simpleicons.org
@@ -683,6 +687,7 @@ vanilla-extract.style
 .mangadex.network
 .addons.business
 .replicate.delivery
+cdn6.edgedatg
 .static.microsoft
 bot.ivy.ai
 .cdn.s7s.ai
@@ -1088,6 +1093,7 @@ static-sv.fc2.com
 live-storage.fc2.com
 contents-thumbnail2.fc2.com
 static-media.fox.com
+m3.gab.com
 certona.gap.com
 sm.ign.com
 ovp.itv.com
@@ -1113,6 +1119,7 @@ zephr-templates.cnbc.com
 sf-coze-web-cdn.coze.com
 images.dmca.com
 assets.habr.com
+cdn.hk01.com
 assets.kagi.com
 info.knak.com
 cdn.kobo.com
@@ -1133,6 +1140,7 @@ static.v2ex.com
 video-images.vice.com
 vice-web-statics-cdn.vice.com
 tn.vjav.com
+cdnstatic.w1mp.com
 web-assets.waze.com
 livemap-tiles1.waze.com
 assets-www.xbox.com
@@ -1145,6 +1153,7 @@ previews.123rf.com
 assets-cdn.123rf.com
 static-cdn.123rf.com
 e3.365dm.com
+img.3movs.com
 wwwimages2.adobe.com
 pba.apple.com
 apple-relay.apple.com
@@ -1218,6 +1227,7 @@ static.javhd.com
 creator-image.javhd.com
 null.jsbin.com
 static.jsbin.com
+js.klarn.com
 wandi-6402.kxcdn.com
 searchanise-ef84.kxcdn.com
 wikiwandv2-19431.kxcdn.com
@@ -1226,6 +1236,7 @@ static.licdn.com
 static-exp1.licdn.com
 static-exp2.licdn.com
 static-exp3.licdn.com
+cdn.lihkg.com
 assets.monei.com
 cdn.music.com
 static.music.com
@@ -1256,6 +1267,7 @@ media1.tenor.com
 player.vimeo.com
 assets.vogue.com
 assets.volvo.com
+cdnstatic.w4nkr.com
 scripts.webeo.com
 content.wepik.com
 images.wikia.com
@@ -1295,6 +1307,7 @@ videos2.edclub.com
 s3.envato.com
 assets.fastly.com
 s1.feedly.com
+.static.flickr.com
 .ipfs.fooock.com
 imageio.forbes.com
 thumbor.forbes.com
@@ -1363,6 +1376,7 @@ pics.paypal.com
 pcdn-my.pcloud.com
 pcdn-www.pcloud.com
 images.pexels.com
+assets.pixlee.com
 static.probit.com
 static-landing.probit.com
 .cdn.pubnub.com
@@ -1403,6 +1417,7 @@ cdn2.ttloli.com
 .assets.tumblr.com
 static.tumblr.com
 .cdn.turner.com
+widgets.turnto.com
 .assets.ubuntu.com
 .devrum.uptime.com
 img.utdstc.com
@@ -1458,6 +1473,7 @@ global.divhunt.com
 static.doujins.com
 cdn.embedly.com
 static-ca-cdn.eporner.com
+static-sg-cdn.eporner.com
 detectportal.firefox.com
 assets.flodesk.com
 usercontent.flodesk.com
@@ -1572,6 +1588,10 @@ mparticle.weather.com
 screenshots.webflow.com
 .uploads-ssl.webflow.com
 static.workday.com
+i.xgroovy.com
+cdn.xgroovy.com
+static.xgroovy.com
+preview.xgroovy.com
 cdne-pics.youjizz.com
 img.youtube.com
 web-assets.zendesk.com
@@ -1625,6 +1645,11 @@ cacerts.digicert.com
 cdn-node.diskpart.com
 cdn.dnsimple.com
 cdn.dribbble.com
+cdn1.edgedatg.com
+cdn2.edgedatg.com
+cdn3.edgedatg.com
+cdn4.edgedatg.com
+cdn5.edgedatg.com
 aff.equalweb.com
 cdn.equalweb.com
 assets.euractiv.com
@@ -1738,6 +1763,8 @@ crl.verisign.com
 cdn.wccftech.com
 bundler.wix-code.com
 images-eds-ssl.xboxlive.com
+i.xxxshake.com
+static.xxxshake.com
 ws-assets.zoominfo.com
 c.1password.com
 i.1password.com
@@ -1810,6 +1837,7 @@ s3.picacomic.com
 img.picacomic.com
 storage-b.picacomic.com
 .assets.pinterest.com
+cdnstatic.porno-cum.com
 js.qualified.com
 jfe-cdn.qualtrics.com
 .siteintercept.qualtrics.com
@@ -2167,6 +2195,7 @@ cdn.stellarhosted.com
 .bundle.thimatic-apps.com
 js.verygoodvault.com
 explorer-api.walletconnect.com
+assets-cdn.watchdisneyfe.com
 cdn.windowsreport.com
 prod.addictinggames.com
 cdn.answeroverflow.com
@@ -2474,6 +2503,7 @@ telemetry.nextjs.org
 assets.repair.org
 updates.signal.org
 updates2.signal.org
+image.ap-mail.org
 web-static.archive.org
 pcz.javidol.org
 cdn.mathjax.org
@@ -2578,6 +2608,8 @@ res2.weblium.site
 pkg-cdn.jetbrains.team
 packages.jetbrains.team
 ipfs.d.tube
+js.txxx.tube
+tn.txxx.tube
 .ipfs.litnet.work
 img.itch.zone
 cdn.bigcloud.click
@@ -2641,7 +2673,9 @@ secure.fanboy.co.nz
 static.zaobao.com.sg
 imgcdn.cna.com.tw
 j.udn.com.tw
+p.udn.com.tw
 s.udn.com.tw
+pgw.udn.com.tw
 static.cnbeta.com.tw
 event.ithome.com.tw
 i2.bahamut.com.tw
@@ -2706,6 +2740,7 @@ widgets.media.weather.com
 widgets-red.media.weather.com
 static.community.workday.com
 image.p-c2-x.abema-tv.com
+.dtci-pe-vp-image-resizer.platform.edgedatg.com
 .widget.cluster.groovehq.com
 .cdn.survey.medallia.com
 cdn.accounts.nintendo.com
@@ -2789,7 +2824,7 @@ cdn.rex.contents.rakuten.co.jp
 jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-12-14T13:26:49.194Z
+# Last Updated: 2024-12-15T16:58:17.643Z
 # Size: 628
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -2807,7 +2842,7 @@ packagecloud.io
 iterm2.com
 .1fichier.com
 .fuwamofu.com
-pixeldrain.com
+.pixeldrain.com
 .epicgamescdn.com
 .steamcontent.com
 .vultrobjects.com
