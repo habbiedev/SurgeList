@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-16T09:24:17.635Z
-# Size: 2821
+# Last Updated: 2024-12-17T16:25:53.997Z
+# Size: 2827
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1250,6 +1250,8 @@ registry.npmjs.com
 replicate.npmjs.com
 static-production.npmjs.com
 static.oomol.com
+registry.oomol.com
+package-assets.oomol.com
 i.pcmag.com
 cdn.plaid.com
 cdn1.plesk.com
@@ -1387,6 +1389,7 @@ js.pusher.com
 .bugly.qcloud.com
 sdk.qikify.com
 embed.reddit.com
+cdn.redhat.com
 cloud.redhat.com
 static.redhat.com
 .app.render.com
@@ -1846,6 +1849,7 @@ jfe-cdn.qualtrics.com
 .siteintercept.qualtrics.com
 img.represent.com
 img.riskified.com
+cdn.royaleapi.com
 media-cldnry.s-nbcnews.com
 assets.scaleflex.com
 sigma9.scpwikicn.com
@@ -2777,6 +2781,8 @@ s3.eu-central-003.backblazeb2.com
 images.store.crowdstrike.com
 img1.ak.crunchyroll.com
 sts.online.visualstudio.com
+telemetry.business.githubcopilot.com
+telemetry.individual.githubcopilot.com
 image.email.microsoftemail.com
 static.na1.visioncritical.com
 static.global.visioncritical.com
