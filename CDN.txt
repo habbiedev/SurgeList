@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-18T08:22:34.446Z
-# Size: 2829
+# Last Updated: 2024-12-19T13:03:49.642Z
+# Size: 2849
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -20,6 +20,7 @@ pengtu.cc
 .postimg.cc
 .imagehub.cc
 .pravatar.cc
+.szjal.cn
 .ipns.co
 .pcdn.co
 .v2ex.co
@@ -169,6 +170,7 @@ mui.com
 .cwwcdn.com
 .dilcdn.com
 .ezocdn.com
+.fsvod1.com
 .glbimg.com
 .hembed.com
 .iggcdn.com
@@ -204,6 +206,7 @@ kdata1.com
 .tiqcdn.com
 .tkcdns.com
 .tmsimg.com
+.v82u1l.com
 .vx-cdn.com
 .winudf.com
 .amaicdn.com
@@ -226,6 +229,7 @@ app-spm.com
 .els-cdn.com
 .espncdn.com
 .exp-tas.com
+.ffzy888.com
 .fivetiu.com
 .flagcdn.com
 .gentcdn.com
@@ -289,6 +293,7 @@ quriobot.com
 .radix-ui.com
 redircdn.com
 .roseimgs.com
+.rrcdnbf3.com
 .smushcdn.com
 .stapecdn.com
 .streamhk.com
@@ -298,6 +303,7 @@ redircdn.com
 .tpdfiles.com
 .ucarecdn.com
 .vimeocdn.com
+.whweitao.com
 .xnxx-cdn.com
 .zdassets.com
 .abcnewsfe.com
@@ -308,6 +314,7 @@ redircdn.com
 .awsstatic.com
 .bitgetimg.com
 .bnbstatic.com
+.ceres9350.com
 .cnbetacdn.com
 .disquscdn.com
 .doppiocdn.com
@@ -319,6 +326,7 @@ redircdn.com
 .fncstatic.com
 .forbesimg.com
 .framercdn.com
+.hdzyk-cdn.com
 .ibytedtos.com
 .imostatic.com
 .itvstatic.com
@@ -337,6 +345,7 @@ redircdn.com
 thumbsnap.com
 .tiktokcdn.com
 .tnastatic.com
+.tokyvideo.com
 .ttwstatic.com
 .ut-assets.com
 .wixstatic.com
@@ -451,6 +460,8 @@ yummlystatic.com
 .transcend-cdn.com
 .walmartimages.com
 .website-files.com
+.wolongcdnm3u8.com
+.wolongzywcdn3.com
 .zdusercontent.com
 .zohowebstatic.com
 .alonestreaming.com
@@ -565,6 +576,7 @@ minotar.net
 .doppiocdn.net
 .flagpedia.net
 .futurecdn.net
+.image8899.net
 .intuitcdn.net
 .klarnacdn.net
 .line-scdn.net
@@ -640,6 +652,7 @@ akidoo.top
 .gitcdn.top
 .timg135.top
 .filecunhua.top
+.yle888.vip
 .imglink.win
 .chcdn.xyz
 .gitcdn.xyz
@@ -658,8 +671,10 @@ phishing.army
 .nel.goog
 .usercontent.goog
 .assets-servd.host
+.myvideos.info
 .deno.land
 .nest.land
+.vplay.life
 .w3s.link
 .dweb.link
 .gitcdn.link
@@ -687,7 +702,6 @@ vanilla-extract.style
 .mangadex.network
 .addons.business
 .replicate.delivery
-cdn6.edgedatg
 .static.microsoft
 bot.ivy.ai
 .cdn.s7s.ai
@@ -1172,7 +1186,6 @@ privacy.axios.com
 .applicationinsights.azure.com
 public-cdn.bblmw.com
 images.bfmtv.com
-tags.bkrtx.com
 assets.bnidx.com
 safebrowsing.brave.com
 assets.brevo.com
@@ -1300,6 +1313,7 @@ signal.cdnbye.com
 opensignal.cdnbye.com
 signalcloud.cdnbye.com
 sf-flow-web-cdn.ciciai.com
+.hey10.cjkypo.com
 image.cnbcfm.com
 static-redesign.cnbcfm.com
 static.crypto.com
@@ -1337,6 +1351,7 @@ bst.icons8.com
 img.icons8.com
 .cdn.ifixit.com
 i.iheart.com
+.cdn.iz8qkg.com
 cdn.jitbit.com
 code.jquery.com
 .app.khoros.com
@@ -1546,6 +1561,7 @@ static.moonpay.com
 iframe.nbcnews.com
 nodeassets.nbcnews.com
 assets.nflxext.com
+lc.nssurge.com
 static.olelive.com
 assets.ontrack.com
 cdn.parsely.com
@@ -1657,6 +1673,7 @@ cdn2.edgedatg.com
 cdn3.edgedatg.com
 cdn4.edgedatg.com
 cdn5.edgedatg.com
+cdn6.edgedatg.com
 aff.equalweb.com
 cdn.equalweb.com
 assets.euractiv.com
@@ -1813,6 +1830,7 @@ assets.grammarly.com
 static.grammarly.com
 static-web.grammarly.com
 denali-static.grammarly.com
+.img.haiwaikan.com
 static.helpjuice.com
 i.hentaifox.com
 i2.hentaifox.com
@@ -2318,6 +2336,7 @@ s.wsj.net
 vir.wsj.net
 sts3.wsj.net
 images.wsj.net
+.mapi.4kvm.net
 .mm.bing.net
 .ipfs.mttk.net
 static.osdn.net
@@ -2571,6 +2590,7 @@ badbits.dwebops.pub
 content.any.run
 pic.libilibi.top
 dynamic-assets.mobilius.top
+static-cdn.bytegiftia.top
 media.orz.uno
 assets.orz.uno
 www.10086.win
