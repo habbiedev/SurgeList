@@ -6,6 +6,7 @@
 .bard.google.com
 .chat.com
 .chatgpt.com
+.chatgpt.livekit.cloud
 .claude.ai
 .clipdrop.co
 .deepmind.com
@@ -212,6 +213,7 @@
 .google.vu
 .google.ws
 .groq.com
+.host.livekit.cloud
 .jasper.ai
 .makersuite.google.com
 .meta.ai
@@ -226,10 +228,12 @@
 .poe.com
 .proactivebackend-pa.googleapis.com
 .sora.com
+.turn.livekit.cloud
 .x.ai
 ai.google.dev
 alkalicore-pa.clients6.google.com
 api.github.com
+browser-intake-datadoghq.com
 cdn.usefathom.com
 gateway.ai.cloudflare.com
 o33249.ingest.sentry.io
