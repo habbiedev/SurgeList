@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-12-31T09:30:41.292Z
-# Size: 2876
+# Last Updated: 2025-01-02T15:43:00.232Z
+# Size: 2889
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -233,6 +233,7 @@ app-spm.com
 .ffzy888.com
 .fivetiu.com
 .flagcdn.com
+.flaglog.com
 .gentcdn.com
 .githack.com
 .hardbin.com
@@ -279,6 +280,7 @@ geoip-js.com
 .ibyteimg.com
 .imagebam.com
 .kirafile.com
+.lbpicpic.com
 .lowescdn.com
 momentjs.com
 .msftncsi.com
@@ -392,6 +394,8 @@ optimizely.com
 .firebaseapp.com
 .fontawesome.com
 .intercomcdn.com
+.jpgjingpinx.com
+.lbpictupian.com
 .localizecdn.com
 .ltwebstatic.com
 .parastorage.com
@@ -451,6 +455,7 @@ yummlystatic.com
 .dropboxstatic.com
 .envato-static.com
 .gadgets360cdn.com
+.gamesgamescdn.com
 .highwinds-cdn.com
 .mcusercontent.com
 .mvnrepository.com
@@ -674,6 +679,7 @@ phishing.army
 .nel.goog
 .usercontent.goog
 .assets-servd.host
+.ddpic.info
 .myvideos.info
 .deno.land
 .nest.land
@@ -1385,6 +1391,7 @@ cdn.missav.com
 .video.missav.com
 static.missav.com
 thumbnail.missav.com
+img.ml0987.com
 launchercontent.mojang.com
 static-main.moovit.com
 img.mresou.com
@@ -1465,6 +1472,7 @@ cdn.weglot.com
 fast.wistia.com
 embed-ssl.wistia.com
 img.xhacgn.com
+rapid-cdn.yottaa.com
 static.zaobao.com
 cdn.zapier.com
 fonts.zapier.com
@@ -2049,6 +2057,7 @@ f002.backblazeb2.com
 f003.backblazeb2.com
 f004.backblazeb2.com
 cloudfront.barilliance.com
+apps.bazaarvoice.com
 t.betterstack.com
 cdnjs.betterstack.com
 blade-public-static.blade-group.com
@@ -2392,6 +2401,7 @@ assets.dwncdn.net
 alt.idgesg.net
 images.idgesg.net
 fiddle.jshell.net
+images.mattel.net
 attachments.office.net
 craftassets.unraid.net
 images1.vinted.net
@@ -2577,6 +2587,7 @@ cdn.travis-ci.org
 upload.wikimedia.org
 creativajs.altervista.org
 cdn.autoketing.org
+cdn.gamemonkey.org
 cdn.libravatar.org
 seccdn.libravatar.org
 assets.mayoclinic.org
@@ -2620,6 +2631,8 @@ api.allorigins.win
 wimg.rule34.xxx
 i.xozilla.xxx
 img.hentaihaven.xxx
+img.ra7.xyz
+vod.jfly.xyz
 cdn-longterm.mee6.xyz
 img.timero.xyz
 img.catwvod.xyz
