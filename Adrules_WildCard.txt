@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 309
+# DOMAIN-WILDCARD: 310
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -303,6 +303,7 @@ DOMAIN-WILDCARD,zaqlovh*.xyz
 DOMAIN-WILDCARD,zazgbqg*.xyz
 DOMAIN-WILDCARD,zazgiyoh*.world
 DOMAIN-WILDCARD,zazgiyoh*.xyz
+DOMAIN-WILDCARD,zbb.bbb.*.pics
 DOMAIN-WILDCARD,zbc6hy*.live
 DOMAIN-WILDCARD,zbc6hye*.xyz
 DOMAIN-WILDCARD,zcchyr*.xyz
