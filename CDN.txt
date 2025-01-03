@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-02T15:43:00.232Z
-# Size: 2889
+# Last Updated: 2025-01-03T09:46:21.144Z
+# Size: 2909
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -507,6 +507,7 @@ navismithapis-cdn.com
 .yammerusercontent.com
 .firefoxusercontent.com
 .misskeyusercontent.com
+.patreonusercontent.com
 .w-corp-staticblitz.com
 .sciencedirectassets.com
 .1passwordusercontent.com
@@ -797,6 +798,7 @@ a.fireside.fm
 assets.fireside.fm
 s.rfi.fr
 assets.poool.fr
+cdn.gdl.gg
 cdn.now.gg
 cms-cdn.now.gg
 cdn.sc.gl
@@ -900,6 +902,8 @@ images.scalero.io
 cdn1.stamped.io
 cdn2.stamped.io
 cdn3.stamped.io
+js.upscope.io
+code.upscope.io
 static.assetlab.io
 cdn.commento.io
 .rum.cronitor.io
@@ -1261,6 +1265,8 @@ creator-image.javhd.com
 null.jsbin.com
 static.jsbin.com
 js.klarn.com
+cdn.ko-fi.com
+storage.ko-fi.com
 wandi-6402.kxcdn.com
 searchanise-ef84.kxcdn.com
 wikiwandv2-19431.kxcdn.com
@@ -1584,6 +1590,18 @@ lc.nssurge.com
 static.olelive.com
 assets.ontrack.com
 cdn.parsely.com
+c1.patreon.com
+c4.patreon.com
+c5.patreon.com
+c6.patreon.com
+c7.patreon.com
+c8.patreon.com
+c10.patreon.com
+c11.patreon.com
+c13.patreon.com
+c14.patreon.com
+c16.patreon.com
+c17.patreon.com
 static.pingcap.com
 cdn.pixabay.com
 www.pngmart.com
@@ -1751,6 +1769,7 @@ api.mixpanel.com
 api-eu.mixpanel.com
 cdn.modrinth.com
 cdn-raw.modrinth.com
+launcher-files.modrinth.com
 .sny.monosnap.com
 static.namebeta.com
 c.navattic.com
@@ -2381,6 +2400,7 @@ s3.arkjp.net
 amp.azure.net
 dh-site.b-cdn.net
 divhunt.b-cdn.net
+jsdelivr.b-cdn.net
 linuxiac.b-cdn.net
 divhunt-site.b-cdn.net
 panel-production-libs.b-cdn.net
@@ -2898,8 +2918,8 @@ jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 cdn.prod.ext.web.purview.azure.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-12-15T16:58:17.643Z
-# Size: 628
+# Last Updated: 2025-01-03T03:22:41.146Z
+# Size: 629
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3120,6 +3140,7 @@ amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
+officecdnmac.microsoft.com
 .software-download.microsoft.com
 mirror.navercorp.com
 desktop.parallels.com
