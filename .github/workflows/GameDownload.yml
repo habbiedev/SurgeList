@@ -17,7 +17,7 @@ jobs:
         run: curl -sL https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Game/GameDownloadCN/GameDownloadCN_No_Resolve.yaml -o GameDownloadCN.conf
 
       - name: Fetch domainset/download.conf
-        run: curl -sL https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/SteamCN/SteamCN.yaml -o SteamCN.conf
+        run: curl -sL https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/SteamCN/SteamCN_No_Resolve.yaml -o SteamCN.conf
 
       - name: Combine Files
         run: cat SteamCN.conf GameDownloadCN > GameDownload.yaml
