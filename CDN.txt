@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-04T12:16:30.601Z
-# Size: 2910
+# Last Updated: 2025-01-05T16:22:51.354Z
+# Size: 2895
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -124,7 +124,6 @@ curl.se
 .pixhost.to
 .easylist.to
 .ninjastream.to
-.99av.tv
 .7mmtv.tv
 .storry.tv
 cloudflare.tv
@@ -191,7 +190,6 @@ kdata1.com
 .phncdn.com
 .pinimg.com
 .pxgcdn.com
-.pzvcdn.com
 .rawgit.com
 .rbxcdn.com
 .rdtcdn.com
@@ -207,7 +205,6 @@ kdata1.com
 .tiqcdn.com
 .tkcdns.com
 .tmsimg.com
-.v82u1l.com
 .vx-cdn.com
 .winudf.com
 .amaicdn.com
@@ -287,7 +284,6 @@ momentjs.com
 .muscache.com
 .myavlive.com
 .nitrocdn.com
-.ominisrc.com
 .onrender.com
 .operacdn.com
 .pastebin.com
@@ -306,7 +302,6 @@ redircdn.com
 .tpdfiles.com
 .ucarecdn.com
 .vimeocdn.com
-.whweitao.com
 .xnxx-cdn.com
 .zdassets.com
 .abcnewsfe.com
@@ -317,7 +312,6 @@ redircdn.com
 .awsstatic.com
 .bitgetimg.com
 .bnbstatic.com
-.ceres9350.com
 .cnbetacdn.com
 .disquscdn.com
 .doppiocdn.com
@@ -369,7 +363,6 @@ thumbsnap.com
 .myshopapps.com
 .netdna-ssl.com
 .nincontent.com
-.nowestatic.com
 optimizely.com
 .patientpop.com
 .placewaifu.com
@@ -511,13 +504,11 @@ navismithapis-cdn.com
 .w-corp-staticblitz.com
 .sciencedirectassets.com
 .1passwordusercontent.com
-.hubspotusercontent30.com
 .ravencoinipfs-gateway.com
 .akamai-content-network.com
 .app-analytics-services.com
 .hackerone-user-content.com
 runkit-packages-static.com
-.akamai-content-delivery.com
 .agechecker-northern-apps.com
 .w-credentialless-staticblitz.com
 runkit-packages-static-executables.com
@@ -557,14 +548,12 @@ pkg-size.dev
 .boxcdn.net
 .cdnppb.net
 .eroimg.net
-.ezocdn.net
 .hbfile.net
 .imgair.net
 .mercdn.net
 .poecdn.net
 .rspcdn.net
 .sftcdn.net
-.abc-cdn.net
 .daumcdn.net
 .jscloud.net
 minotar.net
@@ -661,7 +650,6 @@ akidoo.top
 .gitcdn.top
 .timg135.top
 .filecunhua.top
-.yle888.vip
 .imglink.win
 .chcdn.xyz
 .gitcdn.xyz
@@ -999,7 +987,6 @@ cdn.glitch.me
 cdn.picrew.me
 cf.javfree.me
 api.crashguard.me
-.ipfs.tayfundogdas.me
 s3.acg.mn
 cdn01.jotfor.ms
 cdn02.jotfor.ms
@@ -1013,6 +1000,7 @@ images.weserv.nl
 static.nrk.no
 media.masto.nu
 .ipfs.uploads.nu
+repo.hex.pm
 asset.booth.pm
 files.yande.re
 assets.yande.re
@@ -1336,7 +1324,6 @@ signal.cdnbye.com
 opensignal.cdnbye.com
 signalcloud.cdnbye.com
 sf-flow-web-cdn.ciciai.com
-.hey10.cjkypo.com
 image.cnbcfm.com
 static-redesign.cnbcfm.com
 static.crypto.com
@@ -1374,7 +1361,6 @@ bst.icons8.com
 img.icons8.com
 .cdn.ifixit.com
 i.iheart.com
-.cdn.iz8qkg.com
 cdn.jitbit.com
 code.jquery.com
 .app.khoros.com
@@ -1925,6 +1911,7 @@ static.spankbang.com
 .proxy.startpage.com
 .proxy1.startpage.com
 .proxy2.startpage.com
+.proxy3.startpage.com
 .eu-proxy.startpage.com
 .eu-browse.startpage.com
 .a.storyblok.com
@@ -2044,7 +2031,6 @@ tags.nationwide.com
 media.nationwide.com
 cdn.nerdschalk.com
 learn.optimizely.com
-cms.payloadcms.com
 m-cdn.phonearena.com
 s-cdn.phonearena.com
 cdn.pickystory.com
@@ -2179,7 +2165,6 @@ app.viral-loops.com
 img2.xiangbinjun.com
 images.youracclaim.com
 widgets.zohosalesiq.com
-cdn.9to5terminal.com
 photos5.appleinsider.com
 .ipfs.arching-kaos.com
 img.atlasobscura.com
@@ -2919,8 +2904,8 @@ jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 cdn.prod.ext.web.purview.azure.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-01-03T03:22:41.146Z
-# Size: 629
+# Last Updated: 2025-01-05T09:45:48.276Z
+# Size: 630
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3429,6 +3414,7 @@ cdn.winget.microsoft.com
 download.visualstudio.microsoft.com
 .s3.us-west-002.backblazeb2.com
 update.code.visualstudio.com
+.public.blob.vercel-storage.com
 az764295.vo.msecnd.net
 download-installer.cdn.mozilla.net
 download-core.sys.truenas.net
