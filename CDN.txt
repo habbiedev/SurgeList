@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-06T15:14:58.416Z
-# Size: 2898
+# Last Updated: 2025-01-07T15:31:18.058Z
+# Size: 2911
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -713,6 +713,7 @@ s3.masto.ai
 r2.leadsy.ai
 static.netify.ai
 prod-cdn.webtune.ai
+sdk.customfit.ai
 assets.cloudpilot.ai
 cdn.engagement.ai
 pplx-next-static-public.perplexity.ai
@@ -847,6 +848,7 @@ auth.split.io
 events.split.io
 streaming.split.io
 telemetry.split.io
+netlify.apollo.io
 cdn.branch.io
 packages.httpie.io
 .ipfs.infura.io
@@ -990,6 +992,7 @@ cdn.picrew.me
 cf.javfree.me
 api.crashguard.me
 s3.acg.mn
+cdn.jotfor.ms
 cdn01.jotfor.ms
 cdn02.jotfor.ms
 cdn03.jotfor.ms
@@ -1120,6 +1123,7 @@ m3.gab.com
 certona.gap.com
 sm.ign.com
 ovp.itv.com
+media.kit.com
 ntp.msn.com
 assets.msn.com
 .cfcdn.mux.com
@@ -1428,6 +1432,7 @@ s7d1.scene7.com
 ec-prod.scene7.com
 assets.scroll.com
 static.scroll.com
+static-staging.scroll.com
 vice-prod.sdiapi.com
 cdn.seondf.com
 cdn.setapp.com
@@ -1503,6 +1508,7 @@ image.civitai.com
 player.cnevids.com
 player-frontend.cnevids.com
 cdn.datdota.com
+import-cdn.default.com
 s1.divhunt.com
 global.divhunt.com
 static.doujins.com
@@ -1621,6 +1627,7 @@ static.tp-link.com
 static-community.tp-link.com
 fonts.twitter.com
 platform.twitter.com
+analytics.twitter.com
 use.typekit.com
 static-dm.ubisoft.com
 staticctf.ubisoft.com
@@ -1800,6 +1807,7 @@ cdn.tinypass.com
 flows.trysavvy.com
 bundle.trysavvy.com
 embed.typeform.com
+images.typeform.com
 public-assets.typeform.com
 renderer-assets.typeform.com
 my-json-server.typicode.com
@@ -1836,6 +1844,7 @@ badge.buildkite.com
 doppler-config.cbsivideo.com
 js.chargebee.com
 js1.chargebee.com
+webstatic.chargebee.com
 assets.coingecko.com
 static.coingecko.com
 cdn.configcat.com
@@ -1869,6 +1878,7 @@ static.incapsula.com
 platform.instagram.com
 home.integrate.com
 cdn.jetphotos.com
+cdn.joinhoney.com
 images.macrumors.com
 cdn-images.mailchimp.com
 static.mediafire.com
@@ -1885,6 +1895,7 @@ images.moovitapp.com
 cms-assets.nodecraft.com
 .res.office365.com
 cdn.onesignal.com
+media-cms.onesignal.com
 assets.openshift.com
 cdn.permutive.com
 s3.picacomic.com
@@ -2083,6 +2094,7 @@ static.crunchyroll.com
 img.domaintools.com
 source.domaintools.com
 cdn.dotaoutpost.com
+assets.embeddables.com
 live.fanmingming.com
 apple-relay.fastly-edge.com
 ohttp-relay1.fastly-edge.com
@@ -2136,6 +2148,7 @@ web-toolbar.playstation.com
 rebound.postmarkapp.com
 newsletter.postmarkapp.com
 cdn.pricespider.com
+s3.producthunt.com
 api.producthunt.com
 assets.raspberrypi.com
 c.s-microsoft.com
