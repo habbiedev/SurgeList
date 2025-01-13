@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 310
+# DOMAIN-WILDCARD: 311
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -10,6 +10,7 @@ DOMAIN-WILDCARD,aan.amazon.*
 DOMAIN-WILDCARD,ac*.786ip.com
 DOMAIN-WILDCARD,ac*.faxingchina.com
 DOMAIN-WILDCARD,ac*.pingguolv.com
+DOMAIN-WILDCARD,acr-*-prd.samsungcloud.tv
 DOMAIN-WILDCARD,ad*.ettoday.net
 DOMAIN-WILDCARD,ad*.nexage.com
 DOMAIN-WILDCARD,ad*.on.cc
