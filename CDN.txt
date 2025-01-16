@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-15T12:38:09.634Z
-# Size: 2937
+# Last Updated: 2025-01-16T06:18:16.517Z
+# Size: 2939
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1108,6 +1108,7 @@ media.fs.com
 img-en.fs.com
 resource.fs.com
 front-resource.fs.com
+resource-accel.fs.com
 consent-notice.ft.com
 consent-manager.ft.com
 static.ui.com
@@ -2400,6 +2401,7 @@ pic.skk.moe
 latency-test.skk.moe
 hv-monsterdb-data.skk.moe
 ovo.wxw.moe
+touchgal-image.moyu.moe
 pic.cangku.moe
 static.chaika.moe
 static.bangumi.moe
@@ -2946,7 +2948,7 @@ jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 cdn.prod.ext.web.purview.azure.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-01-05T09:45:48.276Z
+# Last Updated: 2025-01-16T06:18:16.517Z
 # Size: 630
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -3225,7 +3227,7 @@ gamedownloads-rockstargames-com.akamaized.net
 playwright.azureedge.net
 pf-cdn-content-prod.azureedge.net
 ppa.launchpad.net
-dl.discordapp.net
+.dl.discordapp.net
 os-cdn.virtfusion.net
 install.virtfusion.net
 packages.virtfusion.net
