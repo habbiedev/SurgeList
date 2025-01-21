@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 311
+# DOMAIN-WILDCARD: 312
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -97,6 +97,7 @@ DOMAIN-WILDCARD,cdn-adn-*.rayjump.com
 DOMAIN-WILDCARD,ce-global-track-*.amazonaws.com
 DOMAIN-WILDCARD,chat*-ce.chatdealer.jp
 DOMAIN-WILDCARD,cj1*.online
+DOMAIN-WILDCARD,clickstream-*.homedepot.com
 DOMAIN-WILDCARD,clog*.yuanfudao.com
 DOMAIN-WILDCARD,collect-elb-*.amazonaws.com
 DOMAIN-WILDCARD,collect-v*.51.la
