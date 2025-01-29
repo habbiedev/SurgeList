@@ -1,9 +1,8 @@
-# DOMAIN-WILDCARD: 314
+# DOMAIN-WILDCARD: 298
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
 DOMAIN-WILDCARD,*.exaapi.com
-DOMAIN-WILDCARD,*.wap.xsbiquge.com
 DOMAIN-WILDCARD,163487*.qmgmw.com
 DOMAIN-WILDCARD,a*.chajiaotong.com
 DOMAIN-WILDCARD,aan.amazon.*
@@ -26,7 +25,6 @@ DOMAIN-WILDCARD,admob-app-id-*.firebaseio.com
 DOMAIN-WILDCARD,ads*-adnow.com
 DOMAIN-WILDCARD,ads*-normal*.zijieapi.com
 DOMAIN-WILDCARD,ads*-normal-*.zijieapi.com
-DOMAIN-WILDCARD,ads*-normal-hl.zijieapi.com
 DOMAIN-WILDCARD,ads*-normal-lq.zijieapi.com
 DOMAIN-WILDCARD,ads*.bojijulebu.com
 DOMAIN-WILDCARD,ads*.depositfiles.com
@@ -65,15 +63,12 @@ DOMAIN-WILDCARD,analytics-ad-*.kgslb.com
 DOMAIN-WILDCARD,analytics-rollout-*.amazonaws.com
 DOMAIN-WILDCARD,analytics.*.sky.com
 DOMAIN-WILDCARD,analyzer*.fc2.com
-DOMAIN-WILDCARD,ap*.jj20.com
-DOMAIN-WILDCARD,ap*.pl520.com
 DOMAIN-WILDCARD,api*.amplitude.com
 DOMAIN-WILDCARD,api*.batmobi.net
 DOMAIN-WILDCARD,api*.batmobil.net
 DOMAIN-WILDCARD,api*.bidmachine.io
 DOMAIN-WILDCARD,api-*.bidmachine.io
 DOMAIN-WILDCARD,api-*.hismarttv.com
-DOMAIN-WILDCARD,api.*.hismarttv.com
 DOMAIN-WILDCARD,app-analytics-*.snapchat.com
 DOMAIN-WILDCARD,appanalysis*.banggood.com
 DOMAIN-WILDCARD,apple-*.le.com
@@ -88,7 +83,6 @@ DOMAIN-WILDCARD,batchlogging*-noneu.truecaller.com
 DOMAIN-WILDCARD,bdlm*.hc360.com
 DOMAIN-WILDCARD,beacons*.gvt3.com
 DOMAIN-WILDCARD,bi-eventtracker-*.amazonaws.com
-DOMAIN-WILDCARD,bj*.9669.cn
 DOMAIN-WILDCARD,bjkedv*.xyz
 DOMAIN-WILDCARD,browser-intake-*-datadoghq.com
 DOMAIN-WILDCARD,c*hit.zerkalo.io
@@ -111,7 +105,6 @@ DOMAIN-WILDCARD,counter*.stat.ovh
 DOMAIN-WILDCARD,creative*.bidease.com
 DOMAIN-WILDCARD,cs*.mp3bars.com
 DOMAIN-WILDCARD,d*.ruiwen.com
-DOMAIN-WILDCARD,d*.wanzhuang.com
 DOMAIN-WILDCARD,d*.xinshipu.com
 DOMAIN-WILDCARD,datacollect*.abtasty.com
 DOMAIN-WILDCARD,datacollector-*.dt.dbankcloud.cn
@@ -121,7 +114,6 @@ DOMAIN-WILDCARD,device-metrics-us*.amazon.com
 DOMAIN-WILDCARD,display-ad-*.kgslb.com
 DOMAIN-WILDCARD,dj1*.online
 DOMAIN-WILDCARD,dm*.yxlady.com
-DOMAIN-WILDCARD,dm-*.toutiao.com
 DOMAIN-WILDCARD,dn*.ixinwei.com
 DOMAIN-WILDCARD,ej1*.online
 DOMAIN-WILDCARD,eum*.instana.io
@@ -134,7 +126,6 @@ DOMAIN-WILDCARD,fads*z.com
 DOMAIN-WILDCARD,fanpingbi*.gaokao.com
 DOMAIN-WILDCARD,faro-collector-prod-*.grafana.net
 DOMAIN-WILDCARD,firebaselogging-*.googleapis.com
-DOMAIN-WILDCARD,fls-*.amazon.com
 DOMAIN-WILDCARD,flurry.agentportal-*.yahoodns.net
 DOMAIN-WILDCARD,flurry.agentportal.*.yahoodns.net
 DOMAIN-WILDCARD,fp-*it*.fengkongcloud.com
@@ -147,11 +138,9 @@ DOMAIN-WILDCARD,geoloc*.geo20120530.com
 DOMAIN-WILDCARD,geoloc*.geostats.ovh
 DOMAIN-WILDCARD,geoloc*.geovisite.ovh
 DOMAIN-WILDCARD,geotargetly-api-*.com
-DOMAIN-WILDCARD,gg*.miguvideo.com
 DOMAIN-WILDCARD,gscounters.*.gigya.com
 DOMAIN-WILDCARD,gtlpa*.com
 DOMAIN-WILDCARD,hads*s.com
-DOMAIN-WILDCARD,hbbtv.*.de
 DOMAIN-WILDCARD,hn-ping*.hashnode.com
 DOMAIN-WILDCARD,host*.carl-ras.dk
 DOMAIN-WILDCARD,host*.ncoi.nl
@@ -224,7 +213,6 @@ DOMAIN-WILDCARD,p26.gejulm*.com
 DOMAIN-WILDCARD,pangolin-sdk-toutiao*.com
 DOMAIN-WILDCARD,pijama.*.elasticbeanstalk.com
 DOMAIN-WILDCARD,ping*.qq.com
-DOMAIN-WILDCARD,ping.*.sogou.com
 DOMAIN-WILDCARD,piwik.*.com.vn
 DOMAIN-WILDCARD,piwik.*.vn
 DOMAIN-WILDCARD,pixel*.production-public.tubi.io
@@ -254,8 +242,6 @@ DOMAIN-WILDCARD,sads*z.com
 DOMAIN-WILDCARD,sam*.baby-kingdom.com
 DOMAIN-WILDCARD,same*.stockstar.com
 DOMAIN-WILDCARD,sd.yhzzzs*.com
-DOMAIN-WILDCARD,sell*.etlong.com
-DOMAIN-WILDCARD,sense-*.tapdb.net
 DOMAIN-WILDCARD,sensorsdata*.read.duokan.com
 DOMAIN-WILDCARD,servo-report.keepstreams.*
 DOMAIN-WILDCARD,sock*-goguardian.pusher.com
@@ -275,9 +261,7 @@ DOMAIN-WILDCARD,telemetry*.transcend.io
 DOMAIN-WILDCARD,thezbpe5*.xyz
 DOMAIN-WILDCARD,tnc*.zijieapi.com
 DOMAIN-WILDCARD,tnc16-*.byteoversea.com
-DOMAIN-WILDCARD,toujing*.top
 DOMAIN-WILDCARD,track.*.roku.com
-DOMAIN-WILDCARD,tracker*.qcloud.com
 DOMAIN-WILDCARD,tracking*.euroads.fi
 DOMAIN-WILDCARD,tracking-*.trnox.com
 DOMAIN-WILDCARD,tracking-v*.a.run.app
