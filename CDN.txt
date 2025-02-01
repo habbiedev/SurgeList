@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-01-31T10:40:55.239Z
-# Size: 3070
+# Last Updated: 2025-02-01T11:37:56.845Z
+# Size: 3083
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -433,6 +433,7 @@ optimizely.com
 .substackcdn.com
 .swiftypecdn.com
 .thirdwebcdn.com
+.tindiemedia.com
 .uber-assets.com
 .uploadhouse.com
 .webpkgcache.com
@@ -516,6 +517,7 @@ searchserverapi.com
 .cloudflarestream.com
 .googleadservices.com
 .steamusercontent.com
+.superfiliate-cdn.com
 .chargebeestaticv2.com
 .claudeusercontent.com
 conversiongorilla.com
@@ -762,9 +764,11 @@ participants.evolv.ai
 s3.masto.ai
 r2.leadsy.ai
 static.netify.ai
+cdn.aimerce.ai
 widget.docsbot.ai
 prod-cdn.webtune.ai
 sdk.customfit.ai
+api.instantly.ai
 assets.cloudpilot.ai
 cdn.engagement.ai
 pplx-next-static-public.perplexity.ai
@@ -1141,12 +1145,15 @@ static.linear.app
 uploads.linear.app
 webassets.linear.app
 pic.macked.app
+bundle.dyn-rev.app
 videos.elephas.app
 cdn.langshop.app
 weather.istatmenus.app
 cdn.matterhorn.app
 cdn.announcekit.app
 img.announcekit.app
+do.featurebase.app
+cdn.giftcardpro.app
 .ipfs.kaleido.art
 .public.ecr.aws
 pics.mf8.biz
@@ -1264,6 +1271,7 @@ static.axios.com
 privacy.axios.com
 .monitor.azure.com
 .applicationinsights.azure.com
+makerworld.bblmw.com
 public-cdn.bblmw.com
 images.bfmtv.com
 assets.bnidx.com
@@ -1954,6 +1962,8 @@ mosaic.fxtwitter.com
 mosaic-blender.fxtwitter.com
 i.geekflare.com
 .assets.getpocket.com
+play.gotolstoy.com
+widget.gotolstoy.com
 assets.grammarly.com
 static.grammarly.com
 static-web.grammarly.com
@@ -2157,6 +2167,7 @@ learn.optimizely.com
 m-cdn.phonearena.com
 s-cdn.phonearena.com
 cdn.pickystory.com
+media.printables.com
 apps.profitihub.com
 .ipfs.runfission.com
 cdn.safecharge.com
@@ -2347,6 +2358,7 @@ cdn-eu.dynamicyield.com
 cdn.fastcomments.com
 static.filestackapi.com
 m3u8.girigirilove.com
+rest.happierleads.com
 cdn.hongkongcard.com
 cdn1.identitymind.com
 spcdn.incartupsell.com
@@ -2938,6 +2950,7 @@ uploads.guim.co.uk
 interactive.guim.co.uk
 assets.vodafone.co.uk
 i.dailymail.co.uk
+video.dailymail.co.uk
 scripts.dailymail.co.uk
 static.fasthosts.co.uk
 secure.telegraph.co.uk
