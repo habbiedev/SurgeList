@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 298
+# DOMAIN-WILDCARD: 297
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -197,7 +197,6 @@ DOMAIN-WILDCARD,metric*.rediff.com
 DOMAIN-WILDCARD,mistat.*.xiaomi.com
 DOMAIN-WILDCARD,mob*.novanewsapp.com
 DOMAIN-WILDCARD,mobileanalytics.*.amazonaws.com
-DOMAIN-WILDCARD,mobileoffers-*-download.com
 DOMAIN-WILDCARD,mon*-*.tiktokv.us
 DOMAIN-WILDCARD,mon*-misc-lf.fqnovel.com
 DOMAIN-WILDCARD,mon*-platform-*.tiktokv.com
@@ -213,7 +212,6 @@ DOMAIN-WILDCARD,p26.gejulm*.com
 DOMAIN-WILDCARD,pangolin-sdk-toutiao*.com
 DOMAIN-WILDCARD,pijama.*.elasticbeanstalk.com
 DOMAIN-WILDCARD,ping*.qq.com
-DOMAIN-WILDCARD,piwik.*.com.vn
 DOMAIN-WILDCARD,piwik.*.vn
 DOMAIN-WILDCARD,pixel*.production-public.tubi.io
 DOMAIN-WILDCARD,pixel-*.convertagain.net
@@ -222,6 +220,8 @@ DOMAIN-WILDCARD,pixelapi-*.cs.mysamba.tv
 DOMAIN-WILDCARD,player-feedback*.glomex.*
 DOMAIN-WILDCARD,polaris*-normal-*.zijieapi.com
 DOMAIN-WILDCARD,prebid-*.rubiconproject.com
+DOMAIN-WILDCARD,prod.*.analytics.console.aws.a2z.com
+DOMAIN-WILDCARD,prod.*.publishers.advertising.a2z.com
 DOMAIN-WILDCARD,production-adserver-*.amazonaws.com
 DOMAIN-WILDCARD,promo-*.vercel.app
 DOMAIN-WILDCARD,px*.mediahills.ru
@@ -238,7 +238,6 @@ DOMAIN-WILDCARD,rtlog*.tiktokv.us
 DOMAIN-WILDCARD,rum*.a.trbcdn.net
 DOMAIN-WILDCARD,rum*.cdnvideo.ru
 DOMAIN-WILDCARD,s*.skencituer.com
-DOMAIN-WILDCARD,sads*z.com
 DOMAIN-WILDCARD,sam*.baby-kingdom.com
 DOMAIN-WILDCARD,same*.stockstar.com
 DOMAIN-WILDCARD,sd.yhzzzs*.com
