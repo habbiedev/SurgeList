@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 297
+# DOMAIN-WILDCARD: 305
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -191,6 +191,9 @@ DOMAIN-WILDCARD,marketplace-*.hyprmx.com
 DOMAIN-WILDCARD,matomo.*.vn
 DOMAIN-WILDCARD,mautic.*.vn
 DOMAIN-WILDCARD,mcdp-*.outbrain.com
+DOMAIN-WILDCARD,mcs-*.lemon8-app.com
+DOMAIN-WILDCARD,mcs-*.lemon8-app.us
+DOMAIN-WILDCARD,mcs-*.tiktok.com
 DOMAIN-WILDCARD,mcs-va-*.tiktokv.com
 DOMAIN-WILDCARD,mediate-ios-*.hyprmx.com
 DOMAIN-WILDCARD,metric*.rediff.com
@@ -200,10 +203,15 @@ DOMAIN-WILDCARD,mobileanalytics.*.amazonaws.com
 DOMAIN-WILDCARD,mon*-*.tiktokv.us
 DOMAIN-WILDCARD,mon*-misc-lf.fqnovel.com
 DOMAIN-WILDCARD,mon*-platform-*.tiktokv.com
+DOMAIN-WILDCARD,mon-*.lemon8-app.com
+DOMAIN-WILDCARD,mon-*.lemon8-app.us
 DOMAIN-WILDCARD,mon-*.tiktokv.com
 DOMAIN-WILDCARD,ms*.applvn.com
+DOMAIN-WILDCARD,mssdk*.tiktok.com
+DOMAIN-WILDCARD,mssdk*.tiktokv.eu
+DOMAIN-WILDCARD,mssdk*.tiktokv.us
+DOMAIN-WILDCARD,mssdk*.tiktokw.us
 DOMAIN-WILDCARD,mssdk*.zijieapi.com
-DOMAIN-WILDCARD,mssdk-*.tiktokw.us
 DOMAIN-WILDCARD,n*adserv.com
 DOMAIN-WILDCARD,n*adserv.xyz
 DOMAIN-WILDCARD,opnked*.xyz
