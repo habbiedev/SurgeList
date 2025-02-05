@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-04T08:12:23.245Z
-# Size: 3084
+# Last Updated: 2025-02-05T13:47:32.789Z
+# Size: 3096
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -93,6 +93,7 @@ typescript-eslint.io
 .redd.it
 .unsplash.it
 .place-hold.it
+.yimg.jp
 .placehold.jp
 .misskeyusercontent.jp
 icons.ly
@@ -771,6 +772,7 @@ sdk.customfit.ai
 api.instantly.ai
 assets.cloudpilot.ai
 cdn.engagement.ai
+r2cdn.perplexity.ai
 pplx-next-static-public.perplexity.ai
 i.snap.as
 .ipfs.greyh.at
@@ -1026,6 +1028,7 @@ livedoor.blogimg.jp
 resize.blogsys.jp
 cdn.wikiwiki.jp
 media.yukimochi.jp
+.edge.storage-yahoo.jp
 .ipfs.lain.la
 pomf2.lain.la
 atn.hitomi.la
@@ -1122,6 +1125,7 @@ images.pluto.tv
 assets.twitch.tv
 clips-media-assets2.twitch.tv
 cdn.vidible.tv
+cw-image-resizer.cwg.tw
 megapx-assets.dcard.tw
 cf.shopee.tw
 app.moegirl.tw
@@ -1347,6 +1351,7 @@ assets.monei.com
 cdn.music.com
 static.music.com
 fesdk.nexon.com
+connect.nosto.com
 skimdb.npmjs.com
 static.npmjs.com
 registry.npmjs.com
@@ -1576,6 +1581,7 @@ img.apponic.com
 cdn6.aptoide.com
 ws2-cache.aptoide.com
 cdn-mobile.aptoide.com
+chat-content.beanfun.com
 media.beehiiv.com
 promotions.betfair.com
 api.bintray.com
@@ -1673,6 +1679,7 @@ static.moonpay.com
 iframe.nbcnews.com
 nodeassets.nbcnews.com
 assets.nflxext.com
+media.nownews.com
 lc.nssurge.com
 static.olelive.com
 assets.ontrack.com
@@ -1955,6 +1962,7 @@ cdn1.epicgames.com
 cdn2.epicgames.com
 media-cdn.epicgames.com
 static-assets-prod.epicgames.com
+static.filehorse.com
 snippets.freshchat.com
 cdn.freshdesk.com
 webp.frostming.com
@@ -2083,6 +2091,7 @@ apple-relay.cloudflare.com
 .csp-reporting.cloudflare.com
 .privacy-gateway.cloudflare.com
 res.cloudinary.com
+pplx-res.cloudinary.com
 fiverr-res.cloudinary.com
 cloudinary-res.cloudinary.com
 static-assets.codecademy.com
@@ -2431,6 +2440,7 @@ resources.esportsinsider.com
 cdn-live.foreignaffairs.com
 static-gcp.freepikcompany.com
 code.ionicframework.com
+content.kaspersky-labs.com
 static.killedbygoogle.com
 na-library.klarnaservices.com
 assets.media-platform.com
@@ -2693,8 +2703,10 @@ static.underhentai.net
 images.wsjcommerce.net
 .storage.yandexcloud.net
 .coral.coralproject.net
+.f.hubspotemail.net
 blacklist.tampermonkey.net
 d4.alternativeto.net
+oct8neproxy.azurewebsites.net
 assets.mediadelivery.net
 cdn.consentmanager.net
 vscode-sync.trafficmanager.net
@@ -3093,8 +3105,8 @@ jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 cdn.prod.ext.web.purview.azure.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-01-17T12:44:34.366Z
-# Size: 630
+# Last Updated: 2025-02-05T02:21:42.878Z
+# Size: 631
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3331,6 +3343,7 @@ dl.cleverfiles.com
 .egdownload.fastly-edge.com
 update.kiwibrowser.com
 downloads.raspberrypi.com
+downloads.lemonsqueezy.com
 .content.steampowered.com
 content-origin.steampowered.com
 updates-cdn.bravesoftware.com
