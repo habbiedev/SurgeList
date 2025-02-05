@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 305
+# DOMAIN-WILDCARD: 306
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -273,6 +273,7 @@ DOMAIN-WILDCARD,tracking*.euroads.fi
 DOMAIN-WILDCARD,tracking-*.trnox.com
 DOMAIN-WILDCARD,tracking-v*.a.run.app
 DOMAIN-WILDCARD,tracking.*.miui.com
+DOMAIN-WILDCARD,trck.*.prod-na.turntable.sonic.advertising.amazon.dev
 DOMAIN-WILDCARD,trk*.vidible.tv
 DOMAIN-WILDCARD,tupian888.*.bcebos.com
 DOMAIN-WILDCARD,tw*.netcore.co.in
