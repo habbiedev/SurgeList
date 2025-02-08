@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-06T14:31:12.288Z
-# Size: 3097
+# Last Updated: 2025-02-08T07:02:59.128Z
+# Size: 3102
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -391,6 +391,7 @@ torrindex.net
 images.tokopedia.net
 assets.tokopedia.net
 cdn.softswiss.net
+.smmallcdn.net
 assets.openshift.net
 cdn-bundler.nice-team.net
 bundler.nice-team.net
@@ -694,6 +695,7 @@ loader.mantis-intelligence.com
 screenshots.downloadtorrentfile.com
 cdn.cms-twdigitalassets.com
 .w-corp-staticblitz.com
+.simpleflyingimages.com
 .patreonusercontent.com
 .misskeyusercontent.com
 .firefoxusercontent.com
@@ -758,6 +760,7 @@ imgssl.constantcontact.com
 .cloudflare-ipfs.com
 shopify.cleverecommerce.com
 .yourimageshare.com
+.xm-apps-static.com
 talk.washingtonpost.com
 img.washingtonpost.com
 .warnermediacdn.com
@@ -825,6 +828,7 @@ cdn.prowritingaid.com
 .oreillystatic.com
 .notion-static.com
 .agechecker.northern-apps.com
+static.newmobilelife.com
 assets.nationbuilder.com
 3dna.nationbuilder.com
 .mvnrepository.com
@@ -2249,6 +2253,7 @@ media1.tenor.com
 media.tenor.com
 assets.stash.com
 cdn.stash.com
+.srcdn.com
 cdn.sprig.com
 files.slack.com
 .sb-cd.com
@@ -3106,8 +3111,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-02-06T14:31:12.288Z
-# Size: 631
+# Last Updated: 2025-02-08T07:02:59.128Z
+# Size: 632
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3165,6 +3170,7 @@ security.debian.org
 .ftp.debian.org
 .deb.debian.org
 .ftp2.de.debian.org
+static.adtidy.org
 downloads.xiph.org
 cdimage.kali.org
 download.gimp.org
