@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-10T10:26:29.011Z
-# Size: 3106
+# Last Updated: 2025-02-11T09:42:18.054Z
+# Size: 3107
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2056,6 +2056,7 @@ resources-cache.prod.sketch.com
 prego-cache.prod.sketch.com
 cdn.sketch.com
 .sixyik.com
+.simgbb.com
 .shgcdn.com
 assets.shazam.com
 b.sf-syn.com
@@ -3115,8 +3116,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-02-08T07:02:59.128Z
-# Size: 632
+# Last Updated: 2025-02-11T09:42:18.054Z
+# Size: 633
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3154,6 +3155,7 @@ downloads.wordpress.org
 releases.whatpulse.org
 mirrors.rpmfusion.org
 .tmpfiles.org
+static.redox-os.org
 download.opensuse.org
 ciscobinary.openh264.org
 repo.debiancn.org
