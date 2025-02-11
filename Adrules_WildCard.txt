@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 306
+# DOMAIN-WILDCARD: 308
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -207,6 +207,7 @@ DOMAIN-WILDCARD,mon-*.lemon8-app.com
 DOMAIN-WILDCARD,mon-*.lemon8-app.us
 DOMAIN-WILDCARD,mon-*.tiktokv.com
 DOMAIN-WILDCARD,ms*.applvn.com
+DOMAIN-WILDCARD,mssdk*.capcutapi.com
 DOMAIN-WILDCARD,mssdk*.tiktok.com
 DOMAIN-WILDCARD,mssdk*.tiktokv.eu
 DOMAIN-WILDCARD,mssdk*.tiktokv.us
@@ -228,6 +229,7 @@ DOMAIN-WILDCARD,pixelapi-*.cs.mysamba.tv
 DOMAIN-WILDCARD,player-feedback*.glomex.*
 DOMAIN-WILDCARD,polaris*-normal-*.zijieapi.com
 DOMAIN-WILDCARD,prebid-*.rubiconproject.com
+DOMAIN-WILDCARD,prebid-cache*.ifunny.co
 DOMAIN-WILDCARD,prod.*.analytics.console.aws.a2z.com
 DOMAIN-WILDCARD,prod.*.publishers.advertising.a2z.com
 DOMAIN-WILDCARD,production-adserver-*.amazonaws.com
