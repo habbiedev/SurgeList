@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-11T09:42:18.054Z
-# Size: 3107
+# Last Updated: 2025-02-12T01:15:38.286Z
+# Size: 3108
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -583,6 +583,7 @@ hentaiworldtv.b-cdn.net
 divhunt-site.b-cdn.net
 linuxiac.b-cdn.net
 jsdelivr.b-cdn.net
+todoist.b-cdn.net
 divhunt.b-cdn.net
 dh-site.b-cdn.net
 amp.azure.net
