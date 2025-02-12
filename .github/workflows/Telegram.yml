@@ -1,4 +1,4 @@
-name: GameDownload
+name: telegram
 
 on:
   workflow_dispatch:
