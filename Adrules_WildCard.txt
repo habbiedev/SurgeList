@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 308
+# DOMAIN-WILDCARD: 310
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -43,6 +43,7 @@ DOMAIN-WILDCARD,adserver.*.yahoodns.net
 DOMAIN-WILDCARD,adservice.google.*
 DOMAIN-WILDCARD,adsfilebssdlbig.*.kugou.com
 DOMAIN-WILDCARD,adv0*.msa.cdn.mediaset.net
+DOMAIN-WILDCARD,advert*.livesportmedia.eu
 DOMAIN-WILDCARD,adx-*.dbankedge.cn
 DOMAIN-WILDCARD,adx-*.op.dbankcloud.com.edgekey.net
 DOMAIN-WILDCARD,aem-collector-*.kgslb.com
@@ -199,6 +200,7 @@ DOMAIN-WILDCARD,mediate-ios-*.hyprmx.com
 DOMAIN-WILDCARD,metric*.rediff.com
 DOMAIN-WILDCARD,mistat.*.xiaomi.com
 DOMAIN-WILDCARD,mob*.novanewsapp.com
+DOMAIN-WILDCARD,mobiadvert*.livesportmedia.eu
 DOMAIN-WILDCARD,mobileanalytics.*.amazonaws.com
 DOMAIN-WILDCARD,mon*-*.tiktokv.us
 DOMAIN-WILDCARD,mon*-misc-lf.fqnovel.com
