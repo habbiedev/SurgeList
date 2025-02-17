@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-15T06:55:38.705Z
-# Size: 3140
+# Last Updated: 2025-02-17T08:53:23.885Z
+# Size: 3151
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -245,6 +245,7 @@ cdn.fosstodon.org
 .doppiocdn.org
 .cdn.cookielaw.org
 cdn.cocoapods.org
+images.videolan.org
 static.tronscan.org
 .rollupjs.org
 open-vsx.org
@@ -517,6 +518,7 @@ resize.yandex.net
 avatars.mds.yandex.net
 cdn.xeiaso.net
 avts.wmlabs.net
+fast.wistia.net
 static.vocadb.net
 images1.vinted.net
 craftassets.unraid.net
@@ -748,6 +750,7 @@ logos.speedtestcustom.com
 c.speedtestcustom.com
 searchserverapi.com
 .runkit-packages.com
+.pipedriveassets.com
 openseauserdata.com
 gt1.onlyhentaistuff.com
 fs2.onlyhentaistuff.com
@@ -1202,6 +1205,8 @@ tags.nationwide.com
 .msftstatic.com
 .media-imdb.com
 assets.mastercard.com
+lift-ai-js.marketlinc.com
+clickup.marketlinc.com
 mantisloader.mantis-awx.com
 platforms.makemytrip.com
 fonts.mailerlite.com
@@ -1264,6 +1269,7 @@ themes.fourthwall.com
 cdn.fourthwall.com
 .externulls.com
 images.everyplate.com
+cdntranscend.eventbrite.com
 web-assets.esetstatic.com
 images.emojiterra.com
 cdn2.editmysite.com
@@ -1473,6 +1479,7 @@ assetscdn-wchat.eu.freshchat.com
 .fiverrcdn.com
 static.filehorse.com
 .fastlycdn.com
+cdn.evbstatic.com
 static-assets-prod.epicgames.com
 media-cdn.epicgames.com
 cdn2.epicgames.com
@@ -1968,6 +1975,7 @@ player-frontend.cnevids.com
 player.cnevids.com
 .cmail20.com
 .cmail19.com
+data.web.clickup.com
 image.civitai.com
 assets.chess24.com
 cdn.chess24.com
@@ -2373,6 +2381,7 @@ static.deepl.com
 cdn.db-ip.com
 static.cloud.coveo.com
 cdn.cliqz.com
+segapi.clerk.com
 scdn.clerk.com
 img.clerk.com
 .cldup.com
@@ -2953,8 +2962,10 @@ experience-ap.piano.io
 api-esp-ap.piano.io
 code.piano.io
 cdn.piano.io
+cdn.pendo.io
 .nxcli.io
 media.mstdn.io
+.strapi.logto.io
 cdn-edge.karte.io
 statics.goorm.io
 cdn.filen.io
@@ -3149,8 +3160,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-02-14T12:58:11.895Z
-# Size: 634
+# Last Updated: 2025-02-17T13:58:34.920Z
+# Size: 635
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3205,6 +3216,7 @@ mirrors.edge.kernel.org
 .mirrors.dotsrc.org
 .ftp-master.debian.org
 security.debian.org
+.cdimage.debian.org
 .archive.debian.org
 .ftp.debian.org
 .deb.debian.org
