@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 311
+# DOMAIN-WILDCARD: 312
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -150,6 +150,7 @@ DOMAIN-WILDCARD,host*.polaroid.com
 DOMAIN-WILDCARD,host*.rigbyandpeller.com
 DOMAIN-WILDCARD,host*.rvshare.com
 DOMAIN-WILDCARD,hostingcloud.*.wasm
+DOMAIN-WILDCARD,hotapi*.tiktokv.us
 DOMAIN-WILDCARD,hstats*.hepsiburada.com
 DOMAIN-WILDCARD,hw-sh-pcdn-*.biliapi.net
 DOMAIN-WILDCARD,iad-*.appboy.com
