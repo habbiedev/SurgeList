@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-18T16:43:05.342Z
-# Size: 3160
+# Last Updated: 2025-02-19T04:20:13.052Z
+# Size: 3161
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -649,6 +649,7 @@ i.jpg.dog
 .usercontent.dev
 tuf-repo-cdn.sigstore.dev
 pkg-size.dev
+cdn-web.orbstack.dev
 .workers.dev
 .mirrors.utermux.dev
 .skypack.dev
@@ -3169,8 +3170,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-02-18T16:43:05.342Z
-# Size: 637
+# Last Updated: 2025-02-19T08:16:12.078Z
+# Size: 641
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3190,6 +3191,8 @@ rules.ac
 .s3.fr-par.scw.cloud
 .1fichier.info
 boot.netboot.xyz
+ghgo.xyz
+ghfast.top
 mirror.apad.pro
 .copr.fedorainfracloud.org
 download.pixelexperience.org
@@ -3234,6 +3237,7 @@ static.adtidy.org
 cdn.fwupd.org
 downloads.xiph.org
 cdimage.kali.org
+http.kali.org
 download.gimp.org
 invent.kde.org
 cdn.kde.org
@@ -3712,6 +3716,7 @@ dl.wechat.com
 softwareupdate.vmware.com
 security.ubuntu.com
 .archive.ubuntu.com
+.ports.ubuntu.com
 download.sketch.com
 store.setapp.com
 steam.naeu.qtlglb.com
