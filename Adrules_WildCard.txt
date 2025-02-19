@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 312
+# DOMAIN-WILDCARD: 316
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -260,6 +260,7 @@ DOMAIN-WILDCARD,sock*-goguardian.pusher.com
 DOMAIN-WILDCARD,sonar*.xy.fbcdn.net
 DOMAIN-WILDCARD,ssp*.rtb.beeline.ru
 DOMAIN-WILDCARD,st-*.dynamicyield.com
+DOMAIN-WILDCARD,staging-*.ispot.tv
 DOMAIN-WILDCARD,stat*.1internet.tv
 DOMAIN-WILDCARD,stat.*.v-56.com
 DOMAIN-WILDCARD,static*.365inews.com
@@ -267,6 +268,8 @@ DOMAIN-WILDCARD,stats*.credit-cooperatif.coop
 DOMAIN-WILDCARD,stats*.videonow.ru
 DOMAIN-WILDCARD,stats-*.p2pnow.ru
 DOMAIN-WILDCARD,stats2.*.fdnames.com
+DOMAIN-WILDCARD,stlog*-local.kakao.com
+DOMAIN-WILDCARD,t*.playdigo.live
 DOMAIN-WILDCARD,t*.zcvh.net
 DOMAIN-WILDCARD,tblog-*.kgslb.com
 DOMAIN-WILDCARD,telemetry*.transcend.io
@@ -289,6 +292,7 @@ DOMAIN-WILDCARD,ulog*.*
 DOMAIN-WILDCARD,ulog*.kwai-pro.com
 DOMAIN-WILDCARD,ulog*.kwaipros.com
 DOMAIN-WILDCARD,union*.365inews.com
+DOMAIN-WILDCARD,use-trk*.bluevoox.com
 DOMAIN-WILDCARD,util-*.simply-hentai.com
 DOMAIN-WILDCARD,v*-ad.video.yximgs.com
 DOMAIN-WILDCARD,v*.denakop.com
