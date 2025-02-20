@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-19T04:20:13.052Z
-# Size: 3161
+# Last Updated: 2025-02-20T15:20:18.506Z
+# Size: 3164
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -61,7 +61,6 @@ media.cleanshot.cloud
 cdn.bullwhip.cloud
 resources-live.sketch.cloud
 .gateway.pinata.cloud
-.ipfs.tubby.cloud
 patterns.hiive.cloud
 fscdn.eppo.cloud
 .dsc.cloud
@@ -469,8 +468,6 @@ spoprod-a.akamaihd.net
 lumiere-a.akamaihd.net
 img.adspower.net
 cdn.writeas.net
-.file.core.windows.net
-.blob.core.windows.net
 unlimited-cdn.waifu2x.net
 social-cdn.vivaldi.net
 platform-assets.typekit.net
@@ -548,6 +545,7 @@ brick.freetls.fastly.net
 brick.a.ssl.fastly.net
 .eroimg.net
 assets.dwncdn.net
+.dlunar.net
 screenshots.debian.net
 .cdn.cwinfo.net
 .cdnppb.net
@@ -802,7 +800,6 @@ code.ionicframework.com
 .intercomassets.com
 static-gcp.freepikcompany.com
 cdn-live.foreignaffairs.com
-resources.esportsinsider.com
 .datocms-assets.com
 userimg-assets.customeriomail.com
 userimg-bee.customeriomail.com
@@ -1723,7 +1720,10 @@ dynamic-assets.coinbase.com
 static-assets.coinbase.com
 assets.coinbase.com
 logo.clearbit.com
+assets-growth-common.circleci.com
+assets-docs.circleci.com
 cdn-assets.circleci.com
+assets-app.circleci.com
 app.chatwoot.com
 .chasecdn.com
 .cdnfonts.com
@@ -1964,6 +1964,7 @@ detectportal.firefox.com
 .ffzy888.com
 .exp-tas.com
 .espncdn.com
+cdn.equinix.com
 static-sg-cdn.eporner.com
 static-ca-cdn.eporner.com
 cdn.embedly.com
@@ -2318,6 +2319,8 @@ registry.npmjs.com
 static.npmjs.com
 skimdb.npmjs.com
 .npmfs.com
+ws-cdn.nperf.com
+cdn.nperf.com
 connect.nosto.com
 fesdk.nexon.com
 static.music.com
@@ -3170,8 +3173,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-02-19T08:16:12.078Z
-# Size: 641
+# Last Updated: 2025-02-20T04:28:18.564Z
+# Size: 648
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3242,6 +3245,8 @@ download.gimp.org
 invent.kde.org
 cdn.kde.org
 ftp.gnu.org
+.launchpadlibrarian.net
+debian-archive.trafficmanager.net
 .steamserver.net
 downloads.sourceforge.net
 .dl.sourceforge.net
@@ -3271,6 +3276,8 @@ blzddist3-a.akamaihd.net
 blzddist2-a.akamaihd.net
 blzddist1-a.akamaihd.net
 origin-a.akamaihd.net
+.file.core.windows.net
+.blob.core.windows.net
 download-core.sys.truenas.net
 .dyn.riotcdn.net
 download-installer.cdn.mozilla.net
@@ -3283,6 +3290,7 @@ down.filen-1.net
 edge.steam-dns.top.comcast.net
 share.riseup.net
 az764295.vo.msecnd.net
+cloudfront.debian.net
 dl3.xmind.net
 dl2.xmind.net
 down.filen.net
@@ -3302,6 +3310,7 @@ pkg-containers.githubusercontent.com
 objects.githubusercontent.com
 .cloudflarestorage.com
 .cloudflaremirrors.com
+.circle-artifacts.com
 .androidfilehost.com
 .public.blob.vercel-storage.com
 ctldl.windowsupdate.com
@@ -3678,6 +3687,7 @@ download.iboysoft.com
 download.gigabyte.com
 .fuwamofu.com
 .mirror.constant.com
+dl.circleci.com
 level3.blizzard.com
 dist.blizzard.com
 .cdn.blizzard.com
