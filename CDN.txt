@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-02-24T07:22:12.478Z
-# Size: 3171
+# Last Updated: 2025-02-25T17:35:34.895Z
+# Size: 3178
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -372,13 +372,17 @@ static-resource.np.community.playstation.net
 .f.hubspotfree.net
 .hsappstatic.net
 .divio-media.net
+telemetry2.devolutions.net
 cdnfonts.devolutions.net
+cdnweb.devolutions.net
+cdn.devolutions.net
 cdn.arstechnica.net
 .vscode-cdn.net
 .ungrounded.net
 consumersite-assets.trustpilot.net
 cdn.trustpilot.net
 .nelreports.net
+cdn.macstories.net
 .hs-scripts.net
 hub-assets.displaycal.net
 images-ext-2.discordapp.net
@@ -2435,6 +2439,7 @@ cdn2.auth0.com
 cdn.auth0.com
 events-delivery.apple.com
 lcdn-locator.apple.com
+news-assets.apple.com
 events-live.apple.com
 apple-relay.apple.com
 pba.apple.com
@@ -2466,6 +2471,7 @@ widget.user.com
 media.user.com
 assets.time.com
 .sirv.com
+static.seel.com
 cdn.sedo.com
 .www.s81c.com
 sdata.ndtv.com
@@ -2886,6 +2892,7 @@ img.badgesize.io
 .events.backtrace.io
 .4everland.io
 .vsassets.io
+img.telemetr.io
 release.runcloud.io
 .cdn.manage.runcloud.io
 .cdn.runcloud.io
@@ -3180,8 +3187,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-02-22T13:59:20.627Z
-# Size: 649
+# Last Updated: 2025-02-25T16:59:46.076Z
+# Size: 653
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3262,6 +3269,7 @@ downloads.sourceforge.net
 packages.virtfusion.net
 install.virtfusion.net
 os-cdn.virtfusion.net
+.dl2.discordapp.net
 .dl.discordapp.net
 ppa.launchpad.net
 .debian.map.fastlydns.net
@@ -3325,6 +3333,7 @@ ctldl.windowsupdate.com
 .linodeobjects.com
 .cdn77-storage.com
 updates-cdn.bravesoftware.com
+updates.bravesoftware.com
 .vultrobjects.com
 update.code.visualstudio.com
 content-origin.steampowered.com
@@ -3751,6 +3760,8 @@ download.mlcc.google.com
 dl.google.com
 dl.l.google.com
 codeload.github.com
+download.edovia.com
+updates.edovia.com
 download.docker.com
 .desktop.docker.com
 download.dlsite.com
