@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 320
+# DOMAIN-WILDCARD: 321
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -172,7 +172,7 @@ DOMAIN-WILDCARD,ky891.oss-*.aliyuncs.com
 DOMAIN-WILDCARD,lively-collect-elb-*.amazonaws.com
 DOMAIN-WILDCARD,liveme-sensors-collect2-*.amazonaws.com
 DOMAIN-WILDCARD,livetracker.*.pangea-cms.com
-DOMAIN-WILDCARD,log*-applog-*.tiktokv.com
+DOMAIN-WILDCARD,log*-*.tiktokv.com
 DOMAIN-WILDCARD,log*-misc-lf.amemv.com
 DOMAIN-WILDCARD,log*-misc-lq.amemv.com
 DOMAIN-WILDCARD,log*-normal-*.tiktokv.us
@@ -199,15 +199,16 @@ DOMAIN-WILDCARD,mcs-*.lemon8-app.com
 DOMAIN-WILDCARD,mcs-*.lemon8-app.us
 DOMAIN-WILDCARD,mcs-*.tiktok.com
 DOMAIN-WILDCARD,mcs-va-*.tiktokv.com
+DOMAIN-WILDCARD,mcs.*.tiktokv.com
 DOMAIN-WILDCARD,mediate-ios-*.hyprmx.com
 DOMAIN-WILDCARD,metric*.rediff.com
 DOMAIN-WILDCARD,mistat.*.xiaomi.com
 DOMAIN-WILDCARD,mob*.novanewsapp.com
 DOMAIN-WILDCARD,mobiadvert*.livesportmedia.eu
 DOMAIN-WILDCARD,mobileanalytics.*.amazonaws.com
+DOMAIN-WILDCARD,mon*-*.tiktokv.com
 DOMAIN-WILDCARD,mon*-*.tiktokv.us
 DOMAIN-WILDCARD,mon*-misc-lf.fqnovel.com
-DOMAIN-WILDCARD,mon*-platform-*.tiktokv.com
 DOMAIN-WILDCARD,mon-*.lemon8-app.com
 DOMAIN-WILDCARD,mon-*.lemon8-app.us
 DOMAIN-WILDCARD,mon-*.tiktokv.com
