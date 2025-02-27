@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 321
+# DOMAIN-WILDCARD: 320
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -135,7 +135,6 @@ DOMAIN-WILDCARD,fpb*.51edu.com
 DOMAIN-WILDCARD,gads*s.com
 DOMAIN-WILDCARD,gads*z.com
 DOMAIN-WILDCARD,gcw*.2liang.cn
-DOMAIN-WILDCARD,gecko*.tiktov.us
 DOMAIN-WILDCARD,geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com
 DOMAIN-WILDCARD,geoloc*.geo20120530.com
 DOMAIN-WILDCARD,geoloc*.geostats.ovh
