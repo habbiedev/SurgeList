@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-03T08:59:20.788Z
-# Size: 3207
+# Last Updated: 2025-03-04T14:18:38.855Z
+# Size: 3211
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -250,6 +250,7 @@ cdn.cocoapods.org
 images.videolan.org
 static.tronscan.org
 .rollupjs.org
+.recharts.org
 open-vsx.org
 demotiles.maplibre.org
 image.lichess1.org
@@ -1030,6 +1031,7 @@ img.shoplineapp.com
 assets.salesmartly.com
 store-images.s-microsoft.com
 c.s-microsoft.com
+.dataplane.rudderstack.com
 .redditmedia.com
 assets.raspberrypi.com
 .qooqlevideo.com
@@ -2041,6 +2043,7 @@ promotions.betfair.com
 media.beehiiv.com
 chat-content.beanfun.com
 .bdzybf7.com
+assets.basehub.com
 cdn-mobile.aptoide.com
 ws2-cache.aptoide.com
 cdn6.aptoide.com
@@ -3047,6 +3050,7 @@ static.itch.io
 .iili.io
 libraries.hund.io
 badge.fury.io
+cdn.cuty.io
 assets.bwbx.io
 adkit.9pub.io
 .npm.io
@@ -3216,8 +3220,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-02-26T13:42:08.973Z
-# Size: 655
+# Last Updated: 2025-03-04T14:18:38.855Z
+# Size: 656
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3349,6 +3353,7 @@ dl.getaurora.dev
 cdn-updates.orbstack.dev
 api-updates.orbstack.dev
 cdn-images.orbstack.dev
+releases.warp.dev
 .r2.dev
 .digitaloceanspaces.com
 pkg-containers.githubusercontent.com
