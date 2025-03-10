@@ -13,3 +13,7 @@ hltv-ads-remover = type=http-response,pattern=^https?://(www\.)?hltv\.org/,requi
 
 [MITM]
 hostname = %APPEND% *.hltv.org
+
+[URL Rewrite]
+^https?://(www\.)?hltv\.org/static/js/ads\.js reject
+^https?://track\.hltv\.org/ reject
