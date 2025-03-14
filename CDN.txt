@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-13T01:55:02.897Z
-# Size: 3230
+# Last Updated: 2025-03-14T07:01:09.707Z
+# Size: 3253
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -46,6 +46,7 @@ namedotcom-cdn.name.tools
 pics.javhd.today
 vanilla-extract.style
 eslint.style
+cdn.one.store
 .pstorage.space
 cdn.hiive.space
 cdn.deta.space
@@ -57,6 +58,7 @@ jssdk.opin.media
 .icon.horse
 assets.buttondown.email
 .ipfs-gateway.cloud
+.dreamscape.cloud
 media.cleanshot.cloud
 .mypinata.cloud
 cdn.bullwhip.cloud
@@ -532,6 +534,7 @@ fast.wistia.net
 static.vocadb.net
 images1.vinted.net
 craftassets.unraid.net
+components.trynow.net
 .sftcdn.net
 .rspcdn.net
 .poecdn.net
@@ -871,6 +874,7 @@ images.flightradar24.com
 .envato-static.com
 .dropboxstatic.com
 .discourse-cdn.com
+chat.digitalgenius.com
 images8.design-editor.com
 images7.design-editor.com
 images.design-editor.com
@@ -994,6 +998,7 @@ img2.xiangbinjun.com
 .webpkgcache.com
 static.webclicks24.com
 cdn.webclicks24.com
+live.visually-io.com
 app.viral-loops.com
 static-cdn.usertesting.com
 .js.usemessages.com
@@ -1344,11 +1349,14 @@ js.chilipiper.com
 .cdn-spurit.com
 public-pages.cbinsights.com
 rtcg-access.bytevcloud.com
+static.buydomains.com
 cdn.britannica.com
 app.brightback.com
 .boomio-cdn.com
 cdn-www.bluestacks.com
 .bestjavcdn.com
+widget.automizely.com
+sdks.automizely.com
 cdnb.artstation.com
 cdna.artstation.com
 cdn.artstation.com
@@ -1769,11 +1777,13 @@ app.chatwoot.com
 .cdnfonts.com
 .cartocdn.com
 assets.capterra.com
+cdn.camweara.com
 assets.calendly.com
 assets.byteplus.com
 .bytedapm.com
 .bunnycdn.com
 assets.bravenet.com
+static.registration.bluehost.com
 .bp.blogspot.com
 .blogblog.com
 static.bitfinex.com
@@ -1799,10 +1809,13 @@ cdn2.airdroid.com
 cdn1.airdroid.com
 dl.airdroid.com
 sentry.ainopara.com
+static-us.afterpay.com
+static.afterpay.com
 assets.adobedtm.com
 static.addtoany.com
 image.p-c2-x.abema-tv.com
 .zohocdn.com
+cdn.zigpoll.com
 .media.zestyio.com
 web-assets.zendesk.com
 img.youtube.com
@@ -1905,6 +1918,8 @@ media.nownews.com
 .nordcdn.com
 .ngfiles.com
 assets.nflxext.com
+stbff.newfold.com
+mta.newfold.com
 .ndtvimg.com
 nodeassets.nbcnews.com
 iframe.nbcnews.com
@@ -1927,6 +1942,7 @@ img.ltyears.com
 .kym-cdn.com
 static-forms.klaviyo.com
 static.klaviyo.com
+a.klaviyo.com
 media10.kissjav.com
 media9.kissjav.com
 media8.kissjav.com
@@ -2142,7 +2158,9 @@ imgix.setapp.com
 cdn.setapp.com
 cdn.seondf.com
 vice-prod.sdiapi.com
+newfold.scene7.com
 ec-prod.scene7.com
+stbff.scene7.com
 s7d1.scene7.com
 .sc-cdn.com
 embed.runkit.com
@@ -2218,6 +2236,7 @@ cdn2.macpaw.com
 .loggly.com
 .lodash.com
 staging-pubfeed.linkby.com
+.li-cdn.com
 ledger-wp-website-s3-prd.ledger.com
 assets-cms.kraken.com
 assets.kraken.com
@@ -2250,6 +2269,7 @@ static.hotjar.com
 cdn5.hextom.com
 cdn3.hextom.com
 cdn2.hextom.com
+cdn.hextom.com
 .assets.heroku.com
 .hembed.com
 image.gyutto.com
@@ -2315,6 +2335,7 @@ static.ahrefs.com
 .9cache.com
 .ytimg.com
 cdn-yotpo-images-production.yotpo.com
+cdn-widgetsrepository.yotpo.com
 staticw2.yotpo.com
 yep.video.yahoo.com
 .xhcdn.com
@@ -2354,6 +2375,7 @@ s.plurk.com
 cdn1.plesk.com
 cdn.plaid.com
 i.pcmag.com
+cdn.paidy.com
 package-assets.oomol.com
 registry.oomol.com
 static.oomol.com
@@ -3234,6 +3256,7 @@ media.evolv.ai
 metrics.kapa.ai
 widget.kapa.ai
 assets.dify.ai
+limitless.cmax.ai
 .cdn.s7s.ai
 bot.ivy.ai
 rules.ac
