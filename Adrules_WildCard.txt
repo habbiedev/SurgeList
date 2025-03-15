@@ -1,8 +1,10 @@
-# DOMAIN-WILDCARD: 329
+# DOMAIN-WILDCARD: 332
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
 DOMAIN-WILDCARD,*.exaapi.com
+DOMAIN-WILDCARD,*bmwmini.tt.omtrdc.net
+DOMAIN-WILDCARD,*bmwofnorthamericallc.tt.omtrdc.net
 DOMAIN-WILDCARD,163487*.qmgmw.com
 DOMAIN-WILDCARD,a*.chajiaotong.com
 DOMAIN-WILDCARD,aan.amazon.*
@@ -249,6 +251,7 @@ DOMAIN-WILDCARD,qn-*pcdn.cdn.huya.com
 DOMAIN-WILDCARD,qn-*pcdn.cdn.msstatic.com
 DOMAIN-WILDCARD,qpb*.sohu.com
 DOMAIN-WILDCARD,quangcao-*.epicdn.me
+DOMAIN-WILDCARD,query*.petametrics.com
 DOMAIN-WILDCARD,reachableads-av.*.amazonaws.com
 DOMAIN-WILDCARD,report*.appmetrica.webvisor.com
 DOMAIN-WILDCARD,report.*.gbqofs.io
