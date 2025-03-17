@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-16T16:42:21.356Z
-# Size: 3261
+# Last Updated: 2025-03-17T14:41:58.584Z
+# Size: 3273
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -499,6 +499,7 @@ rum-cdn.perfops.net
 devnull.perfops.net
 img.perfops.net
 cdn.perfops.net
+.nodecdn.net
 static.nhentai.net
 t.nhentai.net
 i.nhentai.net
@@ -745,6 +746,7 @@ navismithapis-cdn.com
 conversiongorilla.com
 .claudeusercontent.com
 .chargebeestaticv2.com
+b5x-sentry.1passwordservices.com
 telemetry.1passwordservices.com
 .superfiliate-cdn.com
 .steamusercontent.com
@@ -1193,6 +1195,7 @@ ecommplugins-scripts.trustpilot.com
 user-images.trustpilot.com
 simplicity.trustpilot.com
 widget.trustpilot.com
+top1cdn.top1health.com
 .teraboxcdn.com
 .sthlstatic.com
 tiles.stadiamaps.com
@@ -1428,6 +1431,7 @@ static.skyassets.com
 uploads.sitepoint.com
 s3.sitepoint.com
 media.shopimind.com
+.sfbassets.com
 .sendspace.com
 forest-mt-s3.seekrtech.com
 images.scrolller.com
@@ -1481,6 +1485,7 @@ cdn-images.mailchimp.com
 images.macrumors.com
 .lr-ingest.com
 .lowendbox.com
+scdn.line-apps.com
 .kinja-img.com
 cdn.joinhoney.com
 .jisuimage.com
@@ -1617,6 +1622,7 @@ cdn4.sysgears.com
 cdn3.sysgears.com
 cdn2.sysgears.com
 cdn1.sysgears.com
+.sway-cdn.com
 cdn.substack.com
 .stylexjs.com
 .stripcdn.com
@@ -1851,6 +1857,8 @@ play.vidyard.com
 cdn.vidyard.com
 .userapi.com
 img.urlnode.com
+static.uptimia.com
+cdn.uptimia.com
 static-overlay.ubisoft.com
 ubistatic2-a.ubisoft.com
 ubistatic-a.ubisoft.com
@@ -1998,6 +2006,8 @@ encrypted-tbn0.gstatic.com
 .metric.gstatic.com
 fonts.gstatic.com
 maps.gstatic.com
+www.gstatic.com
+ssl.gstatic.com
 t3.gstatic.com
 t2.gstatic.com
 t1.gstatic.com
@@ -2149,6 +2159,7 @@ img.supjav.com
 connect-js.stripe.com
 checkout.stripe.com
 js.stripe.com
+heatmap-external-a.strava.com
 web-assets.strava.com
 .ss-cdn.com
 .sndcdn.com
@@ -2811,6 +2822,7 @@ media.masto.nu
 static.nrk.no
 images.weserv.nl
 .pixiv.nl
+.wsrv.nl
 .himg.nl
 image.dooo.ng
 cdn.plu.mx
@@ -3270,8 +3282,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-03-12T07:02:11.311Z
-# Size: 660
+# Last Updated: 2025-03-17T14:55:02.839Z
+# Size: 667
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3290,6 +3302,7 @@ rules.ac
 .s3-website.fr-par.scw.cloud
 .s3.fr-par.scw.cloud
 .1fichier.info
+dist.creeper.host
 boot.netboot.xyz
 ghgo.xyz
 ghfast.top
@@ -3354,6 +3367,9 @@ install.virtfusion.net
 os-cdn.virtfusion.net
 .dl2.discordapp.net
 .dl.discordapp.net
+libraries.minecraft.net
+textures.minecraft.net
+.download.minecraft.net
 ppa.launchpad.net
 .debian.map.fastlydns.net
 pf-cdn-content-prod.azureedge.net
@@ -3380,6 +3396,7 @@ origin-a.akamaihd.net
 .blob.core.windows.net
 download-core.sys.truenas.net
 .dyn.riotcdn.net
+download.nodecdn.net
 download-installer.cdn.mozilla.net
 down.filen-5.net
 down.filen-4.net
@@ -3839,6 +3856,8 @@ steam.ru.qtlglb.com
 .download.dm.origin.com
 .download.nvidia.com
 redstone-launcher.mojang.com
+piston-meta.mojang.com
+piston-data.mojang.com
 iterm2.com
 download.tensorflow.google.com
 cache.pack.google.com
