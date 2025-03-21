@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-19T12:22:10.026Z
-# Size: 3282
+# Last Updated: 2025-03-21T13:43:55.751Z
+# Size: 3284
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -465,6 +465,7 @@ assets.queue-it.net
 .pixelcdn.net
 .wikia.nocookie.net
 .cdn.nintendo.net
+s.midishow.net
 .line-cdn.net
 .kakaocdn.net
 .jsdelivr.net
@@ -538,6 +539,7 @@ s3-zen.mds.yandex.net
 cdn.xeiaso.net
 avts.wmlabs.net
 fast.wistia.net
+cdn.wikimg.net
 static.vocadb.net
 images1.vinted.net
 craftassets.unraid.net
@@ -3291,8 +3293,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-03-20T13:54:37.770Z
-# Size: 668
+# Last Updated: 2025-03-21T06:29:49.695Z
+# Size: 669
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3442,6 +3444,7 @@ objects.githubusercontent.com
 .public.blob.vercel-storage.com
 ctldl.windowsupdate.com
 .linodeobjects.com
+vfat.classicreload.com
 .cdn77-storage.com
 updates-cdn.bravesoftware.com
 updates.bravesoftware.com
