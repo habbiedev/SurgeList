@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 333
+# DOMAIN-WILDCARD: 334
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -165,6 +165,7 @@ DOMAIN-WILDCARD,ifengad.*.ifeng.com
 DOMAIN-WILDCARD,imp-*.jampp.com
 DOMAIN-WILDCARD,impservice*.yodao.com
 DOMAIN-WILDCARD,impservice*.youdao.com
+DOMAIN-WILDCARD,install*.zonastat.com
 DOMAIN-WILDCARD,iptracker-lb-*.amazonaws.com
 DOMAIN-WILDCARD,ir-new-cdn-eu-west-*-hb.rayjump.com
 DOMAIN-WILDCARD,ja*.gamersky.com
