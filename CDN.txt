@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-03-24T16:22:46.477Z
+# Last Updated: 2025-03-25T17:13:18.557Z
 # Size: 3302
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -134,7 +134,6 @@ cdn.joincommunity.xyz
 .mirror-media.xyz
 .packd.liuxingbaoyu.xyz
 storage.withfabric.xyz
-int.qiniuyun15.xyz
 cdn.yinghuazy.xyz
 .skyearth8.xyz
 .imgmrplay.xyz
@@ -344,6 +343,7 @@ ooo.0o0.ooo
 storageapi.fleek.one
 static.xns.one
 .ipfs.jbb.one
+.gold-usergeneratedcontent.net
 .hubspotusercontent-na1.net
 .hubspotusercontent-eu1.net
 .hubspotusercontent40.net
@@ -475,6 +475,7 @@ s.midishow.net
 .kakaocdn.net
 .jsdelivr.net
 img.javstore.net
+ik.imagekit.net
 .forgecdn.net
 connect.facebook.net
 static.esimplus.net
@@ -513,7 +514,6 @@ cdn.myfonts.net
 .itsre-sumo.mozilla.net
 interactive-examples.mdn.mozilla.net
 .cdn.mozilla.net
-opt.moovweb.net
 minotar.net
 .jscloud.net
 pg2dhpc3p5ec22g3.jkforum.net
@@ -797,6 +797,7 @@ irp-cdn.multiscreensite.com
 .howtogeekimages.com
 cache.hackedfreegames.com
 images.financemagnates.com
+.customerioforms.com
 imgssl.constantcontact.com
 .cloudflare-ipfs.com
 shopify.cleverecommerce.com
@@ -888,6 +889,7 @@ rts-static-prod.freshworksapi.com
 cdn.freebiesupply.com
 images.flightradar24.com
 .envato-static.com
+cdn.earthroulette.com
 .dropboxstatic.com
 .discourse-cdn.com
 chat.digitalgenius.com
@@ -1269,7 +1271,6 @@ content.jwplatform.com
 ww2-secure.justanswer.com
 components.justanswer.com
 ww2.justanswer.com
-static.javatpoint.com
 media.inhumanity.com
 .storage.infomaniak.com
 .cloud2.influxdata.com
@@ -1298,6 +1299,7 @@ hips.hearstapps.com
 cdn.hackernoon.com
 assets.grooveapps.com
 .content-storage-upload.googleapis.com
+firebaseinstallations.googleapis.com
 .crashlyticsreports-pa.googleapis.com
 optimizationguide-pa.googleapis.com
 firebaselogging-pa.googleapis.com
@@ -1992,6 +1994,7 @@ pool.jortage.com
 assets.ipstack.com
 i.insider.com
 static.iris.informa.com
+go.imperva.com
 .imgyzzy.com
 .imgikzy.com
 s.imgflip.com
@@ -2197,7 +2200,6 @@ cdn.seondf.com
 vice-prod.sdiapi.com
 newfold.scene7.com
 ec-prod.scene7.com
-stbff.scene7.com
 s7d1.scene7.com
 .sc-cdn.com
 embed.runkit.com
@@ -2896,9 +2898,6 @@ cdn.plot.ly
 cdn.img.ly
 i.mt.lv
 media.webtoo.ls
-ltn.hitomi.la
-btn.hitomi.la
-atn.hitomi.la
 pomf2.lain.la
 .ipfs.lain.la
 static.pfrt.yna.co.kr
@@ -2947,6 +2946,7 @@ pics.dmm.co.jp
 cdn.dap.dmm.co.jp
 osint.digitalside.it
 .place-hold.it
+cdn.scaleflex.it
 .unsplash.it
 cdn.download.it
 .redd.it
@@ -3311,8 +3311,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-03-21T06:29:49.695Z
-# Size: 669
+# Last Updated: 2025-03-25T15:43:47.123Z
+# Size: 671
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3358,6 +3358,7 @@ download.opensuse.org
 cdn.opensuse.org
 ciscobinary.openh264.org
 repo.debiancn.org
+s3.teckids.org
 .iso.reactos.org
 downloads.openwrt.org
 aus2-community.mozilla.org
@@ -3764,6 +3765,7 @@ downloadr2.apkmirror.com
 .s3-website.dualstack.sa-east-1.amazonaws.com
 .s3.dualstack.sa-east-1.amazonaws.com
 .s3.sa-east-1.amazonaws.com
+.s3-global.amazonaws.com
 .s3-object-lambda.eu-west-3.amazonaws.com
 .s3-accesspoint.eu-west-3.amazonaws.com
 .s3-website.eu-west-3.amazonaws.com
