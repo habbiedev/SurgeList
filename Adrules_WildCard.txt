@@ -301,9 +301,9 @@ DOMAIN-WILDCARD,tw*.netcore.co.in
 DOMAIN-WILDCARD,ubacollect-*.cloud.dbankcloud.cn
 DOMAIN-WILDCARD,uc*.atobo.com
 DOMAIN-WILDCARD,ulog*.*
+DOMAIN-WILDCARD,ulog*.gifshow.com
 DOMAIN-WILDCARD,ulog*.kwai-pro.com
 DOMAIN-WILDCARD,ulog*.kwaipros.com
-DOMAIN-WILDCARD,ulogs*.gifshow.com
 DOMAIN-WILDCARD,union*.365inews.com
 DOMAIN-WILDCARD,us.*.qwadro.com
 DOMAIN-WILDCARD,use-trk*.bluevoox.com
