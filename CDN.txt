@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-06T12:34:41.662Z
-# Size: 3341
+# Last Updated: 2025-04-07T15:42:37.498Z
+# Size: 3351
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -133,6 +133,7 @@ phishing.army
 cdn.joincommunity.xyz
 .mirror-media.xyz
 .packd.liuxingbaoyu.xyz
+eslint-react.xyz
 storage.withfabric.xyz
 cdn.yinghuazy.xyz
 .skyearth8.xyz
@@ -1038,6 +1039,7 @@ tag.unifyintent.com
 fastly-cloud.typenetwork.com
 cloud.typenetwork.com
 cms.typenetwork.com
+static-assets-1.truthsocial.com
 cdn.trustedsite.com
 widgets.tree-nation.com
 s3-symbol-logo.tradingview.com
@@ -1206,6 +1208,7 @@ cdn2.abiresearch.com
 .zippyshare.com
 .ziffstatic.com
 .zi-scripts.com
+wctour-images.worldchess.com
 .csp.withgoogle.com
 cdn.verifypass.com
 .vanillicon.com
@@ -1380,6 +1383,7 @@ cp4.cloudflare.com
 cp3.cloudflare.com
 cp2.cloudflare.com
 js.chilipiper.com
+static.chessarena.com
 .static.chaosgroup.com
 .cdnclouder.com
 .cdn-spurit.com
@@ -1403,6 +1407,7 @@ agi.armorgames.com
 packages.argotunnel.com
 .anpustream.com
 .anpoimages.com
+.algolianet.com
 static.adguardvpn.com
 cdn.zhujiwiki.com
 assets.zerohedge.com
@@ -1478,6 +1483,7 @@ js.qualified.com
 vpncdn.protonweb.com
 cdnstatic.porno-cum.com
 static.polldaddy.com
+assets.polarbyte.com
 .assets.pinterest.com
 storage-b.picacomic.com
 img.picacomic.com
@@ -1529,6 +1535,7 @@ static.incapsula.com
 .ibytedtos.com
 freeshippingbar.herokuapp.com
 snyk-widget.herokuapp.com
+heroicons.com
 i2.hentaifox.com
 i.hentaifox.com
 .hentaiera.com
@@ -1581,6 +1588,7 @@ cdn.configcat.com
 static.coingecko.com
 assets.coingecko.com
 .cnbetacdn.com
+resources.chessbase.com
 webstatic.chargebee.com
 js1.chargebee.com
 js.chargebee.com
@@ -2436,6 +2444,7 @@ assets.plurk.com
 imgs.plurk.com
 emos.plurk.com
 s.plurk.com
+images.pling.com
 cdn1.plesk.com
 cdn.plaid.com
 i.pcmag.com
@@ -3036,6 +3045,7 @@ js-cdn.blockchair.io
 .wixstudio.io
 cdn.transcend.io
 static.tokenview.io
+assets.keysquare.io
 media.hachyderm.io
 static.getbutton.io
 thingproxy.freeboard.io
