@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-11T10:05:13.727Z
-# Size: 3376
+# Last Updated: 2025-04-13T13:14:51.793Z
+# Size: 3378
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -408,6 +408,7 @@ consumersiteimages.trustpilot.net
 cdn.trustpilot.net
 .nelreports.net
 cdn.macstories.net
+.live-video.net
 .hs-scripts.net
 .faceit-cdn.net
 hub-assets.displaycal.net
@@ -3157,6 +3158,7 @@ static-mh.content.disney.io
 .crates.io
 cdn.branch.io
 netlify.apollo.io
+v2uploads.zopim.io
 telemetry.split.io
 streaming.split.io
 events.split.io
@@ -3385,8 +3387,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-04-02T10:09:16.356Z
-# Size: 1156
+# Last Updated: 2025-04-13T13:13:41.281Z
+# Size: 1157
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3721,6 +3723,7 @@ dl.cleverfiles.com
 mirror.veriportal.com
 mirror.team-cymru.com
 .pixeldrain.com
+download.onlyoffice.com
 deb.nodesource.com
 mirror.jax.hugeserver.com
 update.googleapis.com
