@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-13T13:14:51.793Z
-# Size: 3378
+# Last Updated: 2025-04-14T10:31:58.481Z
+# Size: 3379
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1574,6 +1574,7 @@ snippets.freshchat.com
 assetscdn-wchat.eu.freshchat.com
 .framercdn.com
 .forbesimg.com
+cdn.fontshare.com
 .fncstatic.com
 .fiverrcdn.com
 static.filehorse.com
@@ -3387,8 +3388,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-04-13T13:13:41.281Z
-# Size: 1157
+# Last Updated: 2025-04-14T10:31:58.482Z
+# Size: 1158
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3494,6 +3495,7 @@ security.debian.org
 .ftp2.de.debian.org
 ftp.apache.org
 static.adtidy.org
+d.myani.org
 ftp.gnome.org
 cdn.fwupd.org
 downloads.xiph.org
