@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-17T14:09:15.948Z
-# Size: 3400
+# Last Updated: 2025-04-18T17:20:46.880Z
+# Size: 3409
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -371,6 +371,7 @@ vscode-sync.trafficmanager.net
 .msftauthimages.net
 media.minecraftforum.net
 .licensebuttons.net
+.f.hubspotstarter.net
 headway-widget.net
 cdn.consentmanager.net
 .videodelivery.net
@@ -1359,6 +1360,8 @@ images.freeimages.com
 imgproxy.fourthwall.com
 themes.fourthwall.com
 cdn.fourthwall.com
+frontend.floatplane.com
+pbs.floatplane.com
 .externulls.com
 images.everyplate.com
 cdntranscend.eventbrite.com
@@ -1493,6 +1496,7 @@ media.shopimind.com
 forest-mt-s3.seekrtech.com
 images.scrolller.com
 sigma9.scpwikicn.com
+data.schemaapp.com
 cdn.schemaapp.com
 assets.scaleflex.com
 media-cldnry.s-nbcnews.com
@@ -2439,6 +2443,7 @@ static.ahrefs.com
 .assets.adidas.com
 .glass.adidas.com
 .9cache.com
+static.zuora.com
 .ytimg.com
 cdn-yotpo-images-production.yotpo.com
 cdn-widgetsrepository.yotpo.com
@@ -2522,6 +2527,7 @@ cdn.javmg.com
 creator-image.javhd.com
 static.javhd.com
 i.ioiox.com
+pim-media.intel.com
 imgopt.infoq.com
 cdn.infoq.com
 .stack.imgur.com
@@ -2852,6 +2858,8 @@ assets.jable.tv
 i.iwara.tv
 .7mmtv.tv
 cdn.18jav.tv
+s-cdnstatic.svc.litv.tv
+p-cdnstatic.svc.litv.tv
 4gtvimg2.4gtv.tv
 lain.bgm.tv
 embed-v2.testimonial.to
@@ -3050,6 +3058,7 @@ edge.personalizer.io
 assets-production.packagecloud.io
 .api.loganalytics.io
 images.contentstack.io
+canny-assets.io
 cdn.thenewstack.io
 .sourceforge.io
 .ipfs.smartholdem.io
@@ -3409,8 +3418,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-04-17T07:33:18.387Z
-# Size: 1100
+# Last Updated: 2025-04-18T17:50:49.825Z
+# Size: 1093
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4203,7 +4212,6 @@ dlcdnets.asus.com
 .cdn.ubi.com
 gog-cdn-fastly-cp77.gog.com
 gog-cdn-fastly.gog.com
-mirrors.163.com
 .artifacts.ui.com
 dl.ui.com
 .cdn.ea.com
@@ -4460,12 +4468,6 @@ mirrors.nic.cz
 mirror.dkm.cz
 mirrors.ucr.ac.cr
 builds.paranoidandroid.co
-mirrors.tuna.tsinghua.edu.cn
-mirrors.neusoft.edu.cn
-mirrors.ustc.edu.cn
-mirrors.sjtug.sjtu.edu.cn
-mirrors.nju.edu.cn
-mirror.lzu.edu.cn
 ctan.dcc.uchile.cl
 cpan.dcc.uchile.cl
 ghp.ci
