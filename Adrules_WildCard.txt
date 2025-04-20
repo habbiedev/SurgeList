@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 333
+# DOMAIN-WILDCARD: 332
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -77,7 +77,6 @@ DOMAIN-WILDCARD,api16-access-ttp*.tiktokpangle-b.us
 DOMAIN-WILDCARD,app-analytics-*.snapchat.com
 DOMAIN-WILDCARD,appanalysis*.banggood.com
 DOMAIN-WILDCARD,apple-*.le.com
-DOMAIN-WILDCARD,apple.com-*.live
 DOMAIN-WILDCARD,asd8900.oss-*.aliyuncs.com
 DOMAIN-WILDCARD,at*.doubanio.com
 DOMAIN-WILDCARD,auth-*.hismarttv.com
