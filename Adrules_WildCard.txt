@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 332
+# DOMAIN-WILDCARD: 334
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -71,6 +71,7 @@ DOMAIN-WILDCARD,api*.amplitude.com
 DOMAIN-WILDCARD,api*.batmobi.net
 DOMAIN-WILDCARD,api*.batmobil.net
 DOMAIN-WILDCARD,api*.bidmachine.io
+DOMAIN-WILDCARD,api*.moengage.com
 DOMAIN-WILDCARD,api-*.bidmachine.io
 DOMAIN-WILDCARD,api-*.hismarttv.com
 DOMAIN-WILDCARD,api16-access-ttp*.tiktokpangle-b.us
@@ -265,6 +266,7 @@ DOMAIN-WILDCARD,s*.skencituer.com
 DOMAIN-WILDCARD,sam*.baby-kingdom.com
 DOMAIN-WILDCARD,same*.stockstar.com
 DOMAIN-WILDCARD,sd.yhzzzs*.com
+DOMAIN-WILDCARD,sdk-*.moengage.com
 DOMAIN-WILDCARD,sensorsdata*.read.duokan.com
 DOMAIN-WILDCARD,servo-report.keepstreams.*
 DOMAIN-WILDCARD,sock*-goguardian.pusher.com
