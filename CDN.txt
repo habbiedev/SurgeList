@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-20T23:23:30.937Z
-# Size: 3403
+# Last Updated: 2025-04-22T15:02:48.967Z
+# Size: 3407
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -56,6 +56,7 @@ files.mastodon.ktachibana.party
 townsquare.media
 cms.therecord.media
 files.smashing.media
+images.github.media
 jssdk.opin.media
 .icon.horse
 assets.buttondown.email
@@ -733,7 +734,6 @@ cdn.builderprofile.aws.dev
 cdn.us-east-1.prod.moon.dubai.aws.dev
 .ipfs.1-2.dev
 runkit-packages-static-executables.com
-.cloudflare-terms-of-service-abuse.com
 .w-credentialless-staticblitz.com
 cdn-a.sonyentertainmentnetwork.com
 .agechecker-northern-apps.com
@@ -1156,6 +1156,7 @@ media.istockphoto.com
 content.invisioncic.com
 media.invisioncic.com
 .intercomcdn.com
+static.hugedomains.com
 media.graphassets.com
 static.gettyimages.com
 media.gettyimages.com
@@ -1804,6 +1805,7 @@ cdn.getkoala.com
 assets.getkirby.com
 geoip-js.com
 maps.geoapify.com
+.scripts.gatorapi.com
 .gammacdn.com
 media.gamestop.com
 assets.frontegg.com
@@ -1832,6 +1834,7 @@ cdn4.edgedatg.com
 cdn3.edgedatg.com
 cdn2.edgedatg.com
 cdn1.edgedatg.com
+vip.dytt-img.com
 .drivecdn.com
 cdn.dribbble.com
 cdn.dnsimple.com
@@ -2619,6 +2622,7 @@ pba.apple.com
 vsmarketplacebadge.apphb.com
 .ahcdn.com
 wwwimages2.adobe.com
+.static-assets.photoshop.adobe.com
 cc-embed.adobe.com
 assets.fonts.adobe.com
 img.3movs.com
