@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 335
+# DOMAIN-WILDCARD: 337
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -15,6 +15,7 @@ DOMAIN-WILDCARD,acr-*-prd.samsungcloud.tv
 DOMAIN-WILDCARD,ad*.ettoday.net
 DOMAIN-WILDCARD,ad*.nexage.com
 DOMAIN-WILDCARD,ad*.on.cc
+DOMAIN-WILDCARD,ad*.zonaplus.tv
 DOMAIN-WILDCARD,ad-*.amazonaws.com
 DOMAIN-WILDCARD,ad-*.appacc.dbankedge.cn
 DOMAIN-WILDCARD,ad.*.xiaomi.com
@@ -307,6 +308,7 @@ DOMAIN-WILDCARD,ulog*.*
 DOMAIN-WILDCARD,ulog*.gifshow.com
 DOMAIN-WILDCARD,ulog*.kwai-pro.com
 DOMAIN-WILDCARD,ulog*.kwaipros.com
+DOMAIN-WILDCARD,ulogs*.ksapisrv.com
 DOMAIN-WILDCARD,union*.365inews.com
 DOMAIN-WILDCARD,us.*.qwadro.com
 DOMAIN-WILDCARD,use-trk*.bluevoox.com
