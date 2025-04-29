@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 337
+# DOMAIN-WILDCARD: 341
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -177,6 +177,7 @@ DOMAIN-WILDCARD,js*.abolezi.com
 DOMAIN-WILDCARD,js.*2023*.live
 DOMAIN-WILDCARD,js.*2023*.xyz
 DOMAIN-WILDCARD,jtbo*.nqxvevk.cn
+DOMAIN-WILDCARD,kix-ulogl*.kwai-pro.com
 DOMAIN-WILDCARD,ks-p2p*pull*com
 DOMAIN-WILDCARD,ky891.oss-*.aliyuncs.com
 DOMAIN-WILDCARD,lively-collect-elb-*.amazonaws.com
@@ -308,6 +309,9 @@ DOMAIN-WILDCARD,ulog*.*
 DOMAIN-WILDCARD,ulog*.gifshow.com
 DOMAIN-WILDCARD,ulog*.kwai-pro.com
 DOMAIN-WILDCARD,ulog*.kwaipros.com
+DOMAIN-WILDCARD,ulog-*.ksapisrv.com
+DOMAIN-WILDCARD,ulog.*.ksapisrv.com
+DOMAIN-WILDCARD,ulog.*.kwai-pro.com
 DOMAIN-WILDCARD,ulogs*.ksapisrv.com
 DOMAIN-WILDCARD,union*.365inews.com
 DOMAIN-WILDCARD,us.*.qwadro.com
