@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-04-29T14:15:14.803Z
-# Size: 3483
+# Last Updated: 2025-04-30T14:25:01.137Z
+# Size: 3547
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -120,6 +120,8 @@ cdn.masto.host
 .usercontent.goog
 .nel.goog
 .ipfs.cyou
+sfiles.cnyes.cool
+cimg.cnyes.cool
 .ymq.cool
 cdn.kinopio.club
 storage.crisp.chat
@@ -137,6 +139,7 @@ cdn.joincommunity.xyz
 .packd.liuxingbaoyu.xyz
 eslint-react.xyz
 storage.withfabric.xyz
+.qiniuyun22.xyz
 cdn.yinghuazy.xyz
 .skyearth8.xyz
 .imgmrplay.xyz
@@ -149,6 +152,7 @@ image.jnislniv.xyz
 .flk-ipfs.xyz
 .zorocdn.xyz
 .pornimg.xyz
+.jstatic.xyz
 .henread.xyz
 .dogehls.xyz
 img.catwvod.xyz
@@ -216,6 +220,7 @@ proxy.joinmastodon.org
 cdn-media-2.freecodecamp.org
 cdn-media-1.freecodecamp.org
 cdn.freecodecamp.org
+embed.culturalspot.org
 .cdn-telegram.org
 files.writefreely.org
 simpleicons.org
@@ -223,8 +228,10 @@ cdn.simpleicons.org
 storage.sciencecast.org
 cdn.sciencecast.org
 .schemastore.org
+.qbittorrent.org
 .stream.publicradio.org
 play.publicradio.org
+ocsp.int-x3.letsencrypt.org
 .getcomposer.org
 .ipfs.genenetwork.org
 app.backinstock.org
@@ -260,6 +267,7 @@ cdn.fosstodon.org
 .cdn.cookielaw.org
 cdn.cocoapods.org
 moderate.cleantalk.org
+.angularjs.org
 images.videolan.org
 static.tronscan.org
 .rollupjs.org
@@ -286,6 +294,8 @@ archive.mozilla.org
 cdn.mathjax.org
 .lsposed.org
 pcz.javidol.org
+.haproxy.org
+.graphql.org
 .f-droid.org
 web-static.archive.org
 image.ap-mail.org
@@ -343,6 +353,7 @@ jaws.pbs.org
 static-assets.npr.org
 bundles.npr.org
 media.npr.org
+cdn.cfr.org
 seal-newyork.bbb.org
 .js.org
 .permaweb.eu.org
@@ -713,6 +724,7 @@ cdn-web.orbstack.dev
 .workers.dev
 .mirrors.utermux.dev
 .skypack.dev
+.angular.dev
 .vercel.dev
 packages-cf.termux.dev
 packages.termux.dev
@@ -795,6 +807,7 @@ telemetry.1passwordservices.com
 static2.sharepointonline.com
 oss-binaries.phusionpassenger.com
 assets4.mist-train-girls.com
+hubspotonwebflow.com
 .googleadservices.com
 .cloudflarestream.com
 pkg.cloudflareclient.com
@@ -830,6 +843,7 @@ irp-cdn.multiscreensite.com
 .js.hubspotfeedback.com
 .howtogeekimages.com
 cache.hackedfreegames.com
+.girlsgogamescdn.com
 images.financemagnates.com
 .customerioforms.com
 imgssl.constantcontact.com
@@ -863,6 +877,7 @@ db.onlinewebfonts.com
 .oaiusercontent.com
 cdn-forum.networklessons.com
 cdn.networklessons.com
+media.nbcconnecticut.com
 image.email.microsoftemail.com
 assets.media-platform.com
 na-library.klarnaservices.com
@@ -910,6 +925,7 @@ media.pointandplace.com
 .notion-static.com
 .agechecker.northern-apps.com
 static.newmobilelife.com
+media.nbclosangeles.com
 assets.nationbuilder.com
 3dna.nationbuilder.com
 .mvnrepository.com
@@ -949,6 +965,7 @@ static.cloudcachetci.com
 .cdn-centaurus.com
 .cbsnewsstatic.com
 files.buildwithfern.com
+.aweber-static.com
 .cdn.autoevolution.com
 .assets-yammer.com
 images.arigatotravel.com
@@ -1283,6 +1300,8 @@ static-web-prod.skillshare.com
 .similarcdn.com
 .shopifycdn.com
 .sfdcstatic.com
+pics2.serviporno.com
+pics.serviporno.com
 .cdn.serverable.com
 .sentry-cdn.com
 assets.sendinblue.com
@@ -1312,6 +1331,7 @@ static-www.onlyoffice.com
 .netdna-ssl.com
 cdn.nerdschalk.com
 cdn.app.neononepay.com
+media.nbcnewyork.com
 media.nationwide.com
 tags.nationwide.com
 .myspacecdn.com
@@ -1379,6 +1399,7 @@ fonts.googleapis.com
 chart.googleapis.com
 ajax.googleapis.com
 sync.getpublica.com
+assets.fxnetworks.com
 euc-widget.freshworks.com
 widget.freshworks.com
 dam.freshworks.com
@@ -1402,6 +1423,7 @@ external-content.duckduckgo.com
 icons.duckduckgo.com
 .cdn.discordapp.com
 assets.dictionary.com
+.descopecdn.com
 cdn.delight-vr.com
 static-beta.curseforge.com
 images.crunchbase.com
@@ -1486,6 +1508,7 @@ ocsp.usertrust.com
 crt.usertrust.com
 crl.usertrust.com
 cdn.up-timely.com
+.ucloud133.com
 .ttwstatic.com
 cdn.ttgtmedia.com
 tag.trovo-tag.com
@@ -1530,11 +1553,12 @@ sigma9.scpwikicn.com
 data.schemaapp.com
 cdn.schemaapp.com
 assets.scaleflex.com
-media-cldnry.s-nbcnews.com
+.s-nbcnews.com
 .runkitcdn.com
 cdn.royaleapi.com
 img.riskified.com
 img.represent.com
+.rawgithub.com
 .siteintercept.qualtrics.com
 jfe-cdn.qualtrics.com
 js.qualified.com
@@ -1614,6 +1638,7 @@ widget.gotolstoy.com
 play.gotolstoy.com
 .assets.getpocket.com
 i.geekflare.com
+.gannetcdn.com
 mosaic-blender.fxtwitter.com
 mosaic.fxtwitter.com
 webp.frostming.com
@@ -1626,6 +1651,7 @@ cdn.fontshare.com
 .fncstatic.com
 .fiverrcdn.com
 static.filehorse.com
+.feedercdn.com
 .fastlycdn.com
 cdn.evbstatic.com
 static-assets-prod.epicgames.com
@@ -1790,6 +1816,8 @@ static.namebeta.com
 .myavlive.com
 .muscache.com
 .msftncsi.com
+cdnl.moviefap.com
+img.moviefap.com
 .sny.monosnap.com
 momentjs.com
 launcher-files.modrinth.com
@@ -1826,6 +1854,7 @@ img.jsdelivr.com
 .api.instabug.com
 img.informer.com
 .cdn.imghaste.com
+cdnc.imagefap.com
 .imagebam.com
 static-00.iconduck.com
 .ibyteimg.com
@@ -1990,6 +2019,7 @@ cdn.vidyard.com
 .userapi.com
 static.uptimia.com
 cdn.uptimia.com
+tn.upornia.com
 static-overlay.ubisoft.com
 ubistatic2-a.ubisoft.com
 ubistatic-a.ubisoft.com
@@ -2036,6 +2066,8 @@ static.rakuten.com
 cdn.quadpay.com
 .pxlecdn.com
 app-static.eu.posthog.com
+cdn77-t.pornoxo.com
+cdn77.pornoxo.com
 m.porn3dx.com
 pbcdn1.podbean.com
 www.pngmart.com
@@ -2183,6 +2215,7 @@ static-ca-cdn.eporner.com
 cdn.embedly.com
 .els-cdn.com
 .ebayimg.com
+static.drtuber.com
 static.doujins.com
 cdn.docsbot.com
 global.divhunt.com
@@ -2266,6 +2299,9 @@ cdn.weglot.com
 .vx-cdn.com
 image.vuukle.com
 cdn.vuukle.com
+mcdnds.vrporn.com
+mcdns.vrporn.com
+mcdn.vrporn.com
 marketplace-web-assets.vinted.com
 static-assets.vinted.com
 static.vinted.com
@@ -2337,6 +2373,7 @@ cdn.redhat.com
 embed.reddit.com
 .rdtcdn.com
 .rbxcdn.com
+.raxcdn.com
 .rawgit.com
 sdk.qikify.com
 .bugly.qcloud.com
@@ -2502,6 +2539,14 @@ www.bbthat.com
 assets.apnews.com
 dims.apnews.com
 .aolcdn.com
+preview.anysex.com
+static.anysex.com
+vcdn.anysex.com
+i4.anysex.com
+i3.anysex.com
+i2.anysex.com
+i1.anysex.com
+i.anysex.com
 code.buywithprime.amazon.com
 d2c.aws.amazon.com
 static.ahrefs.com
@@ -2572,6 +2617,7 @@ static.music.com
 cdn.music.com
 assets.monei.com
 .mlcdn.com
+static.lingq.com
 cdn.lihkg.com
 static-exp3.licdn.com
 static-exp2.licdn.com
@@ -2639,6 +2685,7 @@ static.fc2cn.com
 cdn.faire.com
 img.etimg.com
 dz2cdn1.dzone.com
+.drtst.com
 images.drata.com
 cdn.drata.com
 static.deepl.com
@@ -2722,6 +2769,9 @@ assets.time.com
 static.seel.com
 cdn.sedo.com
 .www.s81c.com
+pictures-cdn.porn.com
+assets-cdn.porn.com
+uptn.nv7s.com
 sdata.ndtv.com
 edata.ndtv.com
 drop.ndtv.com
@@ -2737,6 +2787,7 @@ images.kick.com
 files.kick.com
 clips.kick.com
 assets.kagi.com
+social-reaction-api.hk01.com
 cdn.hk01.com
 assets.habr.com
 cms-cdn.goat.com
@@ -2757,7 +2808,12 @@ g-static.ap4r.com
 accounts-cdn.9gag.com
 img.4khd.com
 oss.1p3a.com
+cdn.you.com
 pbc.wsj.com
+scache2.vzw.com
+scache1.vzw.com
+scache.vzw.com
+ss7.vzw.com
 platform.vox.com
 .cdn.ubi.com
 embed.ted.com
@@ -2767,6 +2823,8 @@ static02.nyt.com
 static01.nyt.com
 mwcm.nyt.com
 g1.nyt.com
+images-sports.now.com
+images-news.now.com
 tags.nba.com
 cdn.nba.com
 sp.nba.com
@@ -2780,6 +2838,7 @@ media.kit.com
 ovp.itv.com
 assets.fe.itv.com
 sm.ign.com
+widgets.coaches.gnc.com
 certona.gap.com
 m3.gab.com
 static-media.fox.com
@@ -2834,6 +2893,7 @@ cdn.mcr.ea.com
 pl.ea.com
 consent.dw.com
 static.dw.com
+evt.24.com
 .pixiv.cat
 oss.moe.cat
 pics.mf8.biz
@@ -2869,7 +2929,9 @@ video.bsky.app
 .web.app
 .csb.app
 cdn.7tv.app
+cdn.24.co.za
 .ipfs.yt
+s.pacn.ws
 .imageshack.us
 cdn.donmai.us
 us01ccistatic.zoom.us
@@ -3227,6 +3289,7 @@ cdn.channel.io
 cf.channel.io
 cdn.builder.io
 web-cdn.bitrise.io
+.angular.io
 app-api.vidjet.io
 assets.upload.io
 js.upload.io
@@ -3321,6 +3384,7 @@ adkit.9pub.io
 medium-media.vgm.io
 .npm.io
 .ipfs.mrh.io
+marfeelexperimentsexperienceengine.mrf.io
 .k8s.io
 .gravity.jup.io
 npm.jsr.io
@@ -3492,8 +3556,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-04-23T18:57:14.218Z
-# Size: 1098
+# Last Updated: 2025-04-30T14:25:01.137Z
+# Size: 1100
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3548,6 +3612,7 @@ downloads.wordpress.org
 releases.whatpulse.org
 ftp.ubuntu-tw.org
 mirrors.rpmfusion.org
+mirrorbits.lineageos.org
 ftp.harukasan.org
 mirror.apache-kr.org
 .tmpfiles.org
@@ -4286,6 +4351,7 @@ cpan.pair.com
 cdn.kagi.com
 .mirror.iweb.com
 edgedl.me.gvt1.com
+download.cnet.com
 dlcdnets.asus.com
 .files.1drv.com
 .cdn.ubi.com
