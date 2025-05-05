@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 340
+# DOMAIN-WILDCARD: 341
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -122,6 +122,7 @@ DOMAIN-WILDCARD,datacollector-*.dt.dbankcloud.cn
 DOMAIN-WILDCARD,datacollector-*.dt.hicloud.com
 DOMAIN-WILDCARD,device-metrics-*.amazon.com
 DOMAIN-WILDCARD,device-metrics-us*.amazon.com
+DOMAIN-WILDCARD,discovery-ios-*.ertelecom.ru
 DOMAIN-WILDCARD,display-ad-*.kgslb.com
 DOMAIN-WILDCARD,dj1*.online
 DOMAIN-WILDCARD,dm*.yxlady.com
