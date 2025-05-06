@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 341
+# DOMAIN-WILDCARD: 343
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -76,6 +76,7 @@ DOMAIN-WILDCARD,api*.moengage.com
 DOMAIN-WILDCARD,api-*.bidmachine.io
 DOMAIN-WILDCARD,api-*.hismarttv.com
 DOMAIN-WILDCARD,api16-access-ttp*.tiktokpangle-b.us
+DOMAIN-WILDCARD,apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com
 DOMAIN-WILDCARD,app-analytics-*.snapchat.com
 DOMAIN-WILDCARD,appanalysis*.banggood.com
 DOMAIN-WILDCARD,apple-*.le.com
@@ -115,6 +116,7 @@ DOMAIN-WILDCARD,counter*-yadro*-ru.unblocked.lol
 DOMAIN-WILDCARD,counter*.stat.ovh
 DOMAIN-WILDCARD,creative*.bidease.com
 DOMAIN-WILDCARD,cs*.mp3bars.com
+DOMAIN-WILDCARD,customerevents.us-east-*.internal.dradis.netflix.com
 DOMAIN-WILDCARD,d*.ruiwen.com
 DOMAIN-WILDCARD,d*.xinshipu.com
 DOMAIN-WILDCARD,datacollect*.abtasty.com
