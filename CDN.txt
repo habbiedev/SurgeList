@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-05-09T14:52:57.882Z
-# Size: 3558
+# Last Updated: 2025-05-11T16:31:12.223Z
+# Size: 3566
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -763,6 +763,7 @@ cdn.quickemailverification.com
 .observableusercontent.com
 cdn.minecraft-server-list.com
 .dynamic-static-assets.com
+.thesourcemediaassets.com
 .1passwordusercontent.com
 .sciencedirectassets.com
 loader.mantis-intelligence.com
@@ -1753,6 +1754,7 @@ embed.typeform.com
 bundle.trysavvy.com
 flows.trysavvy.com
 .tpdfiles.com
+static.touhoudb.com
 cdn.tinypass.com
 .tildacdn.com
 platform.theverge.com
@@ -2136,6 +2138,7 @@ assets.mailgun.com
 .lzzyimg.com
 .lulucdn.com
 img.ltyears.com
+aurora-customization-usw2.lithium.com
 .kym-cdn.com
 static-forms.klaviyo.com
 static.klaviyo.com
@@ -2469,6 +2472,7 @@ assets.kraken.com
 brand-sdk.kmsmep.com
 js.klarna.com
 cdn.kinsta.com
+assets.khoros.com
 .app.khoros.com
 kdata1.com
 .jwpsrv.com
@@ -3502,6 +3506,10 @@ v.w-x.co
 s.w-x.co
 image.ibb.co
 i.ibb.co
+.cdn-lfs-us-1.hf.co
+.cdn-lfs-eu-1.hf.co
+.cdn-lfs.hf.co
+.cas-bridge.xethub.hf.co
 .szjal.cn
 .applicationinsights.azure.cn
 app.groove.cm
@@ -3567,8 +3575,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-05-05T13:09:49.859Z
-# Size: 1149
+# Last Updated: 2025-05-11T10:26:32.422Z
+# Size: 1150
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3580,6 +3588,7 @@ rules.ac
 .kali.download
 mirror.kumi.systems
 mirrors.gethosted.online
+dl.thorium.rocks
 jing.rocks
 .repo.jing.rocks
 .cloud-object-storage.appdomain.cloud
