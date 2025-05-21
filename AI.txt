@@ -41,6 +41,7 @@ browser-intake-datadoghq.com
 cdn.usefathom.com
 gateway.ai.cloudflare.com
 google.ws
+jules.google.com
 o33249.ingest.sentry.io
 openaiapi-site.azureedge.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
