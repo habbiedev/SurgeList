@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-05-20T13:32:56.283Z
-# Size: 3575
+# Last Updated: 2025-05-21T05:19:03.637Z
+# Size: 3577
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -78,6 +78,7 @@ turbo.build
 .safebrowsing.apple
 img.itch.zone
 .ipfs.litnet.work
+static.frame.work
 tn.txxx.tube
 js.txxx.tube
 ipfs.d.tube
@@ -3002,6 +3003,7 @@ app.moegirl.tw
 cf.shopee.tw
 megapx-assets.dcard.tw
 .pimg.tw
+news-data.pts.org.tw
 cw-image-resizer.cwg.tw
 cdn.ready-market.com.tw
 avatar2.bahamut.com.tw
@@ -3585,8 +3587,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-05-16T06:49:32.679Z
-# Size: 1149
+# Last Updated: 2025-05-21T18:41:41.847Z
+# Size: 1153
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3760,6 +3762,7 @@ libraries.minecraft.net
 textures.minecraft.net
 .download.minecraft.net
 mirror.metrocast.net
+b2.mcarchive.net
 mirror.low-orbit.net
 ppa.launchpad.net
 .debian.map.fastlydns.net
@@ -3967,6 +3970,7 @@ download-cdn.jetbrains.com
 download.jetbrains.com
 cdn.hyperbeam.com
 .releases.hashicorp.com
+data.gameflare.com
 fastly-download.epicgames.com
 download4.epicgames.com
 download3.epicgames.com
@@ -4366,6 +4370,7 @@ download.mxfast.com
 redstone-launcher.mojang.com
 piston-meta.mojang.com
 piston-data.mojang.com
+launcher.mojang.com
 iterm2.com
 .mirrors.hoobly.com
 download.tensorflow.google.com
@@ -4413,6 +4418,7 @@ cdn.kagi.com
 .mirror.iweb.com
 edgedl.me.gvt1.com
 download.cnet.com
+cdn.azul.com
 dlcdnets.asus.com
 .files.1drv.com
 .cdn.ubi.com
