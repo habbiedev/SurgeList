@@ -1,10 +1,15 @@
-# DOMAIN-WILDCARD: 347
+# DOMAIN-WILDCARD: 352
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
 DOMAIN-WILDCARD,*.exaapi.com
 DOMAIN-WILDCARD,*bmwmini.tt.omtrdc.net
 DOMAIN-WILDCARD,*bmwofnorthamericallc.tt.omtrdc.net
+DOMAIN-WILDCARD,*cdn-settings.appsflyersdk.com
+DOMAIN-WILDCARD,*conversions.appsflyersdk.com
+DOMAIN-WILDCARD,*inapps.appsflyersdk.com
+DOMAIN-WILDCARD,*launches.appsflyersdk.com
+DOMAIN-WILDCARD,*register.appsflyersdk.com
 DOMAIN-WILDCARD,163487*.qmgmw.com
 DOMAIN-WILDCARD,a*.chajiaotong.com
 DOMAIN-WILDCARD,aan.amazon.*
