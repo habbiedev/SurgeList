@@ -1,8 +1,0 @@
-payload:
-    - DOMAIN-SUFFIX,emby.aca.best
-    - DOMAIN-SUFFIX,stream1.misakaf.org
-    - DOMAIN-SUFFIX,stream2.misakaf.org
-    - DOMAIN-SUFFIX,stream3.misakaf.org
-    - DOMAIN-SUFFIX,stream4.misakaf.org
-    - IP-CIDR,188.172.228.49/32,no-resolve
-    - IP-CIDR,202.61.255.248/32,no-resolve
