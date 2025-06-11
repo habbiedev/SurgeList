@@ -1,11 +1,11 @@
 #!name=Local DNS Mapping
 
-
 [Host]
+136004-habbie.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
 updates.cdn-apple.com = updates.cdn-apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com = hls.itunes.apple.com.mwcname.com
 osxapps.itunes.apple.com = appledownload.qtlcdn.com
-136004-habbie.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
+*.habbie.top = server:quic://136004-habbie.alidns.com:853
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/alibaba.conf = server:quic://136004-habbie.alidns.com:853
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/tencent.conf = server:119.29.29.29,119.28.28.28
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bilibili.conf = server:119.29.29.29,119.28.28.28
