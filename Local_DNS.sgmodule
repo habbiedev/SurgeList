@@ -4,9 +4,9 @@
 updates.cdn-apple.com = updates.cdn-apple.com.download.ks-cdn.com
 iosapps.itunes.apple.com = hls.itunes.apple.com.mwcname.com
 osxapps.itunes.apple.com = appledownload.qtlcdn.com
-RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/alibaba.conf = server:223.5.5.5,223.6.6.6
-RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/tencent.conf = server:119.29.29.29,119.28.28.28
-RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bilibili.conf = server:119.29.29.29,119.28.28.28
-RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/xiaomi.conf = server:119.29.29.29,119.28.28.28
-RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bytedance.conf = server:180.184.2.2,180.184.1.1
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/alibaba.conf = server:223.5.5.5
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/tencent.conf = server:119.29.29.29
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bilibili.conf = server:119.29.29.29
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/xiaomi.conf = server:119.29.29.29
+RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/bytedance.conf = server:180.184.2.2
 RULE-SET:https://ruleset.skk.moe/Modules/Rules/sukka_local_dns_mapping/baidu.conf = server:180.76.76.76
