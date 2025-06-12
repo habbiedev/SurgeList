@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-06-10T14:53:53.848Z
-# Size: 3608
+# Last Updated: 2025-06-12T15:35:08.020Z
+# Size: 3610
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -590,6 +590,8 @@ components.trynow.net
 .sftcdn.net
 .rspcdn.net
 .poecdn.net
+maptile.osmand.net
+data.osmand.net
 attachments.office.net
 .nel.measure.office.net
 support.content.office.net
@@ -3618,8 +3620,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-06-07T08:47:22.349Z
-# Size: 1159
+# Last Updated: 2025-06-12T15:35:08.020Z
+# Size: 1167
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3799,6 +3801,8 @@ mirror.metrocast.net
 b2.mcarchive.net
 mirror.low-orbit.net
 ppa.launchpad.net
+ota-cache1.googlezip.net
+ota.googlezip.net
 .debian.map.fastlydns.net
 .mirror.colo-serv.net
 pf-cdn-content-prod.azureedge.net
@@ -3852,6 +3856,12 @@ edge.steam-dns.top.comcast.net
 mirror.as43289.net
 ftp.twaren.net
 share.riseup.net
+download.osmand.net
+dl9.osmand.net
+dl8.osmand.net
+dl4.osmand.net
+dl3.osmand.net
+dl2.osmand.net
 az764295.vo.msecnd.net
 mirror-hk.koddos.net
 mirror.koddos.net
