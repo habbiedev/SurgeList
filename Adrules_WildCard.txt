@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 356
+# DOMAIN-WILDCARD: 357
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -233,6 +233,7 @@ DOMAIN-WILDCARD,mobileanalytics.*.amazonaws.com
 DOMAIN-WILDCARD,mon*-*.tiktokv.com
 DOMAIN-WILDCARD,mon*-*.tiktokv.us
 DOMAIN-WILDCARD,mon*-misc-lf.fqnovel.com
+DOMAIN-WILDCARD,mon*-misc.fqnovel.com
 DOMAIN-WILDCARD,mon-*.lemon8-app.com
 DOMAIN-WILDCARD,mon-*.lemon8-app.us
 DOMAIN-WILDCARD,mon-*.tiktokv.com
