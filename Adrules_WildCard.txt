@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 355
+# DOMAIN-WILDCARD: 354
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -71,7 +71,6 @@ DOMAIN-WILDCARD,analytics-*-nfl.yinzcam.com
 DOMAIN-WILDCARD,analytics-ad-*.kgslb.com
 DOMAIN-WILDCARD,analytics-rollout-*.amazonaws.com
 DOMAIN-WILDCARD,analytics.*.sky.com
-DOMAIN-WILDCARD,analyzer*.fc2.com
 DOMAIN-WILDCARD,api*.amplitude.com
 DOMAIN-WILDCARD,api*.batmobi.net
 DOMAIN-WILDCARD,api*.batmobil.net
