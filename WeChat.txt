@@ -1,6 +1,3 @@
-DOMAIN-KEYWORD,wechatpay,DIRECT
-DOMAIN,epay.ahrcu.com,DIRECT
-DOMAIN,mixpay.wechat.com,DIRECT  
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,btrace.qq.com
 DOMAIN,dldir1.qq.com
