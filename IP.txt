@@ -6,10 +6,6 @@ DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,bilibili.com
 IP-CIDR,203.107.1.0/24,no-resolve
-DOMAIN-SUFFIX,bilivideo.com,DIRECT
-DOMAIN-SUFFIX,akamaized.net,DIRECT
-DOMAIN-SUFFIX,hdslb.com,DIRECT
-DOMAIN-SUFFIX,szbdyd.com,DIRECT
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibocdn.com
@@ -41,8 +37,6 @@ DOMAIN-KEYWORD,normal-c-lq
 DOMAIN-KEYWORD,normal-lq
 DOMAIN-KEYWORD,search-quic-lq
 DOMAIN-KEYWORD,search-lq
-DOMAIN-SUFFIX,zijieapi.com,DIRECT
-DOMAIN-SUFFIX,ecombdapi.com,DIRECT
 DOMAIN-KEYWORD,-normal-hl
 DOMAIN-KEYWORD,-normal-c-hl
 DOMAIN-KEYWORD,-core-c-hl
@@ -142,7 +136,6 @@ DOMAIN,api.coolapk.com
 DOMAIN,api2.coolapk.com
 DOMAIN,api.taptapdada.com
 DOMAIN,god.gameyw.netease.com
-DOMAIN-SUFFIX,huya.com,DIRECT
 DOMAIN-SUFFIX,dongqiudi.com
 DOMAIN,ngabbs.com
 DOMAIN,bbs.nga.cn
@@ -180,19 +173,6 @@ IP-CIDR,47.100.127.239/32,no-resolve
 DOMAIN-SUFFIX,lofter.com
 DOMAIN,yaolu.yuedu.163.com
 DOMAIN-SUFFIX,lf127.net,DIRECT
-DOMAIN-SUFFIX,hls3-akm.douyucdn.cn,DIRECT
-DOMAIN-SUFFIX,hlsa-akm.douyucdn.cn,DIRECT
-DOMAIN-SUFFIX,hls1a-akm.douyucdn.cn,DIRECT
-DOMAIN-SUFFIX,hls3a-akm.douyucdn.cn,DIRECT
-DOMAIN-SUFFIX,vplay1a.douyucdn.cn,DIRECT
-DOMAIN-SUFFIX,vplay3a.douyucdn.cn,DIRECT
-DOMAIN-SUFFIX,ws-tct.douyucdn.cn,DIRECT
-DOMAIN-SUFFIX,akm-tct.douyucdn.cn,DIRECT
-DOMAIN-SUFFIX,tx2play1.douyucdn.cn,DIRECT
-DOMAIN-SUFFIX,tc-tct1.douyucdn.cn,DIRECT
-DOMAIN-SUFFIX,wsproxy.douyu.com,DIRECT
-DOMAIN-SUFFIX,danmuproxy.douyu.com,DIRECT
-DOMAIN-SUFFIX,img.douyucdn.cn,DIRECT
 DOMAIN-SUFFIX,douyucdn.cn
 DOMAIN-SUFFIX,douyu.com
 DOMAIN,bbs-api.mihoyo.com
@@ -206,8 +186,6 @@ DOMAIN,api.xiaoheihe.cn
 DOMAIN,y.qq.com,DIRECT
 DOMAIN-SUFFIX,y.qq.com
 DOMAIN,zonai.skland.com
-DOMAIN,china-img.soulapp.cn,DIRECT
-DOMAIN,img.soulapp.cn,DIRECT
 DOMAIN-SUFFIX,soulapp.cn
 DOMAIN,druidv6.if.qidian.com
 DOMAIN,ptlogin6.qidian.com
