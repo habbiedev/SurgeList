@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 355
+# DOMAIN-WILDCARD: 356
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -160,6 +160,7 @@ DOMAIN-WILDCARD,geotargetly-api-*.com
 DOMAIN-WILDCARD,gscounters.*.gigya.com
 DOMAIN-WILDCARD,gtlpa*.com
 DOMAIN-WILDCARD,hads*s.com
+DOMAIN-WILDCARD,hba*.hepsiburada.com
 DOMAIN-WILDCARD,hn-ping*.hashnode.com
 DOMAIN-WILDCARD,host*.carl-ras.dk
 DOMAIN-WILDCARD,host*.ncoi.nl
