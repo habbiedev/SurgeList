@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 357
+# DOMAIN-WILDCARD: 358
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -134,6 +134,7 @@ DOMAIN-WILDCARD,display-ad-*.kgslb.com
 DOMAIN-WILDCARD,dj1*.online
 DOMAIN-WILDCARD,dm*.yxlady.com
 DOMAIN-WILDCARD,dn*.ixinwei.com
+DOMAIN-WILDCARD,ecommerce-events*.adscale.com
 DOMAIN-WILDCARD,ej1*.online
 DOMAIN-WILDCARD,eum*.instana.io
 DOMAIN-WILDCARD,event.*.shoplive.cloud
