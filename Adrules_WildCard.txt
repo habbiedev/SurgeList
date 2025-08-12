@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 358
+# DOMAIN-WILDCARD: 359
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -95,6 +95,7 @@ DOMAIN-WILDCARD,batchlogging*-noneu.truecaller.com
 DOMAIN-WILDCARD,bdlm*.hc360.com
 DOMAIN-WILDCARD,beacon-*.helpscout.net
 DOMAIN-WILDCARD,beacons*.gvt3.com
+DOMAIN-WILDCARD,beehiiv-adnetwork-production.s*.amazonaws.com
 DOMAIN-WILDCARD,bi-eventtracker-*.amazonaws.com
 DOMAIN-WILDCARD,bjkedv*.xyz
 DOMAIN-WILDCARD,bjsvp*.space
