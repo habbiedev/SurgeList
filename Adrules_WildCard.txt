@@ -1,9 +1,10 @@
-# DOMAIN-WILDCARD: 359
+# DOMAIN-WILDCARD: 360
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
 DOMAIN-WILDCARD,*-datareceiver.aki-game.net
 DOMAIN-WILDCARD,*.exaapi.com
+DOMAIN-WILDCARD,*adapt-beacon.awsprodops.movetv.com
 DOMAIN-WILDCARD,*cdn-settings.appsflyersdk.com
 DOMAIN-WILDCARD,*conversions.appsflyersdk.com
 DOMAIN-WILDCARD,*inapps.appsflyersdk.com
