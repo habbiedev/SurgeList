@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 360
+# DOMAIN-WILDCARD: 361
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -224,6 +224,7 @@ DOMAIN-WILDCARD,mcs-*.lemon8-app.com
 DOMAIN-WILDCARD,mcs-*.lemon8-app.us
 DOMAIN-WILDCARD,mcs-*.tiktok.com
 DOMAIN-WILDCARD,mcs-va-*.tiktokv.com
+DOMAIN-WILDCARD,mcs.*.tiktok.com
 DOMAIN-WILDCARD,mcs.*.tiktokv.com
 DOMAIN-WILDCARD,mediate-ios-*.hyprmx.com
 DOMAIN-WILDCARD,metric*.rediff.com
