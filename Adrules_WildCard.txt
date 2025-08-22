@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 361
+# DOMAIN-WILDCARD: 363
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -88,6 +88,7 @@ DOMAIN-WILDCARD,apple-*.le.com
 DOMAIN-WILDCARD,applog*.matrix.easebar.com
 DOMAIN-WILDCARD,asd8900.oss-*.aliyuncs.com
 DOMAIN-WILDCARD,at*.doubanio.com
+DOMAIN-WILDCARD,attr-logs.*.amazonaws.com
 DOMAIN-WILDCARD,auth-*.hismarttv.com
 DOMAIN-WILDCARD,ax.*.ifeng.com
 DOMAIN-WILDCARD,banner.*.tccapis.com
@@ -139,6 +140,7 @@ DOMAIN-WILDCARD,dn*.ixinwei.com
 DOMAIN-WILDCARD,ecommerce-events*.adscale.com
 DOMAIN-WILDCARD,ej1*.online
 DOMAIN-WILDCARD,eum*.instana.io
+DOMAIN-WILDCARD,event.*.karrotmarket.com
 DOMAIN-WILDCARD,event.*.shoplive.cloud
 DOMAIN-WILDCARD,events*.cre.ma
 DOMAIN-WILDCARD,events-*.op.hicloud.com
