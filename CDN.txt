@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2025-08-22T17:28:06.359Z
-# Size: 3838
+# Last Updated: 2025-08-23T13:15:10.392Z
+# Size: 3841
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -156,6 +156,7 @@ domain.expiring-soon.xyz
 .mirror-media.xyz
 .packd.liuxingbaoyu.xyz
 eslint-react.xyz
+beta.eslint-react.xyz
 storage.withfabric.xyz
 .qiniuyun22.xyz
 cdn.yinghuazy.xyz
@@ -296,6 +297,8 @@ cdn.fosstodon.org
 moderate.cleantalk.org
 .angularjs.org
 images.videolan.org
+static.tvtropes.org
+assets.tvtropes.org
 static.tronscan.org
 cdn.tronscan.org
 static.spigotmc.org
@@ -3849,8 +3852,8 @@ rules.ac
 
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2025-08-17T09:04:40.449Z
-# Size: 1176
+# Last Updated: 2025-08-23T13:15:10.392Z
+# Size: 1178
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3976,6 +3979,7 @@ downloads.xiph.org
 .pypi.org
 ftp.ktug.org
 cdimage.kali.org
+archive.kali.org
 http.kali.org
 download.gimp.org
 tug.ctan.org
@@ -4240,6 +4244,7 @@ amupdatedl2.microsoft.com
 amupdatedl.microsoft.com
 packages.microsoft.com
 cdn.winget.microsoft.com
+.update.microsoft.com
 .download.prss.microsoft.com
 msdl.microsoft.com
 .delivery.mp.microsoft.com
