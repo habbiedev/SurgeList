@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 364
+# DOMAIN-WILDCARD: 366
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -115,9 +115,11 @@ DOMAIN-WILDCARD,collect-elb-*.amazonaws.com
 DOMAIN-WILDCARD,collect-v*.51.la
 DOMAIN-WILDCARD,collector*.ex.co
 DOMAIN-WILDCARD,collector-*.luigisbox.com
+DOMAIN-WILDCARD,collector-*.protechts.net
 DOMAIN-WILDCARD,collector-*.px-cdn.net
 DOMAIN-WILDCARD,collector-*.px-client.net
 DOMAIN-WILDCARD,collector-*.px-cloud.net
+DOMAIN-WILDCARD,collector-*.pxchk.net
 DOMAIN-WILDCARD,collector-*.tvsquared.com
 DOMAIN-WILDCARD,collector-*.us.tvsquared.com
 DOMAIN-WILDCARD,counter*-yadro*-ru.unblocked.lol
