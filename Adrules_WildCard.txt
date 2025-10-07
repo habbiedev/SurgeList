@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 368
+# DOMAIN-WILDCARD: 369
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -251,6 +251,7 @@ DOMAIN-WILDCARD,mssdk*.capcutapi.com
 DOMAIN-WILDCARD,mssdk*.zijieapi.com
 DOMAIN-WILDCARD,n*adserv.com
 DOMAIN-WILDCARD,n*adserv.xyz
+DOMAIN-WILDCARD,nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi
 DOMAIN-WILDCARD,opnked*.xyz
 DOMAIN-WILDCARD,orderana*.spankbang.com
 DOMAIN-WILDCARD,p*-ad-sign.byteimg.com
