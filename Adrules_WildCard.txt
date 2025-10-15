@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 370
+# DOMAIN-WILDCARD: 360
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -219,7 +219,6 @@ DOMAIN-WILDCARD,logs-*.rebxgame.com
 DOMAIN-WILDCARD,logservice-*.platform.dbankcloud.cn
 DOMAIN-WILDCARD,lt*.tritondigital.com
 DOMAIN-WILDCARD,maas-*.phunware.com
-DOMAIN-WILDCARD,mads*z.com
 DOMAIN-WILDCARD,mapi-log.qoo*.jp
 DOMAIN-WILDCARD,marketplace-*.hyprmx.com
 DOMAIN-WILDCARD,matomo.*.vn
@@ -234,7 +233,6 @@ DOMAIN-WILDCARD,mcs.*.tiktokv.com
 DOMAIN-WILDCARD,mediate-ios-*.hyprmx.com
 DOMAIN-WILDCARD,metric*.rediff.com
 DOMAIN-WILDCARD,mgbsdk*.matrix.easebar.com
-DOMAIN-WILDCARD,mistat.*.xiaomi.com
 DOMAIN-WILDCARD,mob*.novanewsapp.com
 DOMAIN-WILDCARD,mobiadvert*.livesportmedia.eu
 DOMAIN-WILDCARD,mobileanalytics.*.amazonaws.com
@@ -250,8 +248,6 @@ DOMAIN-WILDCARD,mon-va*.capcutapi.com
 DOMAIN-WILDCARD,ms*.applvn.com
 DOMAIN-WILDCARD,mssdk*.capcutapi.com
 DOMAIN-WILDCARD,mssdk*.zijieapi.com
-DOMAIN-WILDCARD,n*adserv.com
-DOMAIN-WILDCARD,n*adserv.xyz
 DOMAIN-WILDCARD,nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi
 DOMAIN-WILDCARD,opnked*.xyz
 DOMAIN-WILDCARD,orderana*.spankbang.com
@@ -260,7 +256,6 @@ DOMAIN-WILDCARD,p26.gejulm*.com
 DOMAIN-WILDCARD,p2pup*.gamedl.qq.com
 DOMAIN-WILDCARD,pangolin-sdk-toutiao*.com
 DOMAIN-WILDCARD,pijama.*.elasticbeanstalk.com
-DOMAIN-WILDCARD,ping*.qq.com
 DOMAIN-WILDCARD,piwik.*.vn
 DOMAIN-WILDCARD,pixel*.production-public.tubi.io
 DOMAIN-WILDCARD,pixel-*.convertagain.net
@@ -270,10 +265,7 @@ DOMAIN-WILDCARD,player-feedback*.glomex.*
 DOMAIN-WILDCARD,polaris*-normal-*.zijieapi.com
 DOMAIN-WILDCARD,prebid-*.rubiconproject.com
 DOMAIN-WILDCARD,prebid-cache*.ifunny.co
-DOMAIN-WILDCARD,prod.*.analytics.console.aws.a2z.com
-DOMAIN-WILDCARD,prod.*.publishers.advertising.a2z.com
 DOMAIN-WILDCARD,production-adserver-*.amazonaws.com
-DOMAIN-WILDCARD,promo-*.vercel.app
 DOMAIN-WILDCARD,px*.mediahills.ru
 DOMAIN-WILDCARD,pxl-*.ozone.ru
 DOMAIN-WILDCARD,qn-*pcdn.cdn.huya.com
@@ -313,7 +305,6 @@ DOMAIN-WILDCARD,stats2.*.fdnames.com
 DOMAIN-WILDCARD,stlog*-local.kakao.com
 DOMAIN-WILDCARD,t*.playdigo.live
 DOMAIN-WILDCARD,t*.zcvh.net
-DOMAIN-WILDCARD,tblog-*.kgslb.com
 DOMAIN-WILDCARD,telemetry*.transcend.io
 DOMAIN-WILDCARD,telemetry.*.pvp.net
 DOMAIN-WILDCARD,thezbpe5*.xyz
@@ -347,7 +338,6 @@ DOMAIN-WILDCARD,us.*.qwadro.com
 DOMAIN-WILDCARD,use-trk*.bluevoox.com
 DOMAIN-WILDCARD,util-*.simply-hentai.com
 DOMAIN-WILDCARD,v*-ad.video.yximgs.com
-DOMAIN-WILDCARD,v*.denakop.com
 DOMAIN-WILDCARD,vns86.oss-*.aliyuncs.com
 DOMAIN-WILDCARD,w*.*skwai.com
 DOMAIN-WILDCARD,widgets.*.webengage.com
