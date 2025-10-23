@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 371
+# DOMAIN-WILDCARD: 372
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -223,6 +223,7 @@ DOMAIN-WILDCARD,maas-*.phunware.com
 DOMAIN-WILDCARD,mads*z.com
 DOMAIN-WILDCARD,mapi-log.qoo*.jp
 DOMAIN-WILDCARD,marketplace-*.hyprmx.com
+DOMAIN-WILDCARD,matomo-demo-*.amazonaws.com
 DOMAIN-WILDCARD,matomo.*.vn
 DOMAIN-WILDCARD,mautic.*.vn
 DOMAIN-WILDCARD,mcdp-*.outbrain.com
