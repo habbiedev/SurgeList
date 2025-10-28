@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 372
+# DOMAIN-WILDCARD: 373
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -131,6 +131,7 @@ DOMAIN-WILDCARD,cs*.mp3bars.com
 DOMAIN-WILDCARD,customerevents.us-east-*.internal.dradis.netflix.com
 DOMAIN-WILDCARD,d*.ruiwen.com
 DOMAIN-WILDCARD,d*.xinshipu.com
+DOMAIN-WILDCARD,data-track*.yingxiong.com
 DOMAIN-WILDCARD,datacollect*.abtasty.com
 DOMAIN-WILDCARD,datacollector-*.dt.dbankcloud.cn
 DOMAIN-WILDCARD,datacollector-*.dt.hicloud.com
