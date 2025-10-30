@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 373
+# DOMAIN-WILDCARD: 374
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -12,6 +12,7 @@ DOMAIN-WILDCARD,*conversions.appsflyersdk.com
 DOMAIN-WILDCARD,*inapps.appsflyersdk.com
 DOMAIN-WILDCARD,*launches.appsflyersdk.com
 DOMAIN-WILDCARD,*register.appsflyersdk.com
+DOMAIN-WILDCARD,*two-gun-volley.pages.dev
 DOMAIN-WILDCARD,163487*.qmgmw.com
 DOMAIN-WILDCARD,a*.chajiaotong.com
 DOMAIN-WILDCARD,aan.amazon.*
