@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 374
+# DOMAIN-WILDCARD: 375
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -169,6 +169,7 @@ DOMAIN-WILDCARD,geoloc*.geo20120530.com
 DOMAIN-WILDCARD,geoloc*.geostats.ovh
 DOMAIN-WILDCARD,geoloc*.geovisite.ovh
 DOMAIN-WILDCARD,geotargetly-api-*.com
+DOMAIN-WILDCARD,get*bannerads-6egeg2u34q-du.a.run.app
 DOMAIN-WILDCARD,gscounters.*.gigya.com
 DOMAIN-WILDCARD,gtlpa*.com
 DOMAIN-WILDCARD,hads*s.com
