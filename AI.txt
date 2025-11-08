@@ -34,7 +34,6 @@
 .perplexity.ai
 .poe.com
 .proactivebackend-pa.googleapis.com
-.smoot.apple.com
 .sora.com
 .turn.livekit.cloud
 .x.ai
@@ -50,11 +49,9 @@ apple-relay.cloudflare.com
 apple-relay.fastly-edge.com
 browser-intake-datadoghq.com
 cdn.usefathom.com
-cp2.cloudflare.com
 cp4.cloudflare.com
 gateway.ai.cloudflare.com
 google.ws
-guzzoni.apple.com
 jules.google.com
 o33249.ingest.sentry.io
 openaiapi-site.azureedge.net
