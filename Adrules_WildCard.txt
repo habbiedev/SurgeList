@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 375
+# DOMAIN-WILDCARD: 376
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -322,6 +322,7 @@ DOMAIN-WILDCARD,tblog-*.kgslb.com
 DOMAIN-WILDCARD,telemetry*.transcend.io
 DOMAIN-WILDCARD,telemetry.*.pvp.net
 DOMAIN-WILDCARD,thezbpe5*.xyz
+DOMAIN-WILDCARD,tnc*.tiktokv.com
 DOMAIN-WILDCARD,tnc*.tiktokv.us
 DOMAIN-WILDCARD,tnc*.zijieapi.com
 DOMAIN-WILDCARD,tnc-va*.capcutapi.com
