@@ -42,6 +42,7 @@ ai.google.dev
 aida.googleapis.com
 aisandbox-pa.googleapis.com
 alkalicore-pa.clients6.google.com
+antigravity.google
 api.github.com
 api.jetbrains.ai
 browser-intake-datadoghq.com
