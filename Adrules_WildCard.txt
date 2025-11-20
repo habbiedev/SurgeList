@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 377
+# DOMAIN-WILDCARD: 378
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -314,6 +314,7 @@ DOMAIN-WILDCARD,static*.365inews.com
 DOMAIN-WILDCARD,stats*.credit-cooperatif.coop
 DOMAIN-WILDCARD,stats*.videonow.ru
 DOMAIN-WILDCARD,stats-*.p2pnow.ru
+DOMAIN-WILDCARD,stats.*.ronghub.com
 DOMAIN-WILDCARD,stats.*.rongnav.com
 DOMAIN-WILDCARD,stats2.*.fdnames.com
 DOMAIN-WILDCARD,stlog*-local.kakao.com
