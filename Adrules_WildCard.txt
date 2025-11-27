@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 379
+# DOMAIN-WILDCARD: 378
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -28,7 +28,6 @@ DOMAIN-WILDCARD,ad-*.amazonaws.com
 DOMAIN-WILDCARD,ad-*.appacc.dbankedge.cn
 DOMAIN-WILDCARD,ad.*.xiaomi.com
 DOMAIN-WILDCARD,ad.kisstvshow.*
-DOMAIN-WILDCARD,adblock*.static-cloudflare.workers.dev
 DOMAIN-WILDCARD,adcounter*.uptolike.ru
 DOMAIN-WILDCARD,adcs-*.myappsget.com
 DOMAIN-WILDCARD,adi*.cnool.net
