@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 383
+# DOMAIN-WILDCARD: 385
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -203,6 +203,7 @@ DOMAIN-WILDCARD,js*.abolezi.com
 DOMAIN-WILDCARD,js.*2023*.live
 DOMAIN-WILDCARD,js.*2023*.xyz
 DOMAIN-WILDCARD,jtbo*.nqxvevk.cn
+DOMAIN-WILDCARD,kbox-analytics-prod.s*.amazonaws.com
 DOMAIN-WILDCARD,ks-p2p*pull*com
 DOMAIN-WILDCARD,ky891.oss-*.aliyuncs.com
 DOMAIN-WILDCARD,lively-collect-elb-*.amazonaws.com
@@ -255,6 +256,7 @@ DOMAIN-WILDCARD,mon*.tiktokv.us
 DOMAIN-WILDCARD,mon-*.lemon8-app.com
 DOMAIN-WILDCARD,mon-*.lemon8-app.us
 DOMAIN-WILDCARD,mon-*.tiktokv.com
+DOMAIN-WILDCARD,mon-v*-boot.capcutapi.com
 DOMAIN-WILDCARD,mon-va*.capcutapi.com
 DOMAIN-WILDCARD,ms*.applvn.com
 DOMAIN-WILDCARD,mssdk*.capcutapi.com
