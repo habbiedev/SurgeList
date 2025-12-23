@@ -10,6 +10,7 @@ urls = [
 # Additional Google domains to be included
 google_domains = [
   "google.ws"
+  "chatgpt.com"
 ]
 
 # Set to store unique domains
