@@ -1,5 +1,3 @@
-
-# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ai-!cn
 .ai.com
 .aida.googleapis.com
 .aisandbox-pa.googleapis.com
@@ -48,6 +46,7 @@
 .gemini.google.com
 .generativeai.google
 .generativelanguage.googleapis.com
+.google.com
 .grok.com
 .grok.x.com
 .groq.com
@@ -96,10 +95,12 @@ antigravity.google
 api.github.com
 api.jetbrains.ai
 browser-intake-datadoghq.com
+chatgpt.com
 gateway.ai.cloudflare.com
-google.wschatgpt.com.google.com
+google.ws
 jules.google.com
 o33249.ingest.sentry.io
+openai
 openaiapi-site.azureedge.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicom.imgix.net
