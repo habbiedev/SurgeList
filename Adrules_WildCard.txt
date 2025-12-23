@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 385
+# DOMAIN-WILDCARD: 386
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -121,6 +121,7 @@ DOMAIN-WILDCARD,collect-elb-*.amazonaws.com
 DOMAIN-WILDCARD,collect-v*.51.la
 DOMAIN-WILDCARD,collector*.ex.co
 DOMAIN-WILDCARD,collector-*.luigisbox.com
+DOMAIN-WILDCARD,collector-*.perimeterx.net
 DOMAIN-WILDCARD,collector-*.protechts.net
 DOMAIN-WILDCARD,collector-*.px-cdn.net
 DOMAIN-WILDCARD,collector-*.px-client.net
