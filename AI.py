@@ -3,14 +3,14 @@ import requests
 # URLs to fetch domains from
 urls = [
   "https://ruleset.skk.moe/List/non_ip/ai.conf",
-  "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Claude/Claude.list",
-  "https://raw.githubusercontent.com/yuumimi/rules/release/surge/openai.txt"
+  "https://raw.githubusercontent.com/yuumimi/rules/refs/heads/release/surge/category-ai-!cn.txt"
 ]
 
 # Additional Google domains to be included
 google_domains = [
   "google.ws"
   "chatgpt.com"
+  ".google.com"
 ]
 
 # Set to store unique domains
