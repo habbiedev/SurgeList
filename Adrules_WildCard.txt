@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 386
+# DOMAIN-WILDCARD: 388
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -338,6 +338,8 @@ DOMAIN-WILDCARD,tnc*.zijieapi.com
 DOMAIN-WILDCARD,tnc-va*.capcutapi.com
 DOMAIN-WILDCARD,tnc16-*.byteoversea.com
 DOMAIN-WILDCARD,tnc16-*.hypic.com
+DOMAIN-WILDCARD,trace-*.hungrypanda.co
+DOMAIN-WILDCARD,track-*.hungrypanda.co
 DOMAIN-WILDCARD,track.*.roku.com
 DOMAIN-WILDCARD,tracking*.euroads.fi
 DOMAIN-WILDCARD,tracking-*.trnox.com
