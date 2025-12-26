@@ -66,7 +66,6 @@ lbs.netease.im
 live-trace.bilibili.com
 mam.netease.com
 message.bilibili.com
-mp.weixin.qq.com
 nga.178.com
 ngabbs.com
 nstool.netease.com
