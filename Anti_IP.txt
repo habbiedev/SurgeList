@@ -73,9 +73,6 @@ nstool.netease.com
 passport.bilibili.com
 ptlogin6.qidian.com
 sso.douyin.com
-szextshort.weixin.qq.com
-szminorshort.weixin.qq.com
-szshort.weixin.qq.com
 tb5.bdstatic.com
 tbmsg.baidu.com
 tieba.baidu.com
