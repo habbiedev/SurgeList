@@ -2,8 +2,7 @@ name: Anti-IP
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '06 21 * * *' 
+
 
 jobs:
   process-domains:
