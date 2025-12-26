@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 388
+# DOMAIN-WILDCARD: 389
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -312,6 +312,7 @@ DOMAIN-WILDCARD,sensorsdata*.read.duokan.com
 DOMAIN-WILDCARD,servo-report.keepstreams.*
 DOMAIN-WILDCARD,sock*-goguardian.pusher.com
 DOMAIN-WILDCARD,sonar*.xy.fbcdn.net
+DOMAIN-WILDCARD,spa-tracker*.spapi.io
 DOMAIN-WILDCARD,ssp*.rtb.beeline.ru
 DOMAIN-WILDCARD,st-*.dynamicyield.com
 DOMAIN-WILDCARD,staging-*.ispot.tv
