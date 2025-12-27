@@ -11,7 +11,9 @@ urls = [
 manual_domains = {
     "google.ws", 
     "chatgpt.com", 
-    ".google.com"
+    ".google.com",
+    ".withgoogle.com",
+    ".lmsudio.ai"
 }
 
 domain_set = set(manual_domains)
