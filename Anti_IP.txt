@@ -12,7 +12,6 @@
 .laiqukankan.com
 .lofter.com
 .mail.me.com
-.makima.online
 .music.126.net
 .music.163.com
 .music.163.com.163jiasu.com
@@ -66,12 +65,16 @@ lbs.netease.im
 live-trace.bilibili.com
 mam.netease.com
 message.bilibili.com
+mp.weixin.qq.com
 nga.178.com
 ngabbs.com
 nstool.netease.com
 passport.bilibili.com
 ptlogin6.qidian.com
 sso.douyin.com
+szextshort.weixin.qq.com
+szminorshort.weixin.qq.com
+szshort.weixin.qq.com
 tb5.bdstatic.com
 tbmsg.baidu.com
 tieba.baidu.com
