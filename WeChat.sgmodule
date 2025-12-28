@@ -1,0 +1,55 @@
+#!name = WeChat增强
+#!arguments=Proxy:你的策略组
+#!arguments-desc=Proxy:选择策略组，将微信&WeChat相关域名分流，直连请输入DIRECT，代理请输入你的策略组名 \n\nREAD ME:1.本模块内置有分流规则，因此无需另外添加分流，如之前有添加请去除，2.本模块使用需要在编辑参数里输入你现有且想让WeChat/微信域名走的策略组名
+
+[Rule]
+# 广告过滤
+DOMAIN-SUFFIX, wxs.qq.com, REJECT,extended-matching,pre-matching
+
+# 微信小程序通用规则
+DOMAIN,wxsnsdy.wxs.qq.com,REJECT,extended-matching,pre-matching
+DOMAIN,wxsmsdy.video.qq.com,REJECT,extended-matching,pre-matching
+DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT,extended-matching,pre-matching
+
+# WeChatpay
+DOMAIN-KEYWORD,wechatpay,DIRECT
+DOMAIN,epay.ahrcu.com,DIRECT
+DOMAIN,mixpay.wechat.com,DIRECT  
+
+# 使用参数中的 Proxy 策略组
+DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net,{{{Proxy}}}
+DOMAIN,btrace.qq.com,{{{Proxy}}}
+DOMAIN,dldir1.qq.com,{{{Proxy}}}
+DOMAIN,slife.xy-asia.com,{{{Proxy}}}
+DOMAIN,soup.v.qq.com,{{{Proxy}}}
+DOMAIN,vweixinf.tc.qq.com,{{{Proxy}}}
+DOMAIN,weixin110.qq.com,{{{Proxy}}}
+DOMAIN,wup.imtt.qq.com,{{{Proxy}}}
+DOMAIN-SUFFIX,iot-tencent.com,{{{Proxy}}}
+DOMAIN-SUFFIX,lbs.gtimg.com,{{{Proxy}}}
+DOMAIN-SUFFIX,map.qq.com,{{{Proxy}}}
+DOMAIN-SUFFIX,qlogo.cn,{{{Proxy}}}
+DOMAIN-SUFFIX,qpic.cn,{{{Proxy}}}
+DOMAIN-SUFFIX,servicewechat.com,{{{Proxy}}}
+DOMAIN-SUFFIX,tenpay.com, {{{Proxy}}}
+DOMAIN-SUFFIX,up-hl.3g.qq.com,{{{Proxy}}}
+DOMAIN-SUFFIX,vweixinthumb.tc.qq.com,{{{Proxy}}}
+DOMAIN-SUFFIX,wechat.com,{{{Proxy}}}
+DOMAIN-SUFFIX,wechatlegal.net,{{{Proxy}}}
+DOMAIN-SUFFIX,wechatos.net,{{{Proxy}}}
+DOMAIN-SUFFIX,weixin.com,{{{Proxy}}}
+DOMAIN-SUFFIX,weixin.qq.com,{{{Proxy}}}
+DOMAIN-SUFFIX,weixinbridge.com,{{{Proxy}}}
+DOMAIN-SUFFIX,weixinsxy.com,{{{Proxy}}}
+DOMAIN-SUFFIX,wx.gtimg.com,{{{Proxy}}}
+DOMAIN-SUFFIX,wx.qq.com,{{{Proxy}}}
+DOMAIN-SUFFIX,wxapp.tc.qq.com,{{{Proxy}}}
+DOMAIN-SUFFIX,wxs.qq.com,{{{Proxy}}}
+DOMAIN-SUFFIX,yun-hl.3g.qq.com,{{{Proxy}}}
+USER-AGENT,MicroMessenger*,{{{Proxy}}}
+USER-AGENT,WeChat*,{{{Proxy}}}
+IP-ASN,132203,{{{Proxy}}}, no-resolve
+
+
+[MITM]
+hostname = %APPEND% mp.weixin.qq.com, weixin110.qq.com, security.wechat.com 
