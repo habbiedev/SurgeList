@@ -93,11 +93,13 @@ aida.googleapis.com
 aisandbox-pa.googleapis.com
 alkalicore-pa.clients6.google.com
 alkalimakersuite-pa.clients6.google.com
+antigravity-unleash.goog
 antigravity.google
 api.github.com
 api.jetbrains.ai
 browser-intake-datadoghq.com
 chatgpt.com
+daily-cloudcode-pa.googleapis.com
 gateway.ai.cloudflare.com
 google.ws
 jules.google.com
