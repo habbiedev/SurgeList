@@ -354,4 +354,5 @@ DOMAIN-SUFFIX,yun-hl.3g.qq.com
 USER-AGENT,WeChat*
 USER-AGENT,MicroMessenger*
 
-DOMAIN-SUFFIX,lilyemby.my
+DOMAIN,smart.uhdnow.com
+DOMAIN,smart2.uhdnow.com
