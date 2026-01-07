@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 388
+# DOMAIN-WILDCARD: 391
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -224,6 +224,7 @@ DOMAIN-WILDCARD,log-*.previewnetworks.com
 DOMAIN-WILDCARD,log-*.zadn.vn
 DOMAIN-WILDCARD,log-va*.capcutapi.com
 DOMAIN-WILDCARD,logger-*.dailymotion.com
+DOMAIN-WILDCARD,logreport-global-dual.cool*cloud.com
 DOMAIN-WILDCARD,logs-*.rebxgame.com
 DOMAIN-WILDCARD,logservice-*.platform.dbankcloud.cn
 DOMAIN-WILDCARD,lt*.tritondigital.com
@@ -368,8 +369,10 @@ DOMAIN-WILDCARD,v*-ad.video.yximgs.com
 DOMAIN-WILDCARD,v*.denakop.com
 DOMAIN-WILDCARD,vns86.oss-*.aliyuncs.com
 DOMAIN-WILDCARD,w*.*skwai.com
+DOMAIN-WILDCARD,weblogger-wss.cool*cloud.com
 DOMAIN-WILDCARD,widgets.*.webengage.com
 DOMAIN-WILDCARD,ws-p2p*pull*com
+DOMAIN-WILDCARD,wslog-global-dual.cool*cloud.com
 DOMAIN-WILDCARD,www.xxmh*.com
 DOMAIN-WILDCARD,xlog*-*.tiktokv.com
 DOMAIN-WILDCARD,xy-*pcdn.msstatic.com
