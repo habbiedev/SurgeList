@@ -41,6 +41,7 @@
 .duck.ai
 .elevenlabs.com
 .elevenlabs.io
+.g.ai
 .gateway.ai.cloudflare.com
 .geller-pa.googleapis.com
 .gemini.google
