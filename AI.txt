@@ -61,6 +61,7 @@
 .jules.google.com
 .kiro.dev
 .labs.google
+.labs.google.com
 .lmsudio.ai
 .makersuite.google.com
 .marscode.com
