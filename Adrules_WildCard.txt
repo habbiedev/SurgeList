@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 398
+# DOMAIN-WILDCARD: 395
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -22,7 +22,6 @@ DOMAIN-WILDCARD,ac*.pingguolv.com
 DOMAIN-WILDCARD,acr-*-prd.samsungcloud.tv
 DOMAIN-WILDCARD,ad*.ettoday.net
 DOMAIN-WILDCARD,ad*.nexage.com
-DOMAIN-WILDCARD,ad*.on.cc
 DOMAIN-WILDCARD,ad*.zonaplus.tv
 DOMAIN-WILDCARD,ad-*.amazonaws.com
 DOMAIN-WILDCARD,ad-*.appacc.dbankedge.cn
@@ -358,7 +357,6 @@ DOMAIN-WILDCARD,trk*.vidible.tv
 DOMAIN-WILDCARD,ts-p2p*pull*com
 DOMAIN-WILDCARD,tupian888.*.bcebos.com
 DOMAIN-WILDCARD,tw*.netcore.co.in
-DOMAIN-WILDCARD,tw-726620180914.*.run.app
 DOMAIN-WILDCARD,ubacollect-*.cloud.dbankcloud.cn
 DOMAIN-WILDCARD,uc*.atobo.com
 DOMAIN-WILDCARD,ulog*.*
@@ -391,7 +389,6 @@ DOMAIN-WILDCARD,zaqlovh*.xyz
 DOMAIN-WILDCARD,zazgbqg*.xyz
 DOMAIN-WILDCARD,zazgiyoh*.world
 DOMAIN-WILDCARD,zazgiyoh*.xyz
-DOMAIN-WILDCARD,zbb.bbb.*.pics
 DOMAIN-WILDCARD,zbc6hy*.live
 DOMAIN-WILDCARD,zbc6hye*.xyz
 DOMAIN-WILDCARD,zcchyr*.xyz
