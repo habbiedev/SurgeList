@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 395
+# DOMAIN-WILDCARD: 394
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -356,7 +356,6 @@ DOMAIN-WILDCARD,trck.*.prod-na.turntable.sonic.advertising.amazon.dev
 DOMAIN-WILDCARD,trk*.vidible.tv
 DOMAIN-WILDCARD,ts-p2p*pull*com
 DOMAIN-WILDCARD,tupian888.*.bcebos.com
-DOMAIN-WILDCARD,tw*.netcore.co.in
 DOMAIN-WILDCARD,ubacollect-*.cloud.dbankcloud.cn
 DOMAIN-WILDCARD,uc*.atobo.com
 DOMAIN-WILDCARD,ulog*.*
