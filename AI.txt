@@ -51,6 +51,7 @@
 .gemini.google.com
 .generativeai.google
 .generativelanguage.googleapis.com
+.githubcopilot.com
 .google.com
 .grok.com
 .grok.x.com
