@@ -21,6 +21,8 @@
 .claudeusercontent.com
 .clipdrop.co
 .cloudcode-pa.googleapis.com
+.codeium.com
+.codeiumdata.com
 .coderabbit.ai
 .coderabbit.gallery.vsassets.io
 .cohere.ai
@@ -70,6 +72,8 @@
 .lmsudio.ai
 .lpsnmedia.net
 .makersuite.google.com
+.manus.im
+.manuscdn.com
 .marscode.com
 .meta.ai
 .mistral.ai
@@ -94,6 +98,8 @@
 .sora.com
 .trae.ai
 .turn.livekit.cloud
+.windsurf.build
+.windsurf.com
 .withgoogle.com
 .x.ai
 .youmind.ai
