@@ -337,7 +337,7 @@ DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,wx.gtimg.com
 DOMAIN-SUFFIX,wx.qq.com
 DOMAIN-SUFFIX,wxs.qq.com
-
+DOMAIN-SUFFIX,cdn.lilyemby.com
 # Device positioning
 DOMAIN-SUFFIX,analytics.map.qq.com
 DOMAIN-SUFFIX,apis.map.qq.com
