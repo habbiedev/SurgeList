@@ -134,6 +134,7 @@ openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
 openrouter.ai
+ppl-ai-file-upload.s3.amazonaws.com
 pplx-res.cloudinary.com
 production-openaicom-storage.azureedge.net
 robinfrontend-pa.googleapis.com
