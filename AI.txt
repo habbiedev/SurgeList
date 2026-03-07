@@ -71,6 +71,7 @@
 .labs.google.com
 .liveperson.net
 .lmsudio.ai
+.lovart.ai
 .lpsnmedia.net
 .makersuite.google.com
 .manus.im
