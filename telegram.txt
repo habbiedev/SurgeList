@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Telegram IP CIDR
-# Last Updated: 2025-11-28T12:47:56.768Z
+# Last Updated: 2026-03-10T14:56:43.428Z
 # Size: 18
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -29,11 +29,9 @@ IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
-################## EOF ##################
-
-#########################################
+################## EOF ###########################################################
 # Sukka's Ruleset - Telegram Domains
-# Last Updated: 2025-07-21T08:09:50.409Z
+# Last Updated: 2026-03-10T14:56:40.495Z
 # Size: 15
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -57,4 +55,3 @@ DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,t.me
 ################## EOF ##################
-
