@@ -55,7 +55,6 @@
 .generativeai.google
 .generativelanguage.googleapis.com
 .githubcopilot.com
-.google.com
 .grok.com
 .grok.x.com
 .groq.com
@@ -160,3 +159,9 @@ optimizationguide-pa.googleapis.com
 content-autofill.googleapis.com
 .google-analytics.com
 analytics.google.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
