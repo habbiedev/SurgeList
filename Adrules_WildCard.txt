@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 397
+# DOMAIN-WILDCARD: 399
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -25,7 +25,9 @@ DOMAIN-WILDCARD,ad*.nexage.com
 DOMAIN-WILDCARD,ad*.zonaplus.tv
 DOMAIN-WILDCARD,ad-*.amazonaws.com
 DOMAIN-WILDCARD,ad-*.appacc.dbankedge.cn
+DOMAIN-WILDCARD,ad-host-backup-*.*.aliyuncs.com
 DOMAIN-WILDCARD,ad-host-backup-*.aliyuncs.com
+DOMAIN-WILDCARD,ad-host-backup-*.s3.*.aliyuncs.com
 DOMAIN-WILDCARD,ad.*.360.cn
 DOMAIN-WILDCARD,ad.*.xiaomi.com
 DOMAIN-WILDCARD,ad.kisstvshow.*
