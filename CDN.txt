@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-16T17:52:30.074Z
-# Size: 4406
+# Last Updated: 2026-03-17T17:51:36.569Z
+# Size: 4408
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -78,6 +78,7 @@ jssdk.opin.media
 .icon.horse
 global-assets.fitch.group
 node.green
+tomshardware-data.community.forum
 assets.buttondown.email
 .ipfs-gateway.cloud
 .dreamscape.cloud
@@ -2593,6 +2594,7 @@ cdn.quadpay.com
 image.prntscr.com
 st.prntscr.com
 cdn.privacy.com
+app-static-prod.posthog.com
 app-static.eu.posthog.com
 us-assets.i.posthog.com
 eu-assets.i.posthog.com
@@ -4417,8 +4419,8 @@ rules.ac
 
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2026-03-16T17:52:30.074Z
-# Size: 1896
+# Last Updated: 2026-03-17T17:51:36.569Z
+# Size: 1899
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4555,6 +4557,7 @@ versioncheck.addons.mozilla.org
 aus5.mozilla.org
 .mirrors.ionfish.org
 mirrors.ibiblio.org
+.files.ghostty.org
 mirror.freedif.org
 distcache.freebsd.org
 ftp.kr.freebsd.org
@@ -5003,6 +5006,7 @@ mirror.softaculous.com
 mirror.scaleuptech.com
 ubuntu.rootlicense.com
 downloads.raspberrypi.com
+archive.raspberrypi.com
 mirrors.rackhosting.com
 mirror.nodesdirect.com
 mirrors.nepalicloud.com
@@ -5602,6 +5606,7 @@ download.xbox.com
 .mirrors.pair.com
 cpan.pair.com
 cdnorg.d.miui.com
+download01.logi.com
 cdn.kagi.com
 .mirror.iweb.com
 edgedl.me.gvt1.com
