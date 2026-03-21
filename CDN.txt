@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-03-20T17:28:19.894Z
-# Size: 4412
+# Last Updated: 2026-03-21T17:16:48.868Z
+# Size: 4411
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2452,7 +2452,6 @@ static-2.bitchute.com
 static-1.bitchute.com
 bcmedia.bitchute.com
 .bgstatic.com
-cdn1.bambulab.com
 .badoocdn.com
 assets.awwwards.com
 cdn.accounts.autodesk.com
@@ -4423,8 +4422,8 @@ rules.ac
 
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2026-03-20T17:28:19.894Z
-# Size: 1902
+# Last Updated: 2026-03-21T17:16:48.868Z
+# Size: 1904
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -5098,6 +5097,7 @@ mcr.microsoft.com
 mirrors.liquidweb.com
 packages.linuxmint.com
 download-cdn.jetbrains.com
+downloads.marketplace.jetbrains.com
 download.jetbrains.com
 cdn.hyperbeam.com
 .releases.hashicorp.com
@@ -5996,6 +5996,7 @@ dl-portal.iina.io
 dl.iina.io
 .ghcr.io
 .file.io
+dl.min.io
 .k8s.io
 npm.jsr.io
 .gcr.io
