@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 400
+# DOMAIN-WILDCARD: 402
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -226,6 +226,7 @@ DOMAIN-WILDCARD,log*.byteoversea.com
 DOMAIN-WILDCARD,log*.vietnamplus.vn
 DOMAIN-WILDCARD,log*.zijieapi.com
 DOMAIN-WILDCARD,log-*.epicdn.me
+DOMAIN-WILDCARD,log-*.isnssdk.com
 DOMAIN-WILDCARD,log-*.previewnetworks.com
 DOMAIN-WILDCARD,log-*.zadn.vn
 DOMAIN-WILDCARD,log-v*-boot.capcutapi.com
@@ -281,6 +282,7 @@ DOMAIN-WILDCARD,p26.gejulm*.com
 DOMAIN-WILDCARD,p2pup*.gamedl.qq.com
 DOMAIN-WILDCARD,pangolin-sdk-toutiao*.com
 DOMAIN-WILDCARD,pijama.*.elasticbeanstalk.com
+DOMAIN-WILDCARD,ping*.bidease.com
 DOMAIN-WILDCARD,ping*.qq.com
 DOMAIN-WILDCARD,piwik.*.vn
 DOMAIN-WILDCARD,pixel*.production-public.tubi.io
