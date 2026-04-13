@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 402
+# DOMAIN-WILDCARD: 404
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -31,6 +31,7 @@ DOMAIN-WILDCARD,ad-host-backup-*.s3.*.aliyuncs.com
 DOMAIN-WILDCARD,ad.*.360.cn
 DOMAIN-WILDCARD,ad.*.xiaomi.com
 DOMAIN-WILDCARD,ad.kisstvshow.*
+DOMAIN-WILDCARD,adapi*.boomplaymusic.com
 DOMAIN-WILDCARD,adcounter*.uptolike.ru
 DOMAIN-WILDCARD,adcs-*.myappsget.com
 DOMAIN-WILDCARD,adi*.cnool.net
@@ -222,6 +223,7 @@ DOMAIN-WILDCARD,log*-normal-*.tiktokv.us
 DOMAIN-WILDCARD,log*-normal-lq.toutiaoapi.com
 DOMAIN-WILDCARD,log*-normal-useast1a.lemon8-app.com
 DOMAIN-WILDCARD,log*.aliyuncs.com
+DOMAIN-WILDCARD,log*.boomplaymusic.com
 DOMAIN-WILDCARD,log*.byteoversea.com
 DOMAIN-WILDCARD,log*.vietnamplus.vn
 DOMAIN-WILDCARD,log*.zijieapi.com
