@@ -356,3 +356,4 @@ USER-AGENT,MicroMessenger*
 
 DOMAIN,smart.uhdnow.com
 DOMAIN,smart2.uhdnow.com
+DOMAIN-SUFFIX,uhdnow.online
