@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 406
+# DOMAIN-WILDCARD: 408
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -119,6 +119,7 @@ DOMAIN-WILDCARD,cdn-adn-*.rayjump.com
 DOMAIN-WILDCARD,ce-global-track-*.amazonaws.com
 DOMAIN-WILDCARD,chat*-ce.chatdealer.jp
 DOMAIN-WILDCARD,cj1*.online
+DOMAIN-WILDCARD,clickhouse-collector.*.prod.plat.agency
 DOMAIN-WILDCARD,clickstream-*.homedepot.com
 DOMAIN-WILDCARD,client.rum.*.amazonaws.com
 DOMAIN-WILDCARD,clog*.yuanfudao.com
@@ -253,6 +254,7 @@ DOMAIN-WILDCARD,mcdp-*.outbrain.com
 DOMAIN-WILDCARD,mcs-*.lemon8-app.com
 DOMAIN-WILDCARD,mcs-*.lemon8-app.us
 DOMAIN-WILDCARD,mcs-*.tiktok.com
+DOMAIN-WILDCARD,mcs-normal-*.capcutapi.com
 DOMAIN-WILDCARD,mcs-va-*.tiktokv.com
 DOMAIN-WILDCARD,mcs.*.tiktok.com
 DOMAIN-WILDCARD,mcs.*.tiktokv.com
