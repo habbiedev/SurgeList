@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-06-23T12:52:02.130Z
-# Size: 4517
+# Last Updated: 2026-06-24T05:48:35.635Z
+# Size: 4523
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -312,6 +312,7 @@ play.publicradio.org
 .tile.opentopomap.org
 covers.openlibrary.org
 tiles.openfreemap.org
+dlstats.izzyondroid.org
 media.hentaifreak.org
 .ipfs.genenetwork.org
 ximage.c-spanvideo.org
@@ -1537,6 +1538,8 @@ media.gettyimages.com
 .cdn.getfeedback.com
 assets.gemcommerce.com
 .gauthstatic.com
+static.fundraiseup.com
+cdn.fundraiseup.com
 stories.freepiklabs.com
 static.foxbusiness.com
 use.fortawesome.com
@@ -1901,6 +1904,7 @@ assets.zerohedge.com
 .xdaimages.com
 cdn.scripts.wtwhmedia.com
 .wowmodels.com
+.workoscdn.com
 hhhhhhome86227170.wordpress.com
 jetpack.wordpress.com
 .files.wordpress.com
@@ -2947,6 +2951,7 @@ cdn.xvidzz.com
 img.xhacgn.com
 img.xbooru.com
 website-prod.cache.wpscdn.com
+frontend-apps-multi-region.workos.com
 frontend-apps.workos.com
 .cdn.workos.com
 .wklcdn.com
@@ -4173,6 +4178,7 @@ cdn.pagefly.io
 favicons.nextdns.io
 cdn.logbase.io
 media.lantern.io
+embed.lantern.io
 cdn.ipwhois.io
 .ipfscdn.io
 cdn.icomoon.io
@@ -4527,8 +4533,8 @@ bot.ivy.ai
 rules.ac
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2026-06-23T12:52:02.131Z
-# Size: 1951
+# Last Updated: 2026-06-24T05:48:35.636Z
+# Size: 1954
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4657,6 +4663,7 @@ ciscobinary.openh264.org
 cpan.metacpan.org
 ubuntu.linux-bg.org
 repo.debiancn.org
+packages.codeberg.org
 .artfiles.org
 tukaani.org
 s3.teckids.org
@@ -5194,6 +5201,7 @@ desktop.parallels.com
 update.parallels.com
 .mirrors.omnilance.com
 mirror.nevacloud.com
+store.nethunter.com
 mirror.navercorp.com
 ubuntu.mobinhost.com
 mirrors.mivocloud.com
@@ -6302,6 +6310,7 @@ ftp.fu-berlin.de
 mirrors.ae-online.de
 ftp.stw-bonn.de
 mirror.liquidrp.de
+apt.izzysoft.de
 mirror.informatik.hs-fulda.de
 debian.charite.de
 mirror.23media.de
