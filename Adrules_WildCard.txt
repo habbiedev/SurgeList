@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 407
+# DOMAIN-WILDCARD: 408
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -342,6 +342,7 @@ DOMAIN-WILDCARD,stats*.videonow.ru
 DOMAIN-WILDCARD,stats-*.p2pnow.ru
 DOMAIN-WILDCARD,stats.*.ronghub.com
 DOMAIN-WILDCARD,stats.*.rongnav.com
+DOMAIN-WILDCARD,stats.mapple.*
 DOMAIN-WILDCARD,stats2.*.fdnames.com
 DOMAIN-WILDCARD,stlog*-local.kakao.com
 DOMAIN-WILDCARD,stun.*.kugou.com
