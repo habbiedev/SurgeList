@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 410
+# DOMAIN-WILDCARD: 409
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -86,7 +86,6 @@ DOMAIN-WILDCARD,api*.batmobi.net
 DOMAIN-WILDCARD,api*.batmobil.net
 DOMAIN-WILDCARD,api*.bidmachine.io
 DOMAIN-WILDCARD,api*.moengage.com
-DOMAIN-WILDCARD,api-*.bidmachine.io
 DOMAIN-WILDCARD,api-*.hismarttv.com
 DOMAIN-WILDCARD,api16-access-ttp*.tiktokpangle-b.us
 DOMAIN-WILDCARD,apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com
