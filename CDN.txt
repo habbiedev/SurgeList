@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2026-08-02T09:45:05.519Z
-# Size: 4569
+# Last Updated: 2026-08-03T18:48:53.004Z
+# Size: 4571
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #
-# $content-hash-v1$:Po1lBS34OEKNjwYal5wnlVKueUwZSSjKv-9DcLUrwDs$
+# $content-hash-v1$:Cn1d3H9mJ8Zdcgjz1umFHk9hoPVsViueDx66UsEyaSw$
 #########################################
 7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 0x0.st
@@ -3760,6 +3760,7 @@ vte-eu.readspeaker.com
 weather.istatmenus.app
 web-assets.zendesk.com
 web-static.archive.org
+webdist.data.apnic.net
 website-media.deel.com
 widget.prod.equally.ai
 widgets.automizely.com
@@ -3953,6 +3954,7 @@ assets.geeksforgeeks.org
 assets.nationbuilder.com
 assets.prowritingaid.com
 assets.static-upwork.com
+assets.trainingpeaks.com
 assets10.lottiefiles.com
 atl-global.atlassian.com
 axiecdn.axieinfinity.com
@@ -4581,15 +4583,15 @@ net-fe-static-assets.network-controller.svc.ui.com
 s3-figma-force-client-reloads-production.figma.com
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2026-07-31T17:36:02.648Z
-# Size: 1966
+# Last Updated: 2026-08-03T13:00:57.303Z
+# Size: 1968
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains for software updating & large file hosting.
 #
-# $content-hash-v1$:q5eKLlUMAiB-sQYKXsIZcAKa2PXzbQHh-R1uuDLx1ys$
+# $content-hash-v1$:PpuSDqjOiJihJZ4Mlhgj73Rto5BBtL1bxIWvPLmAPjM$
 #########################################
 7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 .gcr.io
@@ -4832,6 +4834,7 @@ disks.webvm.io
 dl.devmate.com
 dl.flathub.org
 dl.nssurge.com
+dl.pikpak.site
 dl2.osmand.net
 dl3.osmand.net
 dl4.osmand.net
@@ -5997,6 +6000,7 @@ mirrors.middlendian.com
 mirrors.nepalicloud.com
 mirrors.powernet.com.ru
 mirrors.rackhosting.com
+node-registry.bit.cloud
 omtmapupdate.garmin.com
 packages.virtfusion.net
 packagespc.xboxlive.com
