@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 409
+# DOMAIN-WILDCARD: 410
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -349,6 +349,7 @@ DOMAIN-WILDCARD,stlog*-local.kakao.com
 DOMAIN-WILDCARD,stun.*.kugou.com
 DOMAIN-WILDCARD,t*.playdigo.live
 DOMAIN-WILDCARD,t*.zcvh.net
+DOMAIN-WILDCARD,tag-v*.kuzen.io
 DOMAIN-WILDCARD,tblog-*.kgslb.com
 DOMAIN-WILDCARD,telemetry*.transcend.io
 DOMAIN-WILDCARD,telemetry.*.pvp.net
