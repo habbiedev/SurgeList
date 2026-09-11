@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 410
+# DOMAIN-WILDCARD: 411
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -381,6 +381,7 @@ DOMAIN-WILDCARD,ulog*.kwaipros.com
 DOMAIN-WILDCARD,ulog-*.ksapisrv.com
 DOMAIN-WILDCARD,ulog.*.ksapisrv.com
 DOMAIN-WILDCARD,ulog.*.kwai-pro.com
+DOMAIN-WILDCARD,umami-*.sufrah.net
 DOMAIN-WILDCARD,union*.365inews.com
 DOMAIN-WILDCARD,us.*.qwadro.com
 DOMAIN-WILDCARD,use-trk*.bluevoox.com
