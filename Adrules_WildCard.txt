@@ -27,7 +27,7 @@ DOMAIN-WILDCARD,ad-*.amazonaws.com
 DOMAIN-WILDCARD,ad-*.appacc.dbankedge.cn
 DOMAIN-WILDCARD,ad-host-backup-*.*.aliyuncs.com
 DOMAIN-WILDCARD,ad-host-backup-*.aliyuncs.com
-DOMAIN-WILDCARD,ad-host-backup-*.s3.*.aliyuncs.com
+DOMAIN-WILDCARD,ad-host-backup-*.s3.*.amazonaws.com
 DOMAIN-WILDCARD,ad.*.360.cn
 DOMAIN-WILDCARD,ad.*.xiaomi.com
 DOMAIN-WILDCARD,ad.kisstvshow.*
