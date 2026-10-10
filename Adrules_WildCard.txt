@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 412
+# DOMAIN-WILDCARD: 409
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -93,7 +93,6 @@ DOMAIN-WILDCARD,app-analytics-*.snapchat.com
 DOMAIN-WILDCARD,appanalysis*.banggood.com
 DOMAIN-WILDCARD,apple-*.le.com
 DOMAIN-WILDCARD,applog*.matrix.easebar.com
-DOMAIN-WILDCARD,asd8900.oss-*.aliyuncs.com
 DOMAIN-WILDCARD,at*.doubanio.com
 DOMAIN-WILDCARD,attr-logs.*.amazonaws.com
 DOMAIN-WILDCARD,auth-*.hismarttv.com
@@ -214,7 +213,6 @@ DOMAIN-WILDCARD,js.*2023*.live
 DOMAIN-WILDCARD,js.*2023*.xyz
 DOMAIN-WILDCARD,jtbo*.nqxvevk.cn
 DOMAIN-WILDCARD,kbox-analytics-prod.s*.amazonaws.com
-DOMAIN-WILDCARD,ky891.oss-*.aliyuncs.com
 DOMAIN-WILDCARD,lively-collect-elb-*.amazonaws.com
 DOMAIN-WILDCARD,liveme-sensors-collect2-*.amazonaws.com
 DOMAIN-WILDCARD,livetracker.*.pangea-cms.com
@@ -389,7 +387,6 @@ DOMAIN-WILDCARD,util-*.simply-hentai.com
 DOMAIN-WILDCARD,v*-ad.video.yximgs.com
 DOMAIN-WILDCARD,v*.denakop.com
 DOMAIN-WILDCARD,valentine.xhamster.*
-DOMAIN-WILDCARD,vns86.oss-*.aliyuncs.com
 DOMAIN-WILDCARD,w*.*skwai.com
 DOMAIN-WILDCARD,weblogger-wss.cool*cloud.com
 DOMAIN-WILDCARD,widgets.*.webengage.com
