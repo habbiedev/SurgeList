@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 410
+# DOMAIN-WILDCARD: 409
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -171,7 +171,6 @@ DOMAIN-WILDCARD,firebaselogging-*.googleapis.com
 DOMAIN-WILDCARD,flurry.agentportal-*.yahoodns.net
 DOMAIN-WILDCARD,flurry.agentportal.*.yahoodns.net
 DOMAIN-WILDCARD,fp-*it*.fengkongcloud.com
-DOMAIN-WILDCARD,fpb*.51edu.com
 DOMAIN-WILDCARD,fra-*.braze.eu
 DOMAIN-WILDCARD,gads*s.com
 DOMAIN-WILDCARD,gads*z.com
