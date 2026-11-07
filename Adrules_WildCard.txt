@@ -1,4 +1,4 @@
-# DOMAIN-WILDCARD: 409
+# DOMAIN-WILDCARD: 408
 DOMAIN-WILDCARD,*-ad-sign.byteimg.com
 DOMAIN-WILDCARD,*-ad.a.yximgs.com
 DOMAIN-WILDCARD,*-applog.fqnovel.com
@@ -208,7 +208,6 @@ DOMAIN-WILDCARD,iptracker-lb-*.amazonaws.com
 DOMAIN-WILDCARD,ir-new-cdn-eu-west-*-hb.rayjump.com
 DOMAIN-WILDCARD,ja*.apppure.net
 DOMAIN-WILDCARD,ja*.gamersky.com
-DOMAIN-WILDCARD,js*.abolezi.com
 DOMAIN-WILDCARD,js.*2023*.live
 DOMAIN-WILDCARD,js.*2023*.xyz
 DOMAIN-WILDCARD,jtbo*.nqxvevk.cn
